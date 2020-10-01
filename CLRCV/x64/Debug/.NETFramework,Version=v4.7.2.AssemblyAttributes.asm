@@ -22,7 +22,7 @@
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x8709DB1).class (token:0x8709DB3)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x893BAB1).class (token:0x893BAB3)
 
 ;	.proc.beg
 
