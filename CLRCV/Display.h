@@ -283,6 +283,8 @@ private: System::Void examinate_Click(System::Object^ sender, System::EventArgs^
 private: System::Void Display_Load(System::Object^ sender, System::EventArgs^ e) {
 }
 private: System::Void processBtn_Click(System::Object^ sender, System::EventArgs^ e) {
+	prev_hist = nullptr;
+	res_hist = nullptr;
 	if (configsBX->SelectedIndex == 0) { //Equalize
 		srcPanel->CreateGraphics()->DrawImage(gcnew Bitmap(image_path->Text), srcPanel->ClientRectangle);
 		histEQ(image_path->Text, prev_hist, res_hist);

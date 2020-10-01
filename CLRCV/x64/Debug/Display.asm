@@ -629,7 +629,7 @@ $SG286138:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x722A031).class (token:0x722A033)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F5A031).class (token:0x6F5A033)
 
 ;	.proc.beg
 
@@ -694,7 +694,7 @@ $SG286138:
 ; 0 handlers, each consisting of filtered handlers
 
 ;	.formal.i8 0,"_S1$" SIG: ptr.char
-;	.formal.i8 1,"_S2$" SIG: ptr.Optional C Binding Modifier(token:0x719A7C2).char
+;	.formal.i8 1,"_S2$" SIG: ptr.Optional C Binding Modifier(token:0x6ECA7C2).char
 ;	.formal.u8 2,"_N$" SIG: u8
 ;	.local.i8 0,"$T2" SIG: ptr.char
 
@@ -822,8 +822,8 @@ $SG286138:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72462F1).Optional C Binding Modifier(token:0x72462F3).ptr.valueType (token:0x72462F6)
-;	.formal.i8 1,"_Message$" SIG: Optional C Binding Modifier(token:0x7205699).Optional C Binding Modifier(token:0x720569B).ptr.Optional C Binding Modifier(token:0x720569E).Optional C Binding Modifier(token:0x72056A0).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F762F1).Optional C Binding Modifier(token:0x6F762F3).ptr.valueType (token:0x6F762F6)
+;	.formal.i8 1,"_Message$" SIG: Optional C Binding Modifier(token:0x6F35699).Optional C Binding Modifier(token:0x6F3569B).ptr.Optional C Binding Modifier(token:0x6F3569E).Optional C Binding Modifier(token:0x6F356A0).i1
 
 ;	.proc.beg
 
@@ -877,8 +877,8 @@ $SG286138:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72462F1).Optional C Binding Modifier(token:0x72462F3).ptr.valueType (token:0x72462F6)
-;	.formal.i8 1,"_Other$" SIG: Optional C Binding Modifier(token:0x72D0E61).ptr.Optional C Binding Modifier(token:0x72D0E64).valueType (token:0x72D0E66)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F762F1).Optional C Binding Modifier(token:0x6F762F3).ptr.valueType (token:0x6F762F6)
+;	.formal.i8 1,"_Other$" SIG: Optional C Binding Modifier(token:0x7000E61).ptr.Optional C Binding Modifier(token:0x7000E64).valueType (token:0x7000E66)
 
 ;	.proc.beg
 
@@ -955,7 +955,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72462F1).Optional C Binding Modifier(token:0x72462F3).ptr.valueType (token:0x72462F6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F762F1).Optional C Binding Modifier(token:0x6F762F3).ptr.valueType (token:0x6F762F6)
 
 ;	.proc.beg
 
@@ -1044,8 +1044,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7227989).Optional C Binding Modifier(token:0x722798B).ptr.valueType (token:0x722798E)
-;	.formal.i8 1,"_Message$" SIG: Optional C Binding Modifier(token:0x7205699).Optional C Binding Modifier(token:0x720569B).ptr.Optional C Binding Modifier(token:0x720569E).Optional C Binding Modifier(token:0x72056A0).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F57989).Optional C Binding Modifier(token:0x6F5798B).ptr.valueType (token:0x6F5798E)
+;	.formal.i8 1,"_Message$" SIG: Optional C Binding Modifier(token:0x6F35699).Optional C Binding Modifier(token:0x6F3569B).ptr.Optional C Binding Modifier(token:0x6F3569E).Optional C Binding Modifier(token:0x6F356A0).i1
 
 ;	.proc.beg
 
@@ -1091,7 +1091,7 @@ $LN5@bad_alloc:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7227989).Optional C Binding Modifier(token:0x722798B).ptr.valueType (token:0x722798E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F57989).Optional C Binding Modifier(token:0x6F5798B).ptr.valueType (token:0x6F5798E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -1171,7 +1171,7 @@ $LN5@bad_alloc:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x721D701).Optional C Binding Modifier(token:0x721D703).ptr.valueType (token:0x721D706)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F4D701).Optional C Binding Modifier(token:0x6F4D703).ptr.valueType (token:0x6F4D706)
 
 ;	.proc.beg
 
@@ -1220,7 +1220,7 @@ $LN5@bad_array_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71753A9).Optional C Binding Modifier(token:0x71753AB).ptr.valueType (token:0x71753AE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA53A9).Optional C Binding Modifier(token:0x6EA53AB).ptr.valueType (token:0x6EA53AE)
 
 ;	.proc.beg
 
@@ -1252,8 +1252,8 @@ $LN5@bad_array_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71753A9).Optional C Binding Modifier(token:0x71753AB).ptr.valueType (token:0x71753AE)
-;	.formal.i8 1,"_Rhs$" SIG: Optional C Binding Modifier(token:0x7256CA1).ptr.Optional C Binding Modifier(token:0x7256CA4).valueType (token:0x7256CA6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA53A9).Optional C Binding Modifier(token:0x6EA53AB).ptr.valueType (token:0x6EA53AE)
+;	.formal.i8 1,"_Rhs$" SIG: Optional C Binding Modifier(token:0x6F86CA1).ptr.Optional C Binding Modifier(token:0x6F86CA4).valueType (token:0x6F86CA6)
 
 ;	.proc.beg
 
@@ -1352,7 +1352,7 @@ _CT??_R0?AVbad_array_new_length@std@@@8??0bad_array_new_length@std@@$$FQEAA@AEBV
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.mb24  0,"$T2" SIG: valueType (token:0x7179C61)
+;	.local.mb24  0,"$T2" SIG: valueType (token:0x6EA9C61)
 
 ;	.proc.beg
 
@@ -1387,8 +1387,8 @@ _CT??_R0?AVbad_array_new_length@std@@@8??0bad_array_new_length@std@@$$FQEAA@AEBV
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7227989).Optional C Binding Modifier(token:0x722798B).ptr.valueType (token:0x722798E)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x72AB639).ptr.Optional C Binding Modifier(token:0x72AB63C).valueType (token:0x72AB63E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F57989).Optional C Binding Modifier(token:0x6F5798B).ptr.valueType (token:0x6F5798E)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6FDB639).ptr.Optional C Binding Modifier(token:0x6FDB63C).valueType (token:0x6FDB63E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -1449,8 +1449,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x721D701).Optional C Binding Modifier(token:0x721D703).ptr.valueType (token:0x721D706)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x71845A9).ptr.Optional C Binding Modifier(token:0x71845AC).valueType (token:0x71845AE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F4D701).Optional C Binding Modifier(token:0x6F4D703).ptr.valueType (token:0x6F4D706)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6EB45A9).ptr.Optional C Binding Modifier(token:0x6EB45AC).valueType (token:0x6EB45AE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -1513,11 +1513,11 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x72E031A)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x72E031A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x72E031A)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x7745613)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x701031A)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x701031A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x701031A)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x7475613)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -1585,7 +1585,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x72E031A)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x701031A)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -1635,7 +1635,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 0,"_Bytes$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 0,"_Bytes$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
 ;	.proc.beg
@@ -1727,12 +1727,12 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Ptr$" SIG: Optional C Binding Modifier(token:0x7232DA1).ptr.ptr.void
-;	.formal.i8 1,"_Bytes$" SIG: Optional C Binding Modifier(token:0x7170F59).ptr.u8
-;	.local.u8 0,"_Back_shift$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 1,"_Ptr_container$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 2,"_Ptr_user$" SIG: Optional C Binding Modifier(token:0x720DAF1).Optional C Binding Modifier(token:0x720DAF3).ptr.Optional C Binding Modifier(token:0x720DAF6).u8
-;	.local.u8 3,"_Min_back_shift$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 0,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6F62DA1).ptr.ptr.void
+;	.formal.i8 1,"_Bytes$" SIG: Optional C Binding Modifier(token:0x6EA0F59).ptr.u8
+;	.local.u8 0,"_Back_shift$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 1,"_Ptr_container$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 2,"_Ptr_user$" SIG: Optional C Binding Modifier(token:0x6F3DAF1).Optional C Binding Modifier(token:0x6F3DAF3).ptr.Optional C Binding Modifier(token:0x6F3DAF6).u8
+;	.local.u8 3,"_Min_back_shift$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -1894,7 +1894,7 @@ $LN8@Adjust_man:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 0,"_Len$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 0,"_Len$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.u8 0,"$T2" SIG: u8
 
 ;	.proc.beg
@@ -1959,8 +1959,8 @@ $LN8@Adjust_man:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x720FA89).Optional C Binding Modifier(token:0x720FA8B).ptr.valueType (token:0x720FA8E)
-;	.formal.i8 1,"_Mycont_$" SIG: ptr.valueType (token:0x7199F6A)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F3FA89).Optional C Binding Modifier(token:0x6F3FA8B).ptr.valueType (token:0x6F3FA8E)
+;	.formal.i8 1,"_Mycont_$" SIG: ptr.valueType (token:0x6EC9F6A)
 
 ;	.proc.beg
 
@@ -1998,7 +1998,7 @@ $LN8@Adjust_man:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7231B81).Optional C Binding Modifier(token:0x7231B83).ptr.valueType (token:0x7231B86)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F61B81).Optional C Binding Modifier(token:0x6F61B83).ptr.valueType (token:0x6F61B86)
 
 ;	.proc.beg
 
@@ -2030,7 +2030,7 @@ $LN8@Adjust_man:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7228459).Optional C Binding Modifier(token:0x722845B).ptr.valueType (token:0x722845E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F58459).Optional C Binding Modifier(token:0x6F5845B).ptr.valueType (token:0x6F5845E)
 
 ;	.proc.beg
 
@@ -2070,8 +2070,8 @@ $LN8@Adjust_man:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7290FA1).Optional C Binding Modifier(token:0x7290FA3).ptr.Optional C Binding Modifier(token:0x7290FA6).valueType (token:0x7290FA8)
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8E505EA).valueType (token:0x8E505EC)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC0FA1).Optional C Binding Modifier(token:0x6FC0FA3).ptr.Optional C Binding Modifier(token:0x6FC0FA6).valueType (token:0x6FC0FA8)
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8A405EA).valueType (token:0x8A405EC)
 
 ;	.proc.beg
 
@@ -2137,8 +2137,8 @@ $LN4@Getcont:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7228459).Optional C Binding Modifier(token:0x722845B).ptr.valueType (token:0x722845E)
-;	.local.i8 0,"_Pnext$2" SIG: ptr.ptr.valueType (token:0x7196943)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F58459).Optional C Binding Modifier(token:0x6F5845B).ptr.valueType (token:0x6F5845E)
+;	.local.i8 0,"_Pnext$2" SIG: ptr.ptr.valueType (token:0x6EC6943)
 
 ;	.proc.beg
 
@@ -2258,9 +2258,9 @@ $LN1@Orphan_me:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7231B81).Optional C Binding Modifier(token:0x7231B83).ptr.valueType (token:0x7231B86)
-;	.local.i8 0,"_Pnext$2" SIG: ptr.ptr.valueType (token:0x7196943)
-;	.local.mb4   1,"_Lock$3" SIG: valueType (token:0x7169E91)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F61B81).Optional C Binding Modifier(token:0x6F61B83).ptr.valueType (token:0x6F61B86)
+;	.local.i8 0,"_Pnext$2" SIG: ptr.ptr.valueType (token:0x6EC6943)
+;	.local.mb4   1,"_Lock$3" SIG: valueType (token:0x6E99E91)
 
 ;	.proc.beg
 
@@ -2368,10 +2368,10 @@ $LN1@Orphan_all:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7231B81).Optional C Binding Modifier(token:0x7231B83).ptr.valueType (token:0x7231B86)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x71B5FC9).ptr.valueType (token:0x71B5FCC)
-;	.local.i8 0,"_Temp$" SIG: ptr.valueType (token:0x722E212)
-;	.local.mb4   1,"_Lock$" SIG: valueType (token:0x7169E91)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F61B81).Optional C Binding Modifier(token:0x6F61B83).ptr.valueType (token:0x6F61B86)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6EE5FC9).ptr.valueType (token:0x6EE5FCC)
+;	.local.i8 0,"_Temp$" SIG: ptr.valueType (token:0x6F5E212)
+;	.local.mb4   1,"_Lock$" SIG: valueType (token:0x6E99E91)
 
 ;	.proc.beg
 
@@ -2471,7 +2471,7 @@ $LN3@Swap_proxy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7203149).Optional C Binding Modifier(token:0x720314B).ptr.valueType (token:0x720314E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F33149).Optional C Binding Modifier(token:0x6F3314B).ptr.valueType (token:0x6F3314E)
 
 ;	.proc.beg
 
@@ -2587,8 +2587,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B64E1).Optional C Binding Modifier(token:0x72B64E3).ptr.valueType (token:0x72B64E6)
-;	.formal.i8 1,"s$" SIG: ptr.Optional C Binding Modifier(token:0x7225A8A).Optional C Binding Modifier(token:0x7225A8C).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE64E1).Optional C Binding Modifier(token:0x6FE64E3).ptr.valueType (token:0x6FE64E6)
+;	.formal.i8 1,"s$" SIG: ptr.Optional C Binding Modifier(token:0x6F55A8A).Optional C Binding Modifier(token:0x6F55A8C).i1
 ;	.local.u8 0,"len$" SIG: u8
 
 ;	.proc.beg
@@ -2659,7 +2659,7 @@ $LN1@String:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B64E1).Optional C Binding Modifier(token:0x72B64E3).ptr.valueType (token:0x72B64E6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE64E1).Optional C Binding Modifier(token:0x6FE64E3).ptr.valueType (token:0x6FE64E6)
 
 ;	.proc.beg
 
@@ -2691,9 +2691,9 @@ $LN1@String:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72C48D1).Optional C Binding Modifier(token:0x72C48D3).ptr.valueType (token:0x72C48D6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FF48D1).Optional C Binding Modifier(token:0x6FF48D3).ptr.valueType (token:0x6FF48D6)
 ;	.formal.i4 1,"_flags$" SIG: i4
-;	.formal.i8 2,"_obj$" SIG: ptr.Optional C Binding Modifier(token:0x71AD37A).void
+;	.formal.i8 2,"_obj$" SIG: ptr.Optional C Binding Modifier(token:0x6EDD37A).void
 
 ;	.proc.beg
 
@@ -2751,7 +2751,7 @@ $LN1@String:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3409).Optional C Binding Modifier(token:0x71B340B).ptr.valueType (token:0x71B340E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3409).Optional C Binding Modifier(token:0x6EE340B).ptr.valueType (token:0x6EE340E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -2777,7 +2777,7 @@ $LN1@String:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B1209).Optional C Binding Modifier(token:0x72B120B).ptr.valueType (token:0x72B120E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE1209).Optional C Binding Modifier(token:0x6FE120B).ptr.valueType (token:0x6FE120E)
 
 ;	.proc.beg
 
@@ -2833,7 +2833,7 @@ $LN1@Mat:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D01F9).Optional C Binding Modifier(token:0x72D01FB).ptr.Optional C Binding Modifier(token:0x72D01FE).valueType (token:0x72D0200)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x70001F9).Optional C Binding Modifier(token:0x70001FB).ptr.Optional C Binding Modifier(token:0x70001FE).valueType (token:0x7000200)
 ;	.local.u8 0,"$T2" SIG: u8
 
 ;	.proc.beg
@@ -2876,7 +2876,7 @@ $LN1@Mat:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D01F9).Optional C Binding Modifier(token:0x72D01FB).ptr.Optional C Binding Modifier(token:0x72D01FE).valueType (token:0x72D0200)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x70001F9).Optional C Binding Modifier(token:0x70001FB).ptr.Optional C Binding Modifier(token:0x70001FE).valueType (token:0x7000200)
 ;	.local.i4 0,"$T2" SIG: i4
 
 ;	.proc.beg
@@ -2919,7 +2919,7 @@ $LN1@Mat:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x719A079).Optional C Binding Modifier(token:0x719A07B).ptr.valueType (token:0x719A07E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ECA079).Optional C Binding Modifier(token:0x6ECA07B).ptr.valueType (token:0x6ECA07E)
 ;	.formal.i8 1,"_p$" SIG: ptr.i4
 
 ;	.proc.beg
@@ -2951,7 +2951,7 @@ $LN1@Mat:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72123C9).Optional C Binding Modifier(token:0x72123CB).ptr.valueType (token:0x72123CE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F423C9).Optional C Binding Modifier(token:0x6F423CB).ptr.valueType (token:0x6F423CE)
 
 ;	.proc.beg
 
@@ -3004,7 +3004,7 @@ $LN1@Mat:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72123C9).Optional C Binding Modifier(token:0x72123CB).ptr.valueType (token:0x72123CE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F423C9).Optional C Binding Modifier(token:0x6F423CB).ptr.valueType (token:0x6F423CE)
 ;	.formal.u8 1,"s$" SIG: u8
 
 ;	.proc.beg
@@ -3061,9 +3061,9 @@ $LN1@Mat:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72AF671).Optional C Binding Modifier(token:0x72AF673).ptr.Optional C Binding Modifier(token:0x72AF676).valueType (token:0x72AF678)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FDF671).Optional C Binding Modifier(token:0x6FDF673).ptr.Optional C Binding Modifier(token:0x6FDF676).valueType (token:0x6FDF678)
 ;	.formal.i4 1,"i$" SIG: i4
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8981681).ptr.Optional C Binding Modifier(token:0x8981684).u8
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8571681).ptr.Optional C Binding Modifier(token:0x8571684).u8
 
 ;	.proc.beg
 
@@ -3102,9 +3102,9 @@ $LN1@Mat:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72123C9).Optional C Binding Modifier(token:0x72123CB).ptr.valueType (token:0x72123CE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F423C9).Optional C Binding Modifier(token:0x6F423CB).ptr.valueType (token:0x6F423CE)
 ;	.formal.i4 1,"i$" SIG: i4
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8981DF9).ptr.u8
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8571DF9).ptr.u8
 
 ;	.proc.beg
 
@@ -3146,8 +3146,8 @@ $LN1@Mat:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x723CF29).Optional C Binding Modifier(token:0x723CF2B).ptr.valueType (token:0x723CF2E)
-;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x720F559).ptr.Optional C Binding Modifier(token:0x720F55C).valueType (token:0x720F55E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F6CF29).Optional C Binding Modifier(token:0x6F6CF2B).ptr.valueType (token:0x6F6CF2E)
+;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x6F3F559).ptr.Optional C Binding Modifier(token:0x6F3F55C).valueType (token:0x6F3F55E)
 
 ;	.proc.beg
 
@@ -3222,8 +3222,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717B809).Optional C Binding Modifier(token:0x717B80B).ptr.valueType (token:0x717B80E)
-;	.formal.i8 1,"it$" SIG: Optional C Binding Modifier(token:0x71AE949).ptr.Optional C Binding Modifier(token:0x71AE94C).valueType (token:0x71AE94E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EAB809).Optional C Binding Modifier(token:0x6EAB80B).ptr.valueType (token:0x6EAB80E)
+;	.formal.i8 1,"it$" SIG: Optional C Binding Modifier(token:0x6EDE949).ptr.Optional C Binding Modifier(token:0x6EDE94C).valueType (token:0x6EDE94E)
 
 ;	.proc.beg
 
@@ -3323,8 +3323,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A4C01).Optional C Binding Modifier(token:0x71A4C03).ptr.valueType (token:0x71A4C06)
-;	.formal.i8 1,"it$" SIG: Optional C Binding Modifier(token:0x72DA8E9).ptr.Optional C Binding Modifier(token:0x72DA8EC).valueType (token:0x72DA8EE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED4C01).Optional C Binding Modifier(token:0x6ED4C03).ptr.valueType (token:0x6ED4C06)
+;	.formal.i8 1,"it$" SIG: Optional C Binding Modifier(token:0x700A8E9).ptr.Optional C Binding Modifier(token:0x700A8EC).valueType (token:0x700A8EE)
 
 ;	.proc.beg
 
@@ -3404,8 +3404,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71F07F1).Optional C Binding Modifier(token:0x71F07F3).ptr.valueType (token:0x71F07F6)
-;	.formal.i8 1,"it$" SIG: Optional C Binding Modifier(token:0x728FED9).ptr.Optional C Binding Modifier(token:0x728FEDC).valueType (token:0x728FEDE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F207F1).Optional C Binding Modifier(token:0x6F207F3).ptr.valueType (token:0x6F207F6)
+;	.formal.i8 1,"it$" SIG: Optional C Binding Modifier(token:0x6FBFED9).ptr.Optional C Binding Modifier(token:0x6FBFEDC).valueType (token:0x6FBFEDE)
 
 ;	.proc.beg
 
@@ -3465,8 +3465,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728F041).Optional C Binding Modifier(token:0x728F043).ptr.valueType (token:0x728F046)
-;	.formal.i4 1,"_usageFlags$" SIG: valueType (token:0x7243771)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBF041).Optional C Binding Modifier(token:0x6FBF043).ptr.valueType (token:0x6FBF046)
+;	.formal.i4 1,"_usageFlags$" SIG: valueType (token:0x6F73771)
 
 ;	.proc.beg
 
@@ -3561,8 +3561,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728F041).Optional C Binding Modifier(token:0x728F043).ptr.valueType (token:0x728F046)
-;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x720C1D9).ptr.Optional C Binding Modifier(token:0x720C1DC).valueType (token:0x720C1DE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBF041).Optional C Binding Modifier(token:0x6FBF043).ptr.valueType (token:0x6FBF046)
+;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x6F3C1D9).ptr.Optional C Binding Modifier(token:0x6F3C1DC).valueType (token:0x6F3C1DE)
 
 ;	.proc.beg
 
@@ -3785,8 +3785,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x718ED71).Optional C Binding Modifier(token:0x718ED73).ptr.valueType (token:0x718ED76)
-;	.formal.i8 1,"_node$" SIG: Optional C Binding Modifier(token:0x720C9E9).ptr.Optional C Binding Modifier(token:0x720C9EC).valueType (token:0x720C9EE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EBED71).Optional C Binding Modifier(token:0x6EBED73).ptr.valueType (token:0x6EBED76)
+;	.formal.i8 1,"_node$" SIG: Optional C Binding Modifier(token:0x6F3C9E9).ptr.Optional C Binding Modifier(token:0x6F3C9EC).valueType (token:0x6F3C9EE)
 
 ;	.proc.beg
 
@@ -3850,7 +3850,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7294909).Optional C Binding Modifier(token:0x729490B).ptr.valueType (token:0x729490E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC4909).Optional C Binding Modifier(token:0x6FC490B).ptr.valueType (token:0x6FC490E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -3923,8 +3923,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7294909).Optional C Binding Modifier(token:0x729490B).ptr.valueType (token:0x729490E)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x718C5E1).ptr.Optional C Binding Modifier(token:0x718C5E4).valueType (token:0x718C5E6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC4909).Optional C Binding Modifier(token:0x6FC490B).ptr.valueType (token:0x6FC490E)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6EBC5E1).ptr.Optional C Binding Modifier(token:0x6EBC5E4).valueType (token:0x6EBC5E6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -4035,8 +4035,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72276A1).Optional C Binding Modifier(token:0x72276A3).ptr.valueType (token:0x72276A6)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x72A3F09).ptr.Optional C Binding Modifier(token:0x72A3F0C).valueType (token:0x72A3F0E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F576A1).Optional C Binding Modifier(token:0x6F576A3).ptr.valueType (token:0x6F576A6)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6FD3F09).ptr.Optional C Binding Modifier(token:0x6FD3F0C).valueType (token:0x6FD3F0E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -4097,7 +4097,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D9221).Optional C Binding Modifier(token:0x72D9223).ptr.valueType (token:0x72D9226)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7009221).Optional C Binding Modifier(token:0x7009223).ptr.valueType (token:0x7009226)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -4122,7 +4122,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D0CC1).Optional C Binding Modifier(token:0x72D0CC3).ptr.valueType (token:0x72D0CC6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7000CC1).Optional C Binding Modifier(token:0x7000CC3).ptr.valueType (token:0x7000CC6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -4195,8 +4195,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D9221).Optional C Binding Modifier(token:0x72D9223).ptr.valueType (token:0x72D9226)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x71E9D29).ptr.Optional C Binding Modifier(token:0x71E9D2C).valueType (token:0x71E9D2E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7009221).Optional C Binding Modifier(token:0x7009223).ptr.valueType (token:0x7009226)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F19D29).ptr.Optional C Binding Modifier(token:0x6F19D2C).valueType (token:0x6F19D2E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -4315,8 +4315,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D0CC1).Optional C Binding Modifier(token:0x72D0CC3).ptr.valueType (token:0x72D0CC6)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x724A779).ptr.Optional C Binding Modifier(token:0x724A77C).valueType (token:0x724A77E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7000CC1).Optional C Binding Modifier(token:0x7000CC3).ptr.valueType (token:0x7000CC6)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F7A779).ptr.Optional C Binding Modifier(token:0x6F7A77C).valueType (token:0x6F7A77E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -4427,8 +4427,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71AE6B9).Optional C Binding Modifier(token:0x71AE6BB).ptr.valueType (token:0x71AE6BE)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x71E1109).ptr.Optional C Binding Modifier(token:0x71E110C).valueType (token:0x71E110E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EDE6B9).Optional C Binding Modifier(token:0x6EDE6BB).ptr.valueType (token:0x6EDE6BE)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F11109).ptr.Optional C Binding Modifier(token:0x6F1110C).valueType (token:0x6F1110E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -4539,8 +4539,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D56C1).Optional C Binding Modifier(token:0x72D56C3).ptr.valueType (token:0x72D56C6)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x7200181).ptr.Optional C Binding Modifier(token:0x7200184).valueType (token:0x7200186)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x70056C1).Optional C Binding Modifier(token:0x70056C3).ptr.valueType (token:0x70056C6)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F30181).ptr.Optional C Binding Modifier(token:0x6F30184).valueType (token:0x6F30186)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -4605,8 +4605,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A72B1).Optional C Binding Modifier(token:0x71A72B3).ptr.valueType (token:0x71A72B6)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72CEA81).ptr.Optional C Binding Modifier(token:0x72CEA84).valueType (token:0x72CEA86)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED72B1).Optional C Binding Modifier(token:0x6ED72B3).ptr.valueType (token:0x6ED72B6)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6FFEA81).ptr.Optional C Binding Modifier(token:0x6FFEA84).valueType (token:0x6FFEA86)
 
 ;	.proc.beg
 
@@ -4702,19 +4702,19 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Ptr$" SIG: ptr.Optional C Binding Modifier(token:0x7225A8A).Optional C Binding Modifier(token:0x7225A8C).i1
-;	.formal.i8 2,"_Cvt$" SIG: Optional C Binding Modifier(token:0x72A0BF1).ptr.Optional C Binding Modifier(token:0x72A0BF4).valueType (token:0x72A0BF6)
+;	.formal.i8 0,"_Ptr$" SIG: ptr.Optional C Binding Modifier(token:0x6F55A8A).Optional C Binding Modifier(token:0x6F55A8C).i1
+;	.formal.i8 2,"_Cvt$" SIG: Optional C Binding Modifier(token:0x6FD0BF1).ptr.Optional C Binding Modifier(token:0x6FD0BF4).valueType (token:0x6FD0BF6)
 ;	.local.u8 0,"_Wchars$" SIG: u8
 ;	.local.i4 1,"_Bytes$" SIG: i4
 ;	.local.u8 2,"_Count$" SIG: u8
 ;	.local.i8 3,"_Ptrnext$" SIG: ptr.char
 ;	.local.i8 4,"_Ptrdest$" SIG: ptr.char
-;	.local.i8 5,"_Ptr1$" SIG: ptr.Optional C Binding Modifier(token:0x7225A8A).Optional C Binding Modifier(token:0x7225A8C).i1
+;	.local.i8 5,"_Ptr1$" SIG: ptr.Optional C Binding Modifier(token:0x6F55A8A).Optional C Binding Modifier(token:0x6F55A8C).i1
 ;	.local.u8 6,"_Count1$" SIG: u8
 ;	.local.i8 7,"$T2" SIG: ptr.char
-;	.local.mb8   8,"_Mbst2$" SIG: valueType (token:0x7170899)
+;	.local.mb8   8,"_Mbst2$" SIG: valueType (token:0x6EA0899)
 ;	.local.u2 9,"_Wc$" SIG: char
-;	.local.mb8   10,"_Mbst1$" SIG: valueType (token:0x7170899)
+;	.local.mb8   10,"_Mbst1$" SIG: valueType (token:0x6EA0899)
 
 ;	.proc.beg
 
@@ -4989,8 +4989,8 @@ $LN6@Maklocstr:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x721B0D1).Optional C Binding Modifier(token:0x721B0D3).ptr.valueType (token:0x721B0D6)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x717FD29).ptr.Optional C Binding Modifier(token:0x717FD2C).valueType (token:0x717FD2E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F4B0D1).Optional C Binding Modifier(token:0x6F4B0D3).ptr.valueType (token:0x6F4B0D6)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6EAFD29).ptr.Optional C Binding Modifier(token:0x6EAFD2C).valueType (token:0x6EAFD2E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -5059,9 +5059,9 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Ptr$" SIG: ptr.Optional C Binding Modifier(token:0x719A7C2).char
+;	.formal.i8 0,"_Ptr$" SIG: ptr.Optional C Binding Modifier(token:0x6ECA7C2).char
 ;	.local.i8 0,"_Ptrdest$" SIG: ptr.char
-;	.local.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.local.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.i8 2,"$T2" SIG: ptr.char
 
 ;	.proc.beg
@@ -5139,7 +5139,7 @@ $LN2@Maklocwcs:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7294181).Optional C Binding Modifier(token:0x7294183).ptr.valueType (token:0x7294186)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC4181).Optional C Binding Modifier(token:0x6FC4183).ptr.valueType (token:0x6FC4186)
 
 ;	.proc.beg
 
@@ -5192,8 +5192,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71852E1).Optional C Binding Modifier(token:0x71852E3).ptr.valueType (token:0x71852E6)
-;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x7236941).ptr.Optional C Binding Modifier(token:0x7236944).valueType (token:0x7236946)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EB52E1).Optional C Binding Modifier(token:0x6EB52E3).ptr.valueType (token:0x6EB52E6)
+;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x6F66941).ptr.Optional C Binding Modifier(token:0x6F66944).valueType (token:0x6F66946)
 
 ;	.proc.beg
 
@@ -5306,7 +5306,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71AB391).Optional C Binding Modifier(token:0x71AB393).ptr.valueType (token:0x71AB396)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EDB391).Optional C Binding Modifier(token:0x6EDB393).ptr.valueType (token:0x6EDB396)
 
 ;	.proc.beg
 
@@ -5385,8 +5385,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 5 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D14F9).Optional C Binding Modifier(token:0x72D14FB).ptr.valueType (token:0x72D14FE)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x71FF739).ptr.Optional C Binding Modifier(token:0x71FF73C).valueType (token:0x71FF73E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x70014F9).Optional C Binding Modifier(token:0x70014FB).ptr.valueType (token:0x70014FE)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F2F739).ptr.Optional C Binding Modifier(token:0x6F2F73C).valueType (token:0x6F2F73E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -5601,8 +5601,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71747B9).Optional C Binding Modifier(token:0x71747BB).ptr.valueType (token:0x71747BE)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x71B58C1).ptr.Optional C Binding Modifier(token:0x71B58C4).valueType (token:0x71B58C6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA47B9).Optional C Binding Modifier(token:0x6EA47BB).ptr.valueType (token:0x6EA47BE)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6EE58C1).ptr.Optional C Binding Modifier(token:0x6EE58C4).valueType (token:0x6EE58C6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -5811,9 +5811,9 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"s$" SIG: Optional C Binding Modifier(token:0x72CF751).string
-;	.local.i8 0,"bp$" SIG: Optional C Binding Modifier(token:0x71AE5C1).byref.u1
-;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x88CFBB1).byref.Optional C Binding Modifier(token:0x88CFBB5).char
+;	.formal.mptr 0,"s$" SIG: Optional C Binding Modifier(token:0x6FFF751).string
+;	.local.i8 0,"bp$" SIG: Optional C Binding Modifier(token:0x6EDE5C1).byref.u1
+;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x84BFBB1).byref.Optional C Binding Modifier(token:0x84BFBB5).char
 
 ;	.proc.beg
 
@@ -5872,7 +5872,7 @@ $LN2@PtrToStrin:
 ;	.formal.mptr 0,"_str$" SIG: string
 ;	.local.u8 0,"_size$" SIG: u8
 ;	.local.u8 1,"$T2" SIG: u8
-;	.local.i8 2,"_pinned_ptr$" SIG: Optional C Binding Modifier(token:0x7185CC1).u1
+;	.local.i8 2,"_pinned_ptr$" SIG: Optional C Binding Modifier(token:0x6EB5CC1).u1
 
 ;	.proc.beg
 
@@ -5960,11 +5960,11 @@ $LN2@GetAnsiStr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_buf$" SIG: ptr.Optional C Binding Modifier(token:0x7207992).i1
+;	.formal.i8 0,"_buf$" SIG: ptr.Optional C Binding Modifier(token:0x6F37992).i1
 ;	.formal.u8 1,"_size$" SIG: u8
 ;	.formal.mptr 2,"_str$" SIG: string
-;	.local.u8 0,"_written$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 1,"_pinned_ptr$" SIG: Optional C Binding Modifier(token:0x7185CC1).u1
+;	.local.u8 0,"_written$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 1,"_pinned_ptr$" SIG: Optional C Binding Modifier(token:0x6EB5CC1).u1
 
 ;	.proc.beg
 
@@ -6066,7 +6066,7 @@ $LN3@WriteAnsiS:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x717E2E1).class (token:0x717E2E3)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EAE2E1).class (token:0x6EAE2E3)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -6120,7 +6120,7 @@ $LN3@WriteAnsiS:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x72066F9).class (token:0x72066FB)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F366F9).class (token:0x6F366FB)
 
 ;	.proc.beg
 
@@ -6158,8 +6158,8 @@ $LN3@WriteAnsiS:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7173B71).class (token:0x7173B73)
-;	.formal.i8 1,"_to_object$" SIG: Optional C Binding Modifier(token:0x7237AB9).ptr.ptr.Optional C Binding Modifier(token:0x7237ABD).char
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA3B71).class (token:0x6EA3B73)
+;	.formal.i8 1,"_to_object$" SIG: Optional C Binding Modifier(token:0x6F67AB9).ptr.ptr.Optional C Binding Modifier(token:0x6F67ABD).char
 ;	.formal.mptr 2,"_from_object$" SIG: string
 ;	.local.mb8   0,"$T2" SIG: Unknown COM+ Object Signature
 
@@ -6212,7 +6212,7 @@ $LN3@WriteAnsiS:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7173B71).class (token:0x7173B73)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA3B71).class (token:0x6EA3B73)
 
 ;	.proc.beg
 
@@ -6259,7 +6259,7 @@ $LN1@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7290C11).class (token:0x7290C13)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC0C11).class (token:0x6FC0C13)
 
 ;	.proc.beg
 
@@ -6295,8 +6295,8 @@ $LN1@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7290C11).class (token:0x7290C13)
-;	.local.mptr 0,"$T2" SIG: class (token:0x72289D1)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC0C11).class (token:0x6FC0C13)
+;	.local.mptr 0,"$T2" SIG: class (token:0x6F589D1)
 ;	.local.mptr 1,"_obj$3" SIG: Unknown COM+ Object Signature
 ;	.local.i8 2,"tv81"
 ;	.local.mb48  3,"$S1$4" SIG: genericInst (token:0x100006C) <Unknown COM+ Object Signature>
@@ -6362,7 +6362,7 @@ $LN1@marshal_co:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7290C11).class (token:0x7290C13)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC0C11).class (token:0x6FC0C13)
 ;	.formal.u1 1,"disposing$" SIG: bool
 
 ;	.proc.beg
@@ -6398,7 +6398,7 @@ $LN1@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"var$" SIG: Optional C Binding Modifier(token:0x7255A39).ptr.Optional C Binding Modifier(token:0x7255A3C).r4
+;	.formal.i8 0,"var$" SIG: Optional C Binding Modifier(token:0x6F85A39).ptr.Optional C Binding Modifier(token:0x6F85A3C).r4
 ;	.local.r4 0,"$T2" SIG: r4
 ;	.local.r4 1,"value$" SIG: r4
 
@@ -6472,7 +6472,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x7290622)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6FC0622)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -6525,8 +6525,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7199EA1).class (token:0x7199EA3)
-;	.local.mptr 0,"$T2" SIG: class (token:0x72CA5F9)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC9EA1).class (token:0x6EC9EA3)
+;	.local.mptr 0,"$T2" SIG: class (token:0x6FFA5F9)
 ;	.local.i8 1,"tv74"
 
 ;	.proc.beg
@@ -6588,7 +6588,7 @@ $LN1@Display:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7199EA1).class (token:0x7199EA3)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC9EA1).class (token:0x6EC9EA3)
 
 ;	.proc.beg
 
@@ -6659,7 +6659,7 @@ $LN1@Display:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7199EA1).class (token:0x7199EA3)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC9EA1).class (token:0x6EC9EA3)
 ;	.formal.u1 1,"disposing$" SIG: bool
 
 ;	.proc.beg
@@ -6705,9 +6705,9 @@ $LN6@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7200319).Optional C Binding Modifier(token:0x720031B).ptr.valueType (token:0x720031E)
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x89028E2).i1
-;	.local.i8 1,"_ret_value$" SIG: ptr.Optional C Binding Modifier(token:0x7207992).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F30319).Optional C Binding Modifier(token:0x6F3031B).ptr.valueType (token:0x6F3031E)
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x84F28E2).i1
+;	.local.i8 1,"_ret_value$" SIG: ptr.Optional C Binding Modifier(token:0x6F37992).i1
 
 ;	.proc.beg
 
@@ -6754,8 +6754,8 @@ $LN6@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72CBB31).Optional C Binding Modifier(token:0x72CBB33).ptr.Optional C Binding Modifier(token:0x72CBB36).valueType (token:0x72CBB38)
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x89030F2).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FFBB31).Optional C Binding Modifier(token:0x6FFBB33).ptr.Optional C Binding Modifier(token:0x6FFBB36).valueType (token:0x6FFBB38)
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x84F30F2).i1
 
 ;	.proc.beg
 
@@ -6786,7 +6786,7 @@ $LN6@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7200319).Optional C Binding Modifier(token:0x720031B).ptr.valueType (token:0x720031E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F30319).Optional C Binding Modifier(token:0x6F3031B).ptr.valueType (token:0x6F3031E)
 
 ;	.proc.beg
 
@@ -6818,9 +6818,9 @@ $LN6@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7200319).Optional C Binding Modifier(token:0x720031B).ptr.valueType (token:0x720031E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F30319).Optional C Binding Modifier(token:0x6F3031B).ptr.valueType (token:0x6F3031E)
 ;	.formal.u8 1,"_size$" SIG: u8
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x7207992).i1
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6F37992).i1
 
 ;	.proc.beg
 
@@ -6859,9 +6859,9 @@ $LN6@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Left$" SIG: Optional C Binding Modifier(token:0x72C4001).ptr.Optional C Binding Modifier(token:0x72C4004).u8
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72C4001).ptr.Optional C Binding Modifier(token:0x72C4004).u8
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x891CFF1).ptr.Optional C Binding Modifier(token:0x891CFF4).u8
+;	.formal.i8 0,"_Left$" SIG: Optional C Binding Modifier(token:0x6FF4001).ptr.Optional C Binding Modifier(token:0x6FF4004).u8
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6FF4001).ptr.Optional C Binding Modifier(token:0x6FF4004).u8
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x850CFF1).ptr.Optional C Binding Modifier(token:0x850CFF4).u8
 
 ;	.proc.beg
 
@@ -6955,10 +6955,10 @@ $LN4@min:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7198E11).Optional C Binding Modifier(token:0x7198E13).ptr.Optional C Binding Modifier(token:0x7198E16).valueType (token:0x7198E18)
-;	.formal.u8 1,"_Pos$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x7256FD9).ptr.Optional C Binding Modifier(token:0x7256FDC).valueType (token:0x7256FDE)
-;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x894C191).ptr.Optional C Binding Modifier(token:0x894C194).r4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC8E11).Optional C Binding Modifier(token:0x6EC8E13).ptr.Optional C Binding Modifier(token:0x6EC8E16).valueType (token:0x6EC8E18)
+;	.formal.u8 1,"_Pos$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x6F86FD9).ptr.Optional C Binding Modifier(token:0x6F86FDC).valueType (token:0x6F86FDE)
+;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x853C191).ptr.Optional C Binding Modifier(token:0x853C194).r4
 
 ;	.proc.beg
 
@@ -7057,10 +7057,10 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
-;	.formal.u8 1,"_Pos$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x72DBFC1).ptr.valueType (token:0x72DBFC4)
-;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x894C9D1).ptr.r4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
+;	.formal.u8 1,"_Pos$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x700BFC1).ptr.valueType (token:0x700BFC4)
+;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x853C9D1).ptr.r4
 
 ;	.proc.beg
 
@@ -7156,7 +7156,7 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71FA061).Optional C Binding Modifier(token:0x71FA063).ptr.valueType (token:0x71FA066)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F2A061).Optional C Binding Modifier(token:0x6F2A063).ptr.valueType (token:0x6F2A066)
 
 ;	.proc.beg
 
@@ -7185,7 +7185,7 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716F931).Optional C Binding Modifier(token:0x716F933).ptr.Optional C Binding Modifier(token:0x716F936).valueType (token:0x716F938)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9F931).Optional C Binding Modifier(token:0x6E9F933).ptr.Optional C Binding Modifier(token:0x6E9F936).valueType (token:0x6E9F938)
 ;	.local.u8 0,"$T2" SIG: u8
 
 ;	.proc.beg
@@ -7236,10 +7236,10 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A9679).Optional C Binding Modifier(token:0x71A967B).ptr.Optional C Binding Modifier(token:0x71A967E).valueType (token:0x71A9680)
-;	.formal.u8 1,"_Pos$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x71F8271).ptr.Optional C Binding Modifier(token:0x71F8274).valueType (token:0x71F8276)
-;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x8634819).ptr.Optional C Binding Modifier(token:0x863481C).i4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED9679).Optional C Binding Modifier(token:0x6ED967B).ptr.Optional C Binding Modifier(token:0x6ED967E).valueType (token:0x6ED9680)
+;	.formal.u8 1,"_Pos$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x6F28271).ptr.Optional C Binding Modifier(token:0x6F28274).valueType (token:0x6F28276)
+;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x8224819).ptr.Optional C Binding Modifier(token:0x822481C).i4
 
 ;	.proc.beg
 
@@ -7338,10 +7338,10 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.u8 1,"_Pos$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x72A03C9).ptr.valueType (token:0x72A03CC)
-;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x8635059).ptr.i4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.u8 1,"_Pos$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x6FD03C9).ptr.valueType (token:0x6FD03CC)
+;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x8225059).ptr.i4
 
 ;	.proc.beg
 
@@ -7436,8 +7436,8 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A9679).Optional C Binding Modifier(token:0x71A967B).ptr.Optional C Binding Modifier(token:0x71A967E).valueType (token:0x71A9680)
-;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x71F8271).ptr.Optional C Binding Modifier(token:0x71F8274).valueType (token:0x71F8276)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED9679).Optional C Binding Modifier(token:0x6ED967B).ptr.Optional C Binding Modifier(token:0x6ED967E).valueType (token:0x6ED9680)
+;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x6F28271).ptr.Optional C Binding Modifier(token:0x6F28274).valueType (token:0x6F28276)
 ;	.local.u8 1,"$T2" SIG: u8
 
 ;	.proc.beg
@@ -7488,7 +7488,7 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71F1161).Optional C Binding Modifier(token:0x71F1163).ptr.valueType (token:0x71F1166)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F21161).Optional C Binding Modifier(token:0x6F21163).ptr.valueType (token:0x6F21166)
 
 ;	.proc.beg
 
@@ -7517,7 +7517,7 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7237DB9).Optional C Binding Modifier(token:0x7237DBB).ptr.Optional C Binding Modifier(token:0x7237DBE).valueType (token:0x7237DC0)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F67DB9).Optional C Binding Modifier(token:0x6F67DBB).ptr.Optional C Binding Modifier(token:0x6F67DBE).valueType (token:0x6F67DC0)
 ;	.local.u1 0,"$T2" SIG: bool
 
 ;	.proc.beg
@@ -7556,8 +7556,8 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x71EB2CA)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x866E472)
+;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6F1B2CA)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x825E472)
 
 ;	.proc.beg
 
@@ -7591,8 +7591,8 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728C231).Optional C Binding Modifier(token:0x728C233).ptr.Optional C Binding Modifier(token:0x728C236).valueType (token:0x728C238)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x869B1EA)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBC231).Optional C Binding Modifier(token:0x6FBC233).ptr.Optional C Binding Modifier(token:0x6FBC236).valueType (token:0x6FBC238)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x828B1EA)
 
 ;	.proc.beg
 
@@ -7631,7 +7631,7 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728C231).Optional C Binding Modifier(token:0x728C233).ptr.Optional C Binding Modifier(token:0x728C236).valueType (token:0x728C238)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBC231).Optional C Binding Modifier(token:0x6FBC233).ptr.Optional C Binding Modifier(token:0x6FBC236).valueType (token:0x6FBC238)
 ;	.local.u1 0,"$T2" SIG: bool
 
 ;	.proc.beg
@@ -7725,8 +7725,8 @@ $LN4@Empty:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x71B474A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x87060BA)
+;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6EE474A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x82F60BA)
 
 ;	.proc.beg
 
@@ -7792,8 +7792,8 @@ $LN4@Empty:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Left$" SIG: Optional C Binding Modifier(token:0x7220951).ptr.Optional C Binding Modifier(token:0x7220954).i4
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x7220951).ptr.Optional C Binding Modifier(token:0x7220954).i4
+;	.formal.i8 0,"_Left$" SIG: Optional C Binding Modifier(token:0x6F50951).ptr.Optional C Binding Modifier(token:0x6F50954).i4
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F50951).ptr.Optional C Binding Modifier(token:0x6F50954).i4
 ;	.local.u1 0,"$T2" SIG: bool
 
 ;	.proc.beg
@@ -7837,10 +7837,10 @@ $LN4@eq_int_typ:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_First1$" SIG: Optional C Binding Modifier(token:0x72E17C9).Optional C Binding Modifier(token:0x72E17CB).ptr.Optional C Binding Modifier(token:0x72E17CE).i1
-;	.formal.i8 1,"_First2$" SIG: Optional C Binding Modifier(token:0x7205699).Optional C Binding Modifier(token:0x720569B).ptr.Optional C Binding Modifier(token:0x720569E).Optional C Binding Modifier(token:0x72056A0).i1
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8708ACA).i1
+;	.formal.i8 0,"_First1$" SIG: Optional C Binding Modifier(token:0x70117C9).Optional C Binding Modifier(token:0x70117CB).ptr.Optional C Binding Modifier(token:0x70117CE).i1
+;	.formal.i8 1,"_First2$" SIG: Optional C Binding Modifier(token:0x6F35699).Optional C Binding Modifier(token:0x6F3569B).ptr.Optional C Binding Modifier(token:0x6F3569E).Optional C Binding Modifier(token:0x6F356A0).i1
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x82F8ACA).i1
 
 ;	.proc.beg
 
@@ -7876,7 +7876,7 @@ $LN4@eq_int_typ:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x7205699).Optional C Binding Modifier(token:0x720569B).ptr.Optional C Binding Modifier(token:0x720569E).Optional C Binding Modifier(token:0x72056A0).i1
+;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x6F35699).Optional C Binding Modifier(token:0x6F3569B).ptr.Optional C Binding Modifier(token:0x6F3569E).Optional C Binding Modifier(token:0x6F356A0).i1
 ;	.local.u8 0,"$T2" SIG: u8
 
 ;	.proc.beg
@@ -7930,9 +7930,9 @@ $LN4@eq_int_typ:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_First1$" SIG: Optional C Binding Modifier(token:0x72B1961).Optional C Binding Modifier(token:0x72B1963).ptr.char
-;	.formal.i8 1,"_First2$" SIG: Optional C Binding Modifier(token:0x72AF4E1).Optional C Binding Modifier(token:0x72AF4E3).ptr.Optional C Binding Modifier(token:0x72AF4E6).char
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 0,"_First1$" SIG: Optional C Binding Modifier(token:0x6FE1961).Optional C Binding Modifier(token:0x6FE1963).ptr.char
+;	.formal.i8 1,"_First2$" SIG: Optional C Binding Modifier(token:0x6FDF4E1).Optional C Binding Modifier(token:0x6FDF4E3).ptr.Optional C Binding Modifier(token:0x6FDF4E6).char
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.i8 0,"$T2" SIG: ptr.char
 
 ;	.proc.beg
@@ -8006,8 +8006,8 @@ $LN4@eq_int_typ:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x72341EA)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x871A7F2)
+;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6F641EA)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x830A7F2)
 
 ;	.proc.beg
 
@@ -8044,8 +8044,8 @@ $LN4@eq_int_typ:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x724DBF9).Optional C Binding Modifier(token:0x724DBFB).ptr.valueType (token:0x724DBFE)
-;	.local.i8 0,"_Rdbuf$" SIG: Optional C Binding Modifier(token:0x71F8361).Optional C Binding Modifier(token:0x71F8363).ptr.valueType (token:0x71F8366)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F7DBF9).Optional C Binding Modifier(token:0x6F7DBFB).ptr.valueType (token:0x6F7DBFE)
+;	.local.i8 0,"_Rdbuf$" SIG: Optional C Binding Modifier(token:0x6F28361).Optional C Binding Modifier(token:0x6F28363).ptr.valueType (token:0x6F28366)
 
 ;	.proc.beg
 
@@ -8107,9 +8107,9 @@ $LN1@Sentry_bas:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x724DBF9).Optional C Binding Modifier(token:0x724DBFB).ptr.valueType (token:0x724DBFE)
-;	.formal.i8 1,"_Ostr$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.local.i8 0,"_Rdbuf$" SIG: Optional C Binding Modifier(token:0x71F8361).Optional C Binding Modifier(token:0x71F8363).ptr.valueType (token:0x71F8366)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F7DBF9).Optional C Binding Modifier(token:0x6F7DBFB).ptr.valueType (token:0x6F7DBFE)
+;	.formal.i8 1,"_Ostr$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.local.i8 0,"_Rdbuf$" SIG: Optional C Binding Modifier(token:0x6F28361).Optional C Binding Modifier(token:0x6F28363).ptr.valueType (token:0x6F28366)
 
 ;	.proc.beg
 
@@ -8176,9 +8176,9 @@ $LN1@Sentry_bas:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Left$" SIG: Optional C Binding Modifier(token:0x72C4001).ptr.Optional C Binding Modifier(token:0x72C4004).u8
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72C4001).ptr.Optional C Binding Modifier(token:0x72C4004).u8
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x87326E1).ptr.Optional C Binding Modifier(token:0x87326E4).u8
+;	.formal.i8 0,"_Left$" SIG: Optional C Binding Modifier(token:0x6FF4001).ptr.Optional C Binding Modifier(token:0x6FF4004).u8
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6FF4001).ptr.Optional C Binding Modifier(token:0x6FF4004).u8
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x83226E1).ptr.Optional C Binding Modifier(token:0x83226E4).u8
 
 ;	.proc.beg
 
@@ -8222,8 +8222,8 @@ $LN4@max:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E3351).Optional C Binding Modifier(token:0x71E3353).ptr.Optional C Binding Modifier(token:0x71E3356).valueType (token:0x71E3358)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8736561).ptr.Optional C Binding Modifier(token:0x8736564).valueType (token:0x8736566)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F13351).Optional C Binding Modifier(token:0x6F13353).ptr.Optional C Binding Modifier(token:0x6F13356).valueType (token:0x6F13358)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8326561).ptr.Optional C Binding Modifier(token:0x8326564).valueType (token:0x8326566)
 
 ;	.proc.beg
 
@@ -8257,8 +8257,8 @@ $LN4@max:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7298091).Optional C Binding Modifier(token:0x7298093).ptr.valueType (token:0x7298096)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8737041).ptr.valueType (token:0x8737044)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC8091).Optional C Binding Modifier(token:0x6FC8093).ptr.valueType (token:0x6FC8096)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8327041).ptr.valueType (token:0x8327044)
 
 ;	.proc.beg
 
@@ -8292,8 +8292,8 @@ $LN4@max:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7246CC9).Optional C Binding Modifier(token:0x7246CCB).ptr.valueType (token:0x7246CCE)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x874F3B9).ptr.valueType (token:0x874F3BC)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F76CC9).Optional C Binding Modifier(token:0x6F76CCB).ptr.valueType (token:0x6F76CCE)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x833F3B9).ptr.valueType (token:0x833F3BC)
 
 ;	.proc.beg
 
@@ -8327,8 +8327,8 @@ $LN4@max:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72429E9).Optional C Binding Modifier(token:0x72429EB).ptr.valueType (token:0x72429EE)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8756989).ptr.valueType (token:0x875698C)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F729E9).Optional C Binding Modifier(token:0x6F729EB).ptr.valueType (token:0x6F729EE)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8346989).ptr.valueType (token:0x834698C)
 
 ;	.proc.beg
 
@@ -8361,8 +8361,8 @@ $LN4@max:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7218679).Optional C Binding Modifier(token:0x721867B).ptr.valueType (token:0x721867E)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72DBFC1).ptr.valueType (token:0x72DBFC4)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F48679).Optional C Binding Modifier(token:0x6F4867B).ptr.valueType (token:0x6F4867E)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x700BFC1).ptr.valueType (token:0x700BFC4)
 
 ;	.proc.beg
 
@@ -8467,8 +8467,8 @@ $LN4@max:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7174C89).Optional C Binding Modifier(token:0x7174C8B).ptr.valueType (token:0x7174C8E)
-;	.formal.i8 1,"_Ptr$" SIG: ptr.valueType (token:0x72A32C2)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA4C89).Optional C Binding Modifier(token:0x6EA4C8B).ptr.valueType (token:0x6EA4C8E)
+;	.formal.i8 1,"_Ptr$" SIG: ptr.valueType (token:0x6FD32C2)
 
 ;	.proc.beg
 
@@ -8506,7 +8506,7 @@ $LN4@max:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728C231).Optional C Binding Modifier(token:0x728C233).ptr.Optional C Binding Modifier(token:0x728C236).valueType (token:0x728C238)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBC231).Optional C Binding Modifier(token:0x6FBC233).ptr.Optional C Binding Modifier(token:0x6FBC236).valueType (token:0x6FBC238)
 ;	.local.u1 0,"$T2" SIG: bool
 
 ;	.proc.beg
@@ -8549,8 +8549,8 @@ $LN4@Local:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72CBD21).Optional C Binding Modifier(token:0x72CBD23).ptr.valueType (token:0x72CBD26)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x878BDB9).ptr.valueType (token:0x878BDBC)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FFBD21).Optional C Binding Modifier(token:0x6FFBD23).ptr.valueType (token:0x6FFBD26)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x837BDB9).ptr.valueType (token:0x837BDBC)
 
 ;	.proc.beg
 
@@ -8585,8 +8585,8 @@ $LN4@Local:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3781).Optional C Binding Modifier(token:0x71B3783).ptr.valueType (token:0x71B3786)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72576E1).ptr.valueType (token:0x72576E4)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3781).Optional C Binding Modifier(token:0x6EE3783).ptr.valueType (token:0x6EE3786)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F876E1).ptr.valueType (token:0x6F876E4)
 
 ;	.proc.beg
 
@@ -8620,7 +8620,7 @@ $LN4@Local:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x724BB41).Optional C Binding Modifier(token:0x724BB43).ptr.Optional C Binding Modifier(token:0x724BB46).valueType (token:0x724BB48)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F7BB41).Optional C Binding Modifier(token:0x6F7BB43).ptr.Optional C Binding Modifier(token:0x6F7BB46).valueType (token:0x6F7BB48)
 ;	.local.u1 0,"$T2" SIG: bool
 
 ;	.proc.beg
@@ -8667,8 +8667,8 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x716DC22)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x879555A)
+;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6E9DC22)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x838555A)
 
 ;	.proc.beg
 
@@ -8702,8 +8702,8 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E7B71).Optional C Binding Modifier(token:0x71E7B73).ptr.Optional C Binding Modifier(token:0x71E7B76).valueType (token:0x71E7B78)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8796699).ptr.Optional C Binding Modifier(token:0x879669C).valueType (token:0x879669E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F17B71).Optional C Binding Modifier(token:0x6F17B73).ptr.Optional C Binding Modifier(token:0x6F17B76).valueType (token:0x6F17B78)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8386699).ptr.Optional C Binding Modifier(token:0x838669C).valueType (token:0x838669E)
 
 ;	.proc.beg
 
@@ -8737,8 +8737,8 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x719DB61).Optional C Binding Modifier(token:0x719DB63).ptr.valueType (token:0x719DB66)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8797011).ptr.valueType (token:0x8797014)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ECDB61).Optional C Binding Modifier(token:0x6ECDB63).ptr.valueType (token:0x6ECDB66)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8387011).ptr.valueType (token:0x8387014)
 
 ;	.proc.beg
 
@@ -8773,8 +8773,8 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x71A07E9).ptr.valueType (token:0x71A07EC)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6ED07E9).ptr.valueType (token:0x6ED07EC)
 
 ;	.proc.beg
 
@@ -8808,7 +8808,7 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72539C9).Optional C Binding Modifier(token:0x72539CB).ptr.Optional C Binding Modifier(token:0x72539CE).valueType (token:0x72539D0)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F839C9).Optional C Binding Modifier(token:0x6F839CB).ptr.Optional C Binding Modifier(token:0x6F839CE).valueType (token:0x6F839D0)
 ;	.local.u1 0,"$T2" SIG: bool
 
 ;	.proc.beg
@@ -8856,8 +8856,8 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Left$" SIG: Optional C Binding Modifier(token:0x72CEE91).ptr.Optional C Binding Modifier(token:0x72CEE94).i1
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x722E481).ptr.Optional C Binding Modifier(token:0x722E484).Optional C Binding Modifier(token:0x722E486).i1
+;	.formal.i8 0,"_Left$" SIG: Optional C Binding Modifier(token:0x6FFEE91).ptr.Optional C Binding Modifier(token:0x6FFEE94).i1
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F5E481).ptr.Optional C Binding Modifier(token:0x6F5E484).Optional C Binding Modifier(token:0x6F5E486).i1
 
 ;	.proc.beg
 
@@ -8892,10 +8892,10 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x72E17C9).Optional C Binding Modifier(token:0x72E17CB).ptr.Optional C Binding Modifier(token:0x72E17CE).i1
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.i1 2,"_Ch$" SIG: Optional C Binding Modifier(token:0x7252A41).Optional C Binding Modifier(token:0x7252A43).i1
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x89F9632).i1
+;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x70117C9).Optional C Binding Modifier(token:0x70117CB).ptr.Optional C Binding Modifier(token:0x70117CE).i1
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.i1 2,"_Ch$" SIG: Optional C Binding Modifier(token:0x6F82A41).Optional C Binding Modifier(token:0x6F82A43).i1
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x85E9632).i1
 
 ;	.proc.beg
 
@@ -8934,8 +8934,8 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Left$" SIG: Optional C Binding Modifier(token:0x72C0419).ptr.char
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x71E7FD1).ptr.Optional C Binding Modifier(token:0x71E7FD4).char
+;	.formal.i8 0,"_Left$" SIG: Optional C Binding Modifier(token:0x6FF0419).ptr.char
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F17FD1).ptr.Optional C Binding Modifier(token:0x6F17FD4).char
 
 ;	.proc.beg
 
@@ -8970,8 +8970,8 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717CCE9).Optional C Binding Modifier(token:0x717CCEB).ptr.Optional C Binding Modifier(token:0x717CCEE).valueType (token:0x717CCF0)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x89FED41).ptr.Optional C Binding Modifier(token:0x89FED44).valueType (token:0x89FED46)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EACCE9).Optional C Binding Modifier(token:0x6EACCEB).ptr.Optional C Binding Modifier(token:0x6EACCEE).valueType (token:0x6EACCF0)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x85EED41).ptr.Optional C Binding Modifier(token:0x85EED44).valueType (token:0x85EED46)
 
 ;	.proc.beg
 
@@ -9005,8 +9005,8 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7172BA9).Optional C Binding Modifier(token:0x7172BAB).ptr.valueType (token:0x7172BAE)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x89FF6B9).ptr.valueType (token:0x89FF6BC)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA2BA9).Optional C Binding Modifier(token:0x6EA2BAB).ptr.valueType (token:0x6EA2BAE)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x85EF6B9).ptr.valueType (token:0x85EF6BC)
 
 ;	.proc.beg
 
@@ -9039,8 +9039,8 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7247969).Optional C Binding Modifier(token:0x724796B).ptr.valueType (token:0x724796E)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72A03C9).ptr.valueType (token:0x72A03CC)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F77969).Optional C Binding Modifier(token:0x6F7796B).ptr.valueType (token:0x6F7796E)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6FD03C9).ptr.valueType (token:0x6FD03CC)
 
 ;	.proc.beg
 
@@ -9144,8 +9144,8 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72227D9).Optional C Binding Modifier(token:0x72227DB).ptr.Optional C Binding Modifier(token:0x72227DE).valueType (token:0x72227E0)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8A0FE79).ptr.Optional C Binding Modifier(token:0x8A0FE7C).valueType (token:0x8A0FE7E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F527D9).Optional C Binding Modifier(token:0x6F527DB).ptr.Optional C Binding Modifier(token:0x6F527DE).valueType (token:0x6F527E0)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x85FFE79).ptr.Optional C Binding Modifier(token:0x85FFE7C).valueType (token:0x85FFE7E)
 
 ;	.proc.beg
 
@@ -9244,8 +9244,8 @@ $LN4@Large_stri:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72C4291).Optional C Binding Modifier(token:0x72C4293).ptr.valueType (token:0x72C4296)
-;	.formal.i8 1,"pt$" SIG: Optional C Binding Modifier(token:0x72E0649).ptr.Optional C Binding Modifier(token:0x72E064C).valueType (token:0x72E064E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FF4291).Optional C Binding Modifier(token:0x6FF4293).ptr.valueType (token:0x6FF4296)
+;	.formal.i8 1,"pt$" SIG: Optional C Binding Modifier(token:0x7010649).ptr.Optional C Binding Modifier(token:0x701064C).valueType (token:0x701064E)
 
 ;	.proc.beg
 
@@ -9312,8 +9312,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E7071).Optional C Binding Modifier(token:0x71E7073).ptr.valueType (token:0x71E7076)
-;	.formal.i8 1,"pt$" SIG: Optional C Binding Modifier(token:0x72C0991).ptr.Optional C Binding Modifier(token:0x72C0994).valueType (token:0x72C0996)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F17071).Optional C Binding Modifier(token:0x6F17073).ptr.valueType (token:0x6F17076)
+;	.formal.i8 1,"pt$" SIG: Optional C Binding Modifier(token:0x6FF0991).ptr.Optional C Binding Modifier(token:0x6FF0994).valueType (token:0x6FF0996)
 
 ;	.proc.beg
 
@@ -9380,8 +9380,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716AAF1).Optional C Binding Modifier(token:0x716AAF3).ptr.valueType (token:0x716AAF6)
-;	.formal.i8 1,"sz$" SIG: Optional C Binding Modifier(token:0x718E439).ptr.Optional C Binding Modifier(token:0x718E43C).valueType (token:0x718E43E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9AAF1).Optional C Binding Modifier(token:0x6E9AAF3).ptr.valueType (token:0x6E9AAF6)
+;	.formal.i8 1,"sz$" SIG: Optional C Binding Modifier(token:0x6EBE439).ptr.Optional C Binding Modifier(token:0x6EBE43C).valueType (token:0x6EBE43E)
 
 ;	.proc.beg
 
@@ -9443,7 +9443,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716AAF1).Optional C Binding Modifier(token:0x716AAF3).ptr.valueType (token:0x716AAF6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9AAF1).Optional C Binding Modifier(token:0x6E9AAF3).ptr.valueType (token:0x6E9AAF6)
 
 ;	.proc.beg
 
@@ -9482,8 +9482,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72CAA19).Optional C Binding Modifier(token:0x72CAA1B).ptr.valueType (token:0x72CAA1E)
-;	.formal.i8 1,"sz$" SIG: Optional C Binding Modifier(token:0x72891E1).ptr.Optional C Binding Modifier(token:0x72891E4).valueType (token:0x72891E6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FFAA19).Optional C Binding Modifier(token:0x6FFAA1B).ptr.valueType (token:0x6FFAA1E)
+;	.formal.i8 1,"sz$" SIG: Optional C Binding Modifier(token:0x6FB91E1).ptr.Optional C Binding Modifier(token:0x6FB91E4).valueType (token:0x6FB91E6)
 
 ;	.proc.beg
 
@@ -9550,8 +9550,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7212239).Optional C Binding Modifier(token:0x721223B).ptr.valueType (token:0x721223E)
-;	.formal.i8 1,"r$" SIG: Optional C Binding Modifier(token:0x72B06E1).ptr.Optional C Binding Modifier(token:0x72B06E4).valueType (token:0x72B06E6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F42239).Optional C Binding Modifier(token:0x6F4223B).ptr.valueType (token:0x6F4223E)
+;	.formal.i8 1,"r$" SIG: Optional C Binding Modifier(token:0x6FE06E1).ptr.Optional C Binding Modifier(token:0x6FE06E4).valueType (token:0x6FE06E6)
 
 ;	.proc.beg
 
@@ -9638,8 +9638,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7226221).Optional C Binding Modifier(token:0x7226223).ptr.valueType (token:0x7226226)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x728F9E9).Optional C Binding Modifier(token:0x728F9EB).ptr.valueType (token:0x728F9EE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F56221).Optional C Binding Modifier(token:0x6F56223).ptr.valueType (token:0x6F56226)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6FBF9E9).Optional C Binding Modifier(token:0x6FBF9EB).ptr.valueType (token:0x6FBF9EE)
 
 ;	.proc.beg
 
@@ -9703,8 +9703,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7290549).Optional C Binding Modifier(token:0x729054B).ptr.valueType (token:0x729054E)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x7220879).ptr.Optional C Binding Modifier(token:0x722087C).valueType (token:0x722087E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC0549).Optional C Binding Modifier(token:0x6FC054B).ptr.valueType (token:0x6FC054E)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6F50879).ptr.Optional C Binding Modifier(token:0x6F5087C).valueType (token:0x6F5087E)
 
 ;	.proc.beg
 
@@ -9781,7 +9781,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x8A8A372)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x867A372)
 
 ;	.proc.beg
 
@@ -9827,9 +9827,9 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7214E99).Optional C Binding Modifier(token:0x7214E9B).ptr.valueType (token:0x7214E9E)
-;	.formal.i8 2,"_Lobj$" SIG: Optional C Binding Modifier(token:0x7235839).ptr.Optional C Binding Modifier(token:0x723583C).valueType (token:0x723583E)
-;	.local.mb44  0,"$T2" SIG: valueType (token:0x72C08D1)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F44E99).Optional C Binding Modifier(token:0x6F44E9B).ptr.valueType (token:0x6F44E9E)
+;	.formal.i8 2,"_Lobj$" SIG: Optional C Binding Modifier(token:0x6F65839).ptr.Optional C Binding Modifier(token:0x6F6583C).valueType (token:0x6F6583E)
+;	.local.mb44  0,"$T2" SIG: valueType (token:0x6FF08D1)
 
 ;	.proc.beg
 
@@ -9990,8 +9990,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72AC7B1).Optional C Binding Modifier(token:0x72AC7B3).ptr.valueType (token:0x72AC7B6)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x72B0CF9).ptr.Optional C Binding Modifier(token:0x72B0CFC).valueType (token:0x72B0CFE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FDC7B1).Optional C Binding Modifier(token:0x6FDC7B3).ptr.valueType (token:0x6FDC7B6)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6FE0CF9).ptr.Optional C Binding Modifier(token:0x6FE0CFC).valueType (token:0x6FE0CFE)
 
 ;	.proc.beg
 
@@ -10071,8 +10071,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72C92A9).Optional C Binding Modifier(token:0x72C92AB).ptr.valueType (token:0x72C92AE)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x72C7CA9).ptr.Optional C Binding Modifier(token:0x72C7CAC).valueType (token:0x72C7CAE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FF92A9).Optional C Binding Modifier(token:0x6FF92AB).ptr.valueType (token:0x6FF92AE)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6FF7CA9).ptr.Optional C Binding Modifier(token:0x6FF7CAC).valueType (token:0x6FF7CAE)
 
 ;	.proc.beg
 
@@ -10152,8 +10152,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D6739).Optional C Binding Modifier(token:0x72D673B).ptr.valueType (token:0x72D673E)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x7170D61).ptr.Optional C Binding Modifier(token:0x7170D64).valueType (token:0x7170D66)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7006739).Optional C Binding Modifier(token:0x700673B).ptr.valueType (token:0x700673E)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6EA0D61).ptr.Optional C Binding Modifier(token:0x6EA0D64).valueType (token:0x6EA0D66)
 
 ;	.proc.beg
 
@@ -10233,8 +10233,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72ADC99).Optional C Binding Modifier(token:0x72ADC9B).ptr.valueType (token:0x72ADC9E)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x71953E9).ptr.Optional C Binding Modifier(token:0x71953EC).valueType (token:0x71953EE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FDDC99).Optional C Binding Modifier(token:0x6FDDC9B).ptr.valueType (token:0x6FDDC9E)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6EC53E9).ptr.Optional C Binding Modifier(token:0x6EC53EC).valueType (token:0x6EC53EE)
 
 ;	.proc.beg
 
@@ -10314,8 +10314,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7243889).Optional C Binding Modifier(token:0x724388B).ptr.valueType (token:0x724388E)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x7250031).ptr.Optional C Binding Modifier(token:0x7250034).valueType (token:0x7250036)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F73889).Optional C Binding Modifier(token:0x6F7388B).ptr.valueType (token:0x6F7388E)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6F80031).ptr.Optional C Binding Modifier(token:0x6F80034).valueType (token:0x6F80036)
 
 ;	.proc.beg
 
@@ -10395,8 +10395,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71F67C9).Optional C Binding Modifier(token:0x71F67CB).ptr.valueType (token:0x71F67CE)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x72BEE19).ptr.Optional C Binding Modifier(token:0x72BEE1C).valueType (token:0x72BEE1E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F267C9).Optional C Binding Modifier(token:0x6F267CB).ptr.valueType (token:0x6F267CE)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6FEEE19).ptr.Optional C Binding Modifier(token:0x6FEEE1C).valueType (token:0x6FEEE1E)
 
 ;	.proc.beg
 
@@ -10476,8 +10476,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7240349).Optional C Binding Modifier(token:0x724034B).ptr.valueType (token:0x724034E)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x72231A1).ptr.Optional C Binding Modifier(token:0x72231A4).valueType (token:0x72231A6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F70349).Optional C Binding Modifier(token:0x6F7034B).ptr.valueType (token:0x6F7034E)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6F531A1).ptr.Optional C Binding Modifier(token:0x6F531A4).valueType (token:0x6F531A6)
 
 ;	.proc.beg
 
@@ -10557,8 +10557,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A1AF9).Optional C Binding Modifier(token:0x71A1AFB).ptr.valueType (token:0x71A1AFE)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x716E331).ptr.Optional C Binding Modifier(token:0x716E334).valueType (token:0x716E336)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED1AF9).Optional C Binding Modifier(token:0x6ED1AFB).ptr.valueType (token:0x6ED1AFE)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6E9E331).ptr.Optional C Binding Modifier(token:0x6E9E334).valueType (token:0x6E9E336)
 
 ;	.proc.beg
 
@@ -10638,8 +10638,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72C32F9).Optional C Binding Modifier(token:0x72C32FB).ptr.valueType (token:0x72C32FE)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x7248AE9).ptr.Optional C Binding Modifier(token:0x7248AEC).valueType (token:0x7248AEE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FF32F9).Optional C Binding Modifier(token:0x6FF32FB).ptr.valueType (token:0x6FF32FE)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6F78AE9).ptr.Optional C Binding Modifier(token:0x6F78AEC).valueType (token:0x6F78AEE)
 
 ;	.proc.beg
 
@@ -10719,8 +10719,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72C0E81).Optional C Binding Modifier(token:0x72C0E83).ptr.valueType (token:0x72C0E86)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x71A2E19).ptr.Optional C Binding Modifier(token:0x71A2E1C).valueType (token:0x71A2E1E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FF0E81).Optional C Binding Modifier(token:0x6FF0E83).ptr.valueType (token:0x6FF0E86)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6ED2E19).ptr.Optional C Binding Modifier(token:0x6ED2E1C).valueType (token:0x6ED2E1E)
 
 ;	.proc.beg
 
@@ -10800,8 +10800,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7246BD9).Optional C Binding Modifier(token:0x7246BDB).ptr.valueType (token:0x7246BDE)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x72CDD19).ptr.Optional C Binding Modifier(token:0x72CDD1C).valueType (token:0x72CDD1E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F76BD9).Optional C Binding Modifier(token:0x6F76BDB).ptr.valueType (token:0x6F76BDE)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6FFDD19).ptr.Optional C Binding Modifier(token:0x6FFDD1C).valueType (token:0x6FFDD1E)
 
 ;	.proc.beg
 
@@ -10881,8 +10881,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7285771).Optional C Binding Modifier(token:0x7285773).ptr.valueType (token:0x7285776)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x71F5E81).ptr.Optional C Binding Modifier(token:0x71F5E84).valueType (token:0x71F5E86)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FB5771).Optional C Binding Modifier(token:0x6FB5773).ptr.valueType (token:0x6FB5776)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6F25E81).ptr.Optional C Binding Modifier(token:0x6F25E84).valueType (token:0x6F25E86)
 
 ;	.proc.beg
 
@@ -10962,8 +10962,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x724FB51).Optional C Binding Modifier(token:0x724FB53).ptr.valueType (token:0x724FB56)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x7235CA9).ptr.Optional C Binding Modifier(token:0x7235CAC).valueType (token:0x7235CAE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F7FB51).Optional C Binding Modifier(token:0x6F7FB53).ptr.valueType (token:0x6F7FB56)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6F65CA9).ptr.Optional C Binding Modifier(token:0x6F65CAC).valueType (token:0x6F65CAE)
 
 ;	.proc.beg
 
@@ -11043,8 +11043,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72AE351).Optional C Binding Modifier(token:0x72AE353).ptr.valueType (token:0x72AE356)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x724E639).ptr.Optional C Binding Modifier(token:0x724E63C).valueType (token:0x724E63E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FDE351).Optional C Binding Modifier(token:0x6FDE353).ptr.valueType (token:0x6FDE356)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6F7E639).ptr.Optional C Binding Modifier(token:0x6F7E63C).valueType (token:0x6F7E63E)
 
 ;	.proc.beg
 
@@ -11124,8 +11124,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72577E1).Optional C Binding Modifier(token:0x72577E3).ptr.valueType (token:0x72577E6)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x71FA739).ptr.Optional C Binding Modifier(token:0x71FA73C).valueType (token:0x71FA73E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F877E1).Optional C Binding Modifier(token:0x6F877E3).ptr.valueType (token:0x6F877E6)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6F2A739).ptr.Optional C Binding Modifier(token:0x6F2A73C).valueType (token:0x6F2A73E)
 
 ;	.proc.beg
 
@@ -11205,8 +11205,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7239279).Optional C Binding Modifier(token:0x723927B).ptr.valueType (token:0x723927E)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x72579D1).ptr.Optional C Binding Modifier(token:0x72579D4).valueType (token:0x72579D6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F69279).Optional C Binding Modifier(token:0x6F6927B).ptr.valueType (token:0x6F6927E)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6F879D1).ptr.Optional C Binding Modifier(token:0x6F879D4).valueType (token:0x6F879D6)
 
 ;	.proc.beg
 
@@ -11286,8 +11286,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7258BC1).Optional C Binding Modifier(token:0x7258BC3).ptr.valueType (token:0x7258BC6)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x717D4C1).ptr.Optional C Binding Modifier(token:0x717D4C4).valueType (token:0x717D4C6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F88BC1).Optional C Binding Modifier(token:0x6F88BC3).ptr.valueType (token:0x6F88BC6)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6EAD4C1).ptr.Optional C Binding Modifier(token:0x6EAD4C4).valueType (token:0x6EAD4C6)
 
 ;	.proc.beg
 
@@ -11367,8 +11367,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7294251).Optional C Binding Modifier(token:0x7294253).ptr.valueType (token:0x7294256)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x72A1EB9).ptr.Optional C Binding Modifier(token:0x72A1EBC).valueType (token:0x72A1EBE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC4251).Optional C Binding Modifier(token:0x6FC4253).ptr.valueType (token:0x6FC4256)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6FD1EB9).ptr.Optional C Binding Modifier(token:0x6FD1EBC).valueType (token:0x6FD1EBE)
 
 ;	.proc.beg
 
@@ -11448,8 +11448,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7188ED1).Optional C Binding Modifier(token:0x7188ED3).ptr.valueType (token:0x7188ED6)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x7142FA1).ptr.Optional C Binding Modifier(token:0x7142FA4).valueType (token:0x7142FA6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EB8ED1).Optional C Binding Modifier(token:0x6EB8ED3).ptr.valueType (token:0x6EB8ED6)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6E72FA1).ptr.Optional C Binding Modifier(token:0x6E72FA4).valueType (token:0x6E72FA6)
 
 ;	.proc.beg
 
@@ -11529,8 +11529,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x723C7B1).Optional C Binding Modifier(token:0x723C7B3).ptr.valueType (token:0x723C7B6)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x71E3C51).ptr.Optional C Binding Modifier(token:0x71E3C54).valueType (token:0x71E3C56)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F6C7B1).Optional C Binding Modifier(token:0x6F6C7B3).ptr.valueType (token:0x6F6C7B6)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6F13C51).ptr.Optional C Binding Modifier(token:0x6F13C54).valueType (token:0x6F13C56)
 
 ;	.proc.beg
 
@@ -11610,8 +11610,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72C8DF1).Optional C Binding Modifier(token:0x72C8DF3).ptr.valueType (token:0x72C8DF6)
-;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x7201801).ptr.Optional C Binding Modifier(token:0x7201804).valueType (token:0x7201806)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FF8DF1).Optional C Binding Modifier(token:0x6FF8DF3).ptr.valueType (token:0x6FF8DF6)
+;	.formal.i8 1,"o$" SIG: Optional C Binding Modifier(token:0x6F31801).ptr.Optional C Binding Modifier(token:0x6F31804).valueType (token:0x6F31806)
 
 ;	.proc.beg
 
@@ -11688,15 +11688,15 @@ _TEXT	ENDS
 ; Exception Information:
 ; 5 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D01F9).Optional C Binding Modifier(token:0x72D01FB).ptr.Optional C Binding Modifier(token:0x72D01FE).valueType (token:0x72D0200)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x70001F9).Optional C Binding Modifier(token:0x70001FB).ptr.Optional C Binding Modifier(token:0x70001FE).valueType (token:0x7000200)
 ;	.formal.i4 1,"i0$" SIG: i4
 ;	.formal.i4 2,"i1$" SIG: i4
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8B3EE29).ptr.Optional C Binding Modifier(token:0x8B3EE2C).u1
-;	.local.mb16  1,"$T3" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
-;	.local.mb16  2,"$T4" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
-;	.local.mb16  3,"$T5" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
-;	.local.mb16  4,"$T6" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
-;	.local.mb16  5,"$T7" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x872EE29).ptr.Optional C Binding Modifier(token:0x872EE2C).u1
+;	.local.mb16  1,"$T3" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
+;	.local.mb16  2,"$T4" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
+;	.local.mb16  3,"$T5" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
+;	.local.mb16  4,"$T6" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
+;	.local.mb16  5,"$T7" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
 
 ;	.proc.beg
 
@@ -11927,15 +11927,15 @@ $LN11@at:
 ; Exception Information:
 ; 5 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B1209).Optional C Binding Modifier(token:0x72B120B).ptr.valueType (token:0x72B120E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE1209).Optional C Binding Modifier(token:0x6FE120B).ptr.valueType (token:0x6FE120E)
 ;	.formal.i4 1,"i0$" SIG: i4
 ;	.formal.i4 2,"i1$" SIG: i4
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8B3F5A1).ptr.u1
-;	.local.mb16  1,"$T3" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
-;	.local.mb16  2,"$T4" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
-;	.local.mb16  3,"$T5" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
-;	.local.mb16  4,"$T6" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
-;	.local.mb16  5,"$T7" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x872F5A1).ptr.u1
+;	.local.mb16  1,"$T3" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
+;	.local.mb16  2,"$T4" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
+;	.local.mb16  3,"$T5" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
+;	.local.mb16  4,"$T6" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
+;	.local.mb16  5,"$T7" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
 
 ;	.proc.beg
 
@@ -12170,10 +12170,10 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x719DE79).ptr.ptr.valueType (token:0x719DE7D)
-;	.formal.i8 1,"_New_val$" SIG: Optional C Binding Modifier(token:0x7210AA9).Optional C Binding Modifier(token:0x7210AAB).ptr.ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x8B43522)
-;	.local.i8 1,"_Old_val$" SIG: ptr.valueType (token:0x722E212)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6ECDE79).ptr.ptr.valueType (token:0x6ECDE7D)
+;	.formal.i8 1,"_New_val$" SIG: Optional C Binding Modifier(token:0x6F40AA9).Optional C Binding Modifier(token:0x6F40AAB).ptr.ptr.void
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x8733522)
+;	.local.i8 1,"_Old_val$" SIG: ptr.valueType (token:0x6F5E212)
 
 ;	.proc.beg
 
@@ -12220,7 +12220,7 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7231259).Optional C Binding Modifier(token:0x723125B).ptr.valueType (token:0x723125E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F61259).Optional C Binding Modifier(token:0x6F6125B).ptr.valueType (token:0x6F6125E)
 
 ;	.proc.beg
 
@@ -12248,7 +12248,7 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7231259).Optional C Binding Modifier(token:0x723125B).ptr.valueType (token:0x723125E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F61259).Optional C Binding Modifier(token:0x6F6125B).ptr.valueType (token:0x6F6125E)
 
 ;	.proc.beg
 
@@ -12276,7 +12276,7 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7231259).Optional C Binding Modifier(token:0x723125B).ptr.valueType (token:0x723125E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F61259).Optional C Binding Modifier(token:0x6F6125B).ptr.valueType (token:0x6F6125E)
 
 ;	.proc.beg
 
@@ -12305,8 +12305,8 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x71A8A71).ptr.valueType (token:0x71A8A74)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8B547C1).Optional C Binding Modifier(token:0x8B547C3).ptr.valueType (token:0x8B547C6)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6ED8A71).ptr.valueType (token:0x6ED8A74)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x87447C1).Optional C Binding Modifier(token:0x87447C3).ptr.valueType (token:0x87447C6)
 
 ;	.proc.beg
 
@@ -12340,8 +12340,8 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x71AD851).ptr.valueType (token:0x71AD854)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8B7FB09).Optional C Binding Modifier(token:0x8B7FB0B).ptr.valueType (token:0x8B7FB0E)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6EDD851).ptr.valueType (token:0x6EDD854)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x876FB09).Optional C Binding Modifier(token:0x876FB0B).ptr.valueType (token:0x876FB0E)
 
 ;	.proc.beg
 
@@ -12371,7 +12371,7 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7231259).Optional C Binding Modifier(token:0x723125B).ptr.valueType (token:0x723125E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F61259).Optional C Binding Modifier(token:0x6F6125B).ptr.valueType (token:0x6F6125E)
 
 ;	.proc.beg
 
@@ -12400,8 +12400,8 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x7190071).ptr.valueType (token:0x7190074)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8B9DCC9).Optional C Binding Modifier(token:0x8B9DCCB).ptr.valueType (token:0x8B9DCCE)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6EC0071).ptr.valueType (token:0x6EC0074)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x878DCC9).Optional C Binding Modifier(token:0x878DCCB).ptr.valueType (token:0x878DCCE)
 
 ;	.proc.beg
 
@@ -12431,7 +12431,7 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7231259).Optional C Binding Modifier(token:0x723125B).ptr.valueType (token:0x723125E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F61259).Optional C Binding Modifier(token:0x6F6125B).ptr.valueType (token:0x6F6125E)
 
 ;	.proc.beg
 
@@ -12460,8 +12460,8 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x7172729).ptr.valueType (token:0x717272C)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8BA0A21).Optional C Binding Modifier(token:0x8BA0A23).ptr.valueType (token:0x8BA0A26)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6EA2729).ptr.valueType (token:0x6EA272C)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8790A21).Optional C Binding Modifier(token:0x8790A23).ptr.valueType (token:0x8790A26)
 
 ;	.proc.beg
 
@@ -12493,8 +12493,8 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x72A03C9).ptr.valueType (token:0x72A03CC)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x8BA26D2)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6FD03C9).ptr.valueType (token:0x6FD03CC)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x87926D2)
 
 ;	.proc.beg
 
@@ -12526,8 +12526,8 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x7220951).ptr.Optional C Binding Modifier(token:0x7220954).i4
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8BA3959).ptr.Optional C Binding Modifier(token:0x8BA395C).i4
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6F50951).ptr.Optional C Binding Modifier(token:0x6F50954).i4
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8793959).ptr.Optional C Binding Modifier(token:0x879395C).i4
 
 ;	.proc.beg
 
@@ -12595,8 +12595,8 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x71ACCC1).Optional C Binding Modifier(token:0x71ACCC3).ptr.i4
-;	.formal.i8 2,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x7220951).ptr.Optional C Binding Modifier(token:0x7220954).i4
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6EDCCC1).Optional C Binding Modifier(token:0x6EDCCC3).ptr.i4
+;	.formal.i8 2,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x6F50951).ptr.Optional C Binding Modifier(token:0x6F50954).i4
 
 ;	.proc.beg
 
@@ -12631,7 +12631,7 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7231259).Optional C Binding Modifier(token:0x723125B).ptr.valueType (token:0x723125E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F61259).Optional C Binding Modifier(token:0x6F6125B).ptr.valueType (token:0x6F6125E)
 
 ;	.proc.beg
 
@@ -12658,8 +12658,8 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x7201661).ptr.valueType (token:0x7201664)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8BA6311).Optional C Binding Modifier(token:0x8BA6313).ptr.valueType (token:0x8BA6316)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6F31661).ptr.valueType (token:0x6F31664)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8796311).Optional C Binding Modifier(token:0x8796313).ptr.valueType (token:0x8796316)
 
 ;	.proc.beg
 
@@ -12691,8 +12691,8 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Ptr$" SIG: ptr.valueType (token:0x722E212)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x8BAB7FA)
+;	.formal.i8 0,"_Ptr$" SIG: ptr.valueType (token:0x6F5E212)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x879B7FA)
 
 ;	.proc.beg
 
@@ -12724,8 +12724,8 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x71B5FC9).ptr.valueType (token:0x71B5FCC)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x8BAC0AA)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6EE5FC9).ptr.valueType (token:0x6EE5FCC)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x879C0AA)
 
 ;	.proc.beg
 
@@ -12844,8 +12844,8 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Ptr$" SIG: ptr.Optional C Binding Modifier(token:0x7207992).i1
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6DD94DA).i1
+;	.formal.i8 0,"_Ptr$" SIG: ptr.Optional C Binding Modifier(token:0x6F37992).i1
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6B094DA).i1
 
 ;	.proc.beg
 
@@ -12879,10 +12879,10 @@ $LN11@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.u8 0,"$T2" SIG: u8
-;	.local.u8 1,"_Max_possible$3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u1 2,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x71ADEE9).bool
+;	.local.u8 1,"_Max_possible$3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u1 2,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x6EDDEE9).bool
 
 ;	.proc.beg
 
@@ -12993,10 +12993,10 @@ $LN2@Deallocate:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.u8 0,"$T2" SIG: u8
-;	.local.u8 1,"_Max_possible$3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u1 2,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x71ADEE9).bool
+;	.local.u8 1,"_Max_possible$3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u1 2,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x6EDDEE9).bool
 
 ;	.proc.beg
 
@@ -13057,10 +13057,10 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.u8 0,"$T2" SIG: u8
-;	.local.u8 1,"_Max_possible$3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u1 2,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x71ADEE9).bool
+;	.local.u8 1,"_Max_possible$3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u1 2,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x6EDDEE9).bool
 
 ;	.proc.beg
 
@@ -13158,8 +13158,8 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x72D0761).ptr.valueType (token:0x72D0764)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6DF8CF2)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x7000761).ptr.valueType (token:0x7000764)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6B28CF2)
 
 ;	.proc.beg
 
@@ -13193,8 +13193,8 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x72A8BC9).ptr.Optional C Binding Modifier(token:0x72A8BCC).valueType (token:0x72A8BCE)
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6DFA9AA).valueType (token:0x6DFA9AC)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6FD8BC9).ptr.Optional C Binding Modifier(token:0x6FD8BCC).valueType (token:0x6FD8BCE)
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6B2A9AA).valueType (token:0x6B2A9AC)
 
 ;	.proc.beg
 
@@ -13228,8 +13228,8 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x71A17F9).ptr.valueType (token:0x71A17FC)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6DFC57A)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6ED17F9).ptr.valueType (token:0x6ED17FC)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6B2C57A)
 
 ;	.proc.beg
 
@@ -13263,8 +13263,8 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x7190F71).ptr.Optional C Binding Modifier(token:0x7190F74).valueType (token:0x7190F76)
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6DFD9EA).valueType (token:0x6DFD9EC)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6EC0F71).ptr.Optional C Binding Modifier(token:0x6EC0F74).valueType (token:0x6EC0F76)
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6B2D9EA).valueType (token:0x6B2D9EC)
 
 ;	.proc.beg
 
@@ -13296,9 +13296,9 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.u8 0,"$T2" SIG: u8
-;	.local.u1 1,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x71ADEE9).bool
+;	.local.u1 1,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x6EDDEE9).bool
 
 ;	.proc.beg
 
@@ -13373,10 +13373,10 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.u8 0,"$T2" SIG: u8
-;	.local.u8 1,"_Max_possible$3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u1 2,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x71ADEE9).bool
+;	.local.u8 1,"_Max_possible$3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u1 2,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x6EDDEE9).bool
 
 ;	.proc.beg
 
@@ -13437,10 +13437,10 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.u8 0,"$T2" SIG: u8
-;	.local.u8 1,"_Max_possible$3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u1 2,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x71ADEE9).bool
+;	.local.u8 1,"_Max_possible$3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u1 2,"_Overflow_is_possible$" SIG: Optional C Binding Modifier(token:0x6EDDEE9).bool
 
 ;	.proc.beg
 
@@ -13501,7 +13501,7 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x72AACC1).class (token:0x72AACC3)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6FDACC1).class (token:0x6FDACC3)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -13551,7 +13551,7 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7295E01).class (token:0x7295E03)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC5E01).class (token:0x6FC5E03)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -13577,7 +13577,7 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7254609).Optional C Binding Modifier(token:0x725460B).ptr.valueType (token:0x725460E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F84609).Optional C Binding Modifier(token:0x6F8460B).ptr.valueType (token:0x6F8460E)
 
 ;	.proc.beg
 
@@ -13629,7 +13629,7 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7250B79).Optional C Binding Modifier(token:0x7250B7B).ptr.valueType (token:0x7250B7E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F80B79).Optional C Binding Modifier(token:0x6F80B7B).ptr.valueType (token:0x6F80B7E)
 
 ;	.proc.beg
 
@@ -13676,8 +13676,8 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x72363A1).Optional C Binding Modifier(token:0x72363A3).ptr.valueType (token:0x72363A6)
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6F663A1).Optional C Binding Modifier(token:0x6F663A3).ptr.valueType (token:0x6F663A6)
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -13711,7 +13711,7 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7218679).Optional C Binding Modifier(token:0x721867B).ptr.valueType (token:0x721867E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F48679).Optional C Binding Modifier(token:0x6F4867B).ptr.valueType (token:0x6F4867E)
 
 ;	.proc.beg
 
@@ -13763,7 +13763,7 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7287199).Optional C Binding Modifier(token:0x728719B).ptr.valueType (token:0x728719E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FB7199).Optional C Binding Modifier(token:0x6FB719B).ptr.valueType (token:0x6FB719E)
 
 ;	.proc.beg
 
@@ -13792,7 +13792,7 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7239569).Optional C Binding Modifier(token:0x723956B).ptr.Optional C Binding Modifier(token:0x723956E).valueType (token:0x7239570)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F69569).Optional C Binding Modifier(token:0x6F6956B).ptr.Optional C Binding Modifier(token:0x6F6956E).valueType (token:0x6F69570)
 ;	.local.i8 0,"$T2" SIG: ptr.i4
 
 ;	.proc.beg
@@ -13828,7 +13828,7 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7247969).Optional C Binding Modifier(token:0x724796B).ptr.valueType (token:0x724796E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F77969).Optional C Binding Modifier(token:0x6F7796B).ptr.valueType (token:0x6F7796E)
 
 ;	.proc.beg
 
@@ -13939,7 +13939,7 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7219371).Optional C Binding Modifier(token:0x7219373).ptr.valueType (token:0x7219376)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F49371).Optional C Binding Modifier(token:0x6F49373).ptr.valueType (token:0x6F49376)
 
 ;	.proc.beg
 
@@ -13966,12 +13966,12 @@ $LN2@Get_size_o:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 0,"_Requested$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.u8 1,"_Old$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.u8 2,"_Max$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 0,"_Requested$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.u8 1,"_Old$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.u8 2,"_Max$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.u8 0,"$T2" SIG: u8
-;	.local.u8 1,"_Masked$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 2,"$T3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.local.u8 1,"_Masked$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 2,"$T3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -14055,7 +14055,7 @@ $LN1@Calculate_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7288451).Optional C Binding Modifier(token:0x7288453).ptr.valueType (token:0x7288456)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FB8451).Optional C Binding Modifier(token:0x6FB8453).ptr.valueType (token:0x6FB8456)
 
 ;	.proc.beg
 
@@ -14151,9 +14151,9 @@ $LN1@Calculate_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72263E1).Optional C Binding Modifier(token:0x72263E3).ptr.valueType (token:0x72263E6)
-;	.formal.i8 1,"_Pnode$" SIG: ptr.valueType (token:0x728AB6A)
-;	.formal.i8 2,"_Plist$" SIG: ptr.Optional C Binding Modifier(token:0x724B82A).valueType (token:0x724B82C)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F563E1).Optional C Binding Modifier(token:0x6F563E3).ptr.valueType (token:0x6F563E6)
+;	.formal.i8 1,"_Pnode$" SIG: ptr.valueType (token:0x6FBAB6A)
+;	.formal.i8 2,"_Plist$" SIG: ptr.Optional C Binding Modifier(token:0x6F7B82A).valueType (token:0x6F7B82C)
 
 ;	.proc.beg
 
@@ -14194,8 +14194,8 @@ $LN1@Calculate_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728DFF1).Optional C Binding Modifier(token:0x728DFF3).ptr.Optional C Binding Modifier(token:0x728DFF6).valueType (token:0x728DFF8)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6EB16B9).ptr.Optional C Binding Modifier(token:0x6EB16BC).valueType (token:0x6EB16BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBDFF1).Optional C Binding Modifier(token:0x6FBDFF3).ptr.Optional C Binding Modifier(token:0x6FBDFF6).valueType (token:0x6FBDFF8)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6BE16B9).ptr.Optional C Binding Modifier(token:0x6BE16BC).valueType (token:0x6BE16BE)
 
 ;	.proc.beg
 
@@ -14229,8 +14229,8 @@ $LN1@Calculate_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72C33D9).Optional C Binding Modifier(token:0x72C33DB).ptr.Optional C Binding Modifier(token:0x72C33DE).valueType (token:0x72C33E0)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6EB2269).ptr.Optional C Binding Modifier(token:0x6EB226C).valueType (token:0x6EB226E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FF33D9).Optional C Binding Modifier(token:0x6FF33DB).ptr.Optional C Binding Modifier(token:0x6FF33DE).valueType (token:0x6FF33E0)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6BE2269).ptr.Optional C Binding Modifier(token:0x6BE226C).valueType (token:0x6BE226E)
 
 ;	.proc.beg
 
@@ -14266,8 +14266,8 @@ $LN1@Calculate_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B1D89).Optional C Binding Modifier(token:0x72B1D8B).ptr.valueType (token:0x72B1D8E)
-;	.formal.i8 1,"values$" SIG: ptr.Optional C Binding Modifier(token:0x72C4B1A).r4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE1D89).Optional C Binding Modifier(token:0x6FE1D8B).ptr.valueType (token:0x6FE1D8E)
+;	.formal.i8 1,"values$" SIG: ptr.Optional C Binding Modifier(token:0x6FF4B1A).r4
 ;	.local.i4 0,"i$2" SIG: i4
 
 ;	.proc.beg
@@ -14332,8 +14332,8 @@ $LN1@Matx:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B15F1).Optional C Binding Modifier(token:0x72B15F3).ptr.valueType (token:0x72B15F6)
-;	.formal.i8 1,"values$" SIG: ptr.Optional C Binding Modifier(token:0x729599A).r8
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE15F1).Optional C Binding Modifier(token:0x6FE15F3).ptr.valueType (token:0x6FE15F6)
+;	.formal.i8 1,"values$" SIG: ptr.Optional C Binding Modifier(token:0x6FC599A).r8
 ;	.local.i4 0,"i$2" SIG: i4
 
 ;	.proc.beg
@@ -14396,8 +14396,8 @@ $LN1@Matx:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72134B1).Optional C Binding Modifier(token:0x72134B3).ptr.valueType (token:0x72134B6)
-;	.formal.i8 1,"values$" SIG: ptr.Optional C Binding Modifier(token:0x729599A).r8
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F434B1).Optional C Binding Modifier(token:0x6F434B3).ptr.valueType (token:0x6F434B6)
+;	.formal.i8 1,"values$" SIG: ptr.Optional C Binding Modifier(token:0x6FC599A).r8
 ;	.local.i4 0,"i$2" SIG: i4
 
 ;	.proc.beg
@@ -14456,7 +14456,7 @@ $LN1@Matx:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7226221).Optional C Binding Modifier(token:0x7226223).ptr.valueType (token:0x7226226)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F56221).Optional C Binding Modifier(token:0x6F56223).ptr.valueType (token:0x6F56226)
 
 ;	.proc.beg
 
@@ -14509,11 +14509,11 @@ $LN2@release:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Ptr$" SIG: ptr.Optional C Binding Modifier(token:0x7225A8A).Optional C Binding Modifier(token:0x7225A8C).i1
+;	.formal.i8 0,"_Ptr$" SIG: ptr.Optional C Binding Modifier(token:0x6F55A8A).Optional C Binding Modifier(token:0x6F55A8C).i1
 ;	.local.u8 0,"_Count$" SIG: u8
-;	.local.i8 1,"_Ptrnext$2" SIG: ptr.Optional C Binding Modifier(token:0x7207992).i1
-;	.local.i8 2,"_Ptrdest$" SIG: ptr.Optional C Binding Modifier(token:0x7207992).i1
-;	.local.i8 3,"$T3" SIG: ptr.Optional C Binding Modifier(token:0x6F1C8CA).i1
+;	.local.i8 1,"_Ptrnext$2" SIG: ptr.Optional C Binding Modifier(token:0x6F37992).i1
+;	.local.i8 2,"_Ptrdest$" SIG: ptr.Optional C Binding Modifier(token:0x6F37992).i1
+;	.local.i8 3,"$T3" SIG: ptr.Optional C Binding Modifier(token:0x6C4C8CA).i1
 
 ;	.proc.beg
 
@@ -14622,8 +14622,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x719DA79).ptr.valueType (token:0x719DA7C)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F412E1).Optional C Binding Modifier(token:0x6F412E3).ptr.valueType (token:0x6F412E6)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6ECDA79).ptr.valueType (token:0x6ECDA7C)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6C712E1).Optional C Binding Modifier(token:0x6C712E3).ptr.valueType (token:0x6C712E6)
 
 ;	.proc.beg
 
@@ -14657,8 +14657,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_It$" SIG: Optional C Binding Modifier(token:0x72C59A9).ptr.Optional C Binding Modifier(token:0x72C59AC).Optional C Binding Modifier(token:0x72C59AE).ptr.valueType (token:0x72C59B1)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6F42732)
+;	.formal.i8 0,"_It$" SIG: Optional C Binding Modifier(token:0x6FF59A9).ptr.Optional C Binding Modifier(token:0x6FF59AC).Optional C Binding Modifier(token:0x6FF59AE).ptr.valueType (token:0x6FF59B1)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6C72732)
 
 ;	.proc.beg
 
@@ -14698,8 +14698,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x71A8A71).ptr.valueType (token:0x71A8A74)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F43B31).Optional C Binding Modifier(token:0x6F43B33).ptr.valueType (token:0x6F43B36)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6ED8A71).ptr.valueType (token:0x6ED8A74)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6C73B31).Optional C Binding Modifier(token:0x6C73B33).ptr.valueType (token:0x6C73B36)
 
 ;	.proc.beg
 
@@ -14731,8 +14731,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x71ADA01).ptr.Optional C Binding Modifier(token:0x71ADA04).valueType (token:0x71ADA06)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F443D9).ptr.Optional C Binding Modifier(token:0x6F443DC).valueType (token:0x6F443DE)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6EDDA01).ptr.Optional C Binding Modifier(token:0x6EDDA04).valueType (token:0x6EDDA06)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6C743D9).ptr.Optional C Binding Modifier(token:0x6C743DC).valueType (token:0x6C743DE)
 
 ;	.proc.beg
 
@@ -14764,8 +14764,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x7190071).ptr.valueType (token:0x7190074)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F54169).Optional C Binding Modifier(token:0x6F5416B).ptr.valueType (token:0x6F5416E)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6EC0071).ptr.valueType (token:0x6EC0074)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6C84169).Optional C Binding Modifier(token:0x6C8416B).ptr.valueType (token:0x6C8416E)
 
 ;	.proc.beg
 
@@ -14797,8 +14797,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x7172729).ptr.valueType (token:0x717272C)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F54A19).Optional C Binding Modifier(token:0x6F54A1B).ptr.valueType (token:0x6F54A1E)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6EA2729).ptr.valueType (token:0x6EA272C)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6C84A19).Optional C Binding Modifier(token:0x6C84A1B).ptr.valueType (token:0x6C84A1E)
 
 ;	.proc.beg
 
@@ -14830,8 +14830,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x7201661).ptr.valueType (token:0x7201664)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F55BE1).Optional C Binding Modifier(token:0x6F55BE3).ptr.valueType (token:0x6F55BE6)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6F31661).ptr.valueType (token:0x6F31664)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6C85BE1).Optional C Binding Modifier(token:0x6C85BE3).ptr.valueType (token:0x6C85BE6)
 
 ;	.proc.beg
 
@@ -14865,7 +14865,7 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_It$" SIG: Optional C Binding Modifier(token:0x723F969).ptr.Optional C Binding Modifier(token:0x723F96C).Optional C Binding Modifier(token:0x723F96E).ptr.i4
+;	.formal.i8 0,"_It$" SIG: Optional C Binding Modifier(token:0x6F6F969).ptr.Optional C Binding Modifier(token:0x6F6F96C).Optional C Binding Modifier(token:0x6F6F96E).ptr.i4
 ;	.local.i8 0,"$T2" SIG: ptr.i4
 
 ;	.proc.beg
@@ -14906,8 +14906,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x722BD19).ptr.Optional C Binding Modifier(token:0x722BD1C).valueType (token:0x722BD1E)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F57561).ptr.Optional C Binding Modifier(token:0x6F57564).valueType (token:0x6F57566)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6F5BD19).ptr.Optional C Binding Modifier(token:0x6F5BD1C).valueType (token:0x6F5BD1E)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6C87561).ptr.Optional C Binding Modifier(token:0x6C87564).valueType (token:0x6C87566)
 
 ;	.proc.beg
 
@@ -14941,8 +14941,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x7283F31).ptr.valueType (token:0x7283F34)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6F57E12)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6FB3F31).ptr.valueType (token:0x6FB3F34)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6C87E12)
 
 ;	.proc.beg
 
@@ -14976,8 +14976,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x72020B9).ptr.ptr.valueType (token:0x72020BD)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F587D9).Optional C Binding Modifier(token:0x6F587DB).ptr.ptr.valueType (token:0x6F587DF)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6F320B9).ptr.ptr.valueType (token:0x6F320BD)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6C887D9).Optional C Binding Modifier(token:0x6C887DB).ptr.ptr.valueType (token:0x6C887DF)
 
 ;	.proc.beg
 
@@ -15011,8 +15011,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x720C4C9).ptr.ptr.valueType (token:0x720C4CD)
-;	.local.i8 0,"$T2" SIG: ptr.ptr.valueType (token:0x6F590DB)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6F3C4C9).ptr.ptr.valueType (token:0x6F3C4CD)
+;	.local.i8 0,"$T2" SIG: ptr.ptr.valueType (token:0x6C890DB)
 
 ;	.proc.beg
 
@@ -15044,8 +15044,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x720C4C9).ptr.ptr.valueType (token:0x720C4CD)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F59AA9).ptr.ptr.valueType (token:0x6F59AAD)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6F3C4C9).ptr.ptr.valueType (token:0x6F3C4CD)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6C89AA9).ptr.ptr.valueType (token:0x6C89AAD)
 
 ;	.proc.beg
 
@@ -15101,8 +15101,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x717EF61).ptr.ptr.Optional C Binding Modifier(token:0x717EF65).i1
-;	.local.i8 0,"$T2" SIG: ptr.ptr.Optional C Binding Modifier(token:0x6F63F43).i1
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6EAEF61).ptr.ptr.Optional C Binding Modifier(token:0x6EAEF65).i1
+;	.local.i8 0,"$T2" SIG: ptr.ptr.Optional C Binding Modifier(token:0x6C93F43).i1
 
 ;	.proc.beg
 
@@ -15136,8 +15136,8 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x72D7309).ptr.Optional C Binding Modifier(token:0x72D730C).Optional C Binding Modifier(token:0x72D730E).ptr.Optional C Binding Modifier(token:0x72D7311).i1
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F64751).ptr.Optional C Binding Modifier(token:0x6F64754).Optional C Binding Modifier(token:0x6F64756).ptr.Optional C Binding Modifier(token:0x6F64759).i1
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x7007309).ptr.Optional C Binding Modifier(token:0x700730C).Optional C Binding Modifier(token:0x700730E).ptr.Optional C Binding Modifier(token:0x7007311).i1
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6C94751).ptr.Optional C Binding Modifier(token:0x6C94754).Optional C Binding Modifier(token:0x6C94756).ptr.Optional C Binding Modifier(token:0x6C94759).i1
 
 ;	.proc.beg
 
@@ -15171,10 +15171,10 @@ $LN3@Maklocstr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 0,"_Bytes$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"_Ptr$" SIG: Optional C Binding Modifier(token:0x7224DC1).Optional C Binding Modifier(token:0x7224DC3).ptr.void
-;	.local.u8 1,"_Ptr_container$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 2,"_Block_size$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 0,"_Bytes$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6F54DC1).Optional C Binding Modifier(token:0x6F54DC3).ptr.void
+;	.local.u8 1,"_Ptr_container$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 2,"_Block_size$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.i8 3,"$T2" SIG: ptr.void
 
 ;	.proc.beg
@@ -15304,8 +15304,8 @@ $LN2@Allocate_m:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Ptr$" SIG: ptr.valueType (token:0x72D095A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6F657F2)
+;	.formal.i8 0,"_Ptr$" SIG: ptr.valueType (token:0x700095A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6C957F2)
 
 ;	.proc.beg
 
@@ -15337,7 +15337,7 @@ $LN2@Allocate_m:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x72C6461).ptr.ptr.char
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6FF6461).ptr.ptr.char
 ;	.local.i8 0,"$T2" SIG: ptr.ptr.char
 
 ;	.proc.beg
@@ -15372,8 +15372,8 @@ $LN2@Allocate_m:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x72D7F99).ptr.Optional C Binding Modifier(token:0x72D7F9C).Optional C Binding Modifier(token:0x72D7F9E).ptr.char
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F6B861).ptr.Optional C Binding Modifier(token:0x6F6B864).Optional C Binding Modifier(token:0x6F6B866).ptr.char
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x7007F99).ptr.Optional C Binding Modifier(token:0x7007F9C).Optional C Binding Modifier(token:0x7007F9E).ptr.char
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6C9B861).ptr.Optional C Binding Modifier(token:0x6C9B864).Optional C Binding Modifier(token:0x6C9B866).ptr.char
 
 ;	.proc.beg
 
@@ -15402,7 +15402,7 @@ $LN2@Allocate_m:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71AB391).Optional C Binding Modifier(token:0x71AB393).ptr.valueType (token:0x71AB396)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EDB391).Optional C Binding Modifier(token:0x6EDB393).ptr.valueType (token:0x6EDB396)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -15486,7 +15486,7 @@ $LN2@Allocate_m:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7172201).Optional C Binding Modifier(token:0x7172203).ptr.valueType (token:0x7172206)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA2201).Optional C Binding Modifier(token:0x6EA2203).ptr.valueType (token:0x6EA2206)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -15521,7 +15521,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7172201).Optional C Binding Modifier(token:0x7172203).ptr.valueType (token:0x7172206)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA2201).Optional C Binding Modifier(token:0x6EA2203).ptr.valueType (token:0x6EA2206)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -15546,7 +15546,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
 
 ;	.proc.beg
 $LN5@CameraPara:
@@ -15592,7 +15592,7 @@ $LN6@CameraPara:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EA5C9).Optional C Binding Modifier(token:0x71EA5CB).ptr.valueType (token:0x71EA5CE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1A5C9).Optional C Binding Modifier(token:0x6F1A5CB).ptr.valueType (token:0x6F1A5CE)
 ;	.local.i8 0,"$T2" SIG: ptr.i4
 
 ;	.proc.beg
@@ -15637,7 +15637,7 @@ $LN6@CameraPara:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EA5C9).Optional C Binding Modifier(token:0x71EA5CB).ptr.valueType (token:0x71EA5CE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1A5C9).Optional C Binding Modifier(token:0x6F1A5CB).ptr.valueType (token:0x6F1A5CE)
 
 ;	.proc.beg
 
@@ -15677,9 +15677,9 @@ $LN6@CameraPara:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EA5C9).Optional C Binding Modifier(token:0x71EA5CB).ptr.valueType (token:0x71EA5CE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1A5C9).Optional C Binding Modifier(token:0x6F1A5CB).ptr.valueType (token:0x6F1A5CE)
 ;	.formal.i8 1,"_Dest$" SIG: ptr.i4
-;	.formal.i8 2,"_Al_$" SIG: Optional C Binding Modifier(token:0x7201661).ptr.valueType (token:0x7201664)
+;	.formal.i8 2,"_Al_$" SIG: Optional C Binding Modifier(token:0x6F31661).ptr.valueType (token:0x6F31664)
 
 ;	.proc.beg
 
@@ -15723,7 +15723,7 @@ $LN6@CameraPara:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728BE09).Optional C Binding Modifier(token:0x728BE0B).ptr.valueType (token:0x728BE0E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBBE09).Optional C Binding Modifier(token:0x6FBBE0B).ptr.valueType (token:0x6FBBE0E)
 ;	.local.i8 0,"$T2" SIG: ptr.r4
 
 ;	.proc.beg
@@ -15768,7 +15768,7 @@ $LN6@CameraPara:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728BE09).Optional C Binding Modifier(token:0x728BE0B).ptr.valueType (token:0x728BE0E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBBE09).Optional C Binding Modifier(token:0x6FBBE0B).ptr.valueType (token:0x6FBBE0E)
 
 ;	.proc.beg
 
@@ -15808,9 +15808,9 @@ $LN6@CameraPara:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728BE09).Optional C Binding Modifier(token:0x728BE0B).ptr.valueType (token:0x728BE0E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBBE09).Optional C Binding Modifier(token:0x6FBBE0B).ptr.valueType (token:0x6FBBE0E)
 ;	.formal.i8 1,"_Dest$" SIG: ptr.r4
-;	.formal.i8 2,"_Al_$" SIG: Optional C Binding Modifier(token:0x71A8A71).ptr.valueType (token:0x71A8A74)
+;	.formal.i8 2,"_Al_$" SIG: Optional C Binding Modifier(token:0x6ED8A71).ptr.valueType (token:0x6ED8A74)
 
 ;	.proc.beg
 
@@ -15854,8 +15854,8 @@ $LN6@CameraPara:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x719C611).Optional C Binding Modifier(token:0x719C613).ptr.valueType (token:0x719C616)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6FD4782)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ECC611).Optional C Binding Modifier(token:0x6ECC613).ptr.valueType (token:0x6ECC616)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6D04782)
 
 ;	.proc.beg
 
@@ -15899,9 +15899,9 @@ $LN6@CameraPara:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x719C611).Optional C Binding Modifier(token:0x719C613).ptr.valueType (token:0x719C616)
-;	.formal.i8 1,"_Dest$" SIG: ptr.valueType (token:0x72D095A)
-;	.formal.i8 2,"_Al_$" SIG: Optional C Binding Modifier(token:0x719DA79).ptr.valueType (token:0x719DA7C)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ECC611).Optional C Binding Modifier(token:0x6ECC613).ptr.valueType (token:0x6ECC616)
+;	.formal.i8 1,"_Dest$" SIG: ptr.valueType (token:0x700095A)
+;	.formal.i8 2,"_Al_$" SIG: Optional C Binding Modifier(token:0x6ECDA79).ptr.valueType (token:0x6ECDA7C)
 
 ;	.proc.beg
 
@@ -15944,8 +15944,8 @@ $LN6@CameraPara:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x720FA89).Optional C Binding Modifier(token:0x720FA8B).ptr.valueType (token:0x720FA8E)
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6F3FA89).Optional C Binding Modifier(token:0x6F3FA8B).ptr.valueType (token:0x6F3FA8E)
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -16020,8 +16020,8 @@ $LN6@CameraPara:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x7217931).ptr.Optional C Binding Modifier(token:0x7217934).valueType (token:0x7217936)
-;	.formal.i8 1,"_Last$" SIG: Optional C Binding Modifier(token:0x7217931).ptr.Optional C Binding Modifier(token:0x7217934).valueType (token:0x7217936)
+;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x6F47931).ptr.Optional C Binding Modifier(token:0x6F47934).valueType (token:0x6F47936)
+;	.formal.i8 1,"_Last$" SIG: Optional C Binding Modifier(token:0x6F47931).ptr.Optional C Binding Modifier(token:0x6F47934).valueType (token:0x6F47936)
 
 ;	.proc.beg
 
@@ -16179,11 +16179,11 @@ $LN8@Verify_ran:
 ;	.formal.i8 0,"_First$" SIG: ptr.i4
 ;	.formal.i8 1,"_Last$" SIG: ptr.i4
 ;	.formal.i8 2,"_Dest$" SIG: ptr.i4
-;	.local.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 1,"_Dest_ch$" SIG: Optional C Binding Modifier(token:0x72E17C9).Optional C Binding Modifier(token:0x72E17CB).ptr.Optional C Binding Modifier(token:0x72E17CE).i1
-;	.local.i8 2,"_First_ch$" SIG: Optional C Binding Modifier(token:0x7205699).Optional C Binding Modifier(token:0x720569B).ptr.Optional C Binding Modifier(token:0x720569E).Optional C Binding Modifier(token:0x72056A0).i1
+;	.local.u8 0,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 1,"_Dest_ch$" SIG: Optional C Binding Modifier(token:0x70117C9).Optional C Binding Modifier(token:0x70117CB).ptr.Optional C Binding Modifier(token:0x70117CE).i1
+;	.local.i8 2,"_First_ch$" SIG: Optional C Binding Modifier(token:0x6F35699).Optional C Binding Modifier(token:0x6F3569B).ptr.Optional C Binding Modifier(token:0x6F3569E).Optional C Binding Modifier(token:0x6F356A0).i1
 ;	.local.i8 3,"$T2" SIG: ptr.i4
-;	.local.i8 4,"_Last_ch$" SIG: Optional C Binding Modifier(token:0x7205699).Optional C Binding Modifier(token:0x720569B).ptr.Optional C Binding Modifier(token:0x720569E).Optional C Binding Modifier(token:0x72056A0).i1
+;	.local.i8 4,"_Last_ch$" SIG: Optional C Binding Modifier(token:0x6F35699).Optional C Binding Modifier(token:0x6F3569B).ptr.Optional C Binding Modifier(token:0x6F3569E).Optional C Binding Modifier(token:0x6F356A0).i1
 
 ;	.proc.beg
 
@@ -16249,8 +16249,8 @@ $LN8@Verify_ran:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x7286561).ptr.valueType (token:0x7286564)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7059232)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6FB6561).ptr.valueType (token:0x6FB6564)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6D89232)
 
 ;	.proc.beg
 
@@ -16307,8 +16307,8 @@ $LN8@Verify_ran:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EA5C9).Optional C Binding Modifier(token:0x71EA5CB).ptr.valueType (token:0x71EA5CE)
-;	.formal.i8 1,"<_Vals_0>$" SIG: Optional C Binding Modifier(token:0x7220951).ptr.Optional C Binding Modifier(token:0x7220954).i4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1A5C9).Optional C Binding Modifier(token:0x6F1A5CB).ptr.valueType (token:0x6F1A5CE)
+;	.formal.i8 1,"<_Vals_0>$" SIG: Optional C Binding Modifier(token:0x6F50951).ptr.Optional C Binding Modifier(token:0x6F50954).i4
 
 ;	.proc.beg
 
@@ -16423,7 +16423,7 @@ $LN8@Verify_ran:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72191B9).Optional C Binding Modifier(token:0x72191BB).ptr.valueType (token:0x72191BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F491B9).Optional C Binding Modifier(token:0x6F491BB).ptr.valueType (token:0x6F491BE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -16464,8 +16464,8 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72077C9).Optional C Binding Modifier(token:0x72077CB).ptr.valueType (token:0x72077CE)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x72B3C61).Optional C Binding Modifier(token:0x72B3C63).ptr.valueType (token:0x72B3C66)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F377C9).Optional C Binding Modifier(token:0x6F377CB).ptr.valueType (token:0x6F377CE)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6FE3C61).Optional C Binding Modifier(token:0x6FE3C63).ptr.valueType (token:0x6FE3C66)
 
 ;	.proc.beg
 
@@ -16499,11 +16499,11 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x72DD36A)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x72DD36A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x72DD36A)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x77D5643)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x700D36A)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x700D36A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x700D36A)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x7505643)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -16575,11 +16575,11 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x719A542)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x719A542)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x719A542)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x7746B43)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6ECA542)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6ECA542)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6ECA542)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x7476B43)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -16647,7 +16647,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72191B9).Optional C Binding Modifier(token:0x72191BB).ptr.valueType (token:0x72191BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F491B9).Optional C Binding Modifier(token:0x6F491BB).ptr.valueType (token:0x6F491BE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -16673,8 +16673,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B12D1).Optional C Binding Modifier(token:0x72B12D3).ptr.valueType (token:0x72B12D6)
-;	.formal.i8 1,"_Al_$" SIG: Optional C Binding Modifier(token:0x71F8A69).ptr.valueType (token:0x71F8A6C)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE12D1).Optional C Binding Modifier(token:0x6FE12D3).ptr.valueType (token:0x6FE12D6)
+;	.formal.i8 1,"_Al_$" SIG: Optional C Binding Modifier(token:0x6F28A69).ptr.valueType (token:0x6F28A6C)
 
 ;	.proc.beg
 
@@ -16715,8 +16715,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71FFC79).Optional C Binding Modifier(token:0x71FFC7B).ptr.Optional C Binding Modifier(token:0x71FFC7E).valueType (token:0x71FFC80)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72171C1).ptr.Optional C Binding Modifier(token:0x72171C4).valueType (token:0x72171C6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F2FC79).Optional C Binding Modifier(token:0x6F2FC7B).ptr.Optional C Binding Modifier(token:0x6F2FC7E).valueType (token:0x6F2FC80)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F471C1).ptr.Optional C Binding Modifier(token:0x6F471C4).valueType (token:0x6F471C6)
 ;	.local.u1 0,"$T2" SIG: bool
 
 ;	.proc.beg
@@ -16758,8 +16758,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72263E1).Optional C Binding Modifier(token:0x72263E3).ptr.valueType (token:0x72263E6)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x70B62B1).ptr.valueType (token:0x70B62B4)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F563E1).Optional C Binding Modifier(token:0x6F563E3).ptr.valueType (token:0x6F563E6)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6DE62B1).ptr.valueType (token:0x6DE62B4)
 
 ;	.proc.beg
 
@@ -16799,8 +16799,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71FFC79).Optional C Binding Modifier(token:0x71FFC7B).ptr.Optional C Binding Modifier(token:0x71FFC7E).valueType (token:0x71FFC80)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x70B6CC9).ptr.Optional C Binding Modifier(token:0x70B6CCC).valueType (token:0x70B6CCE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F2FC79).Optional C Binding Modifier(token:0x6F2FC7B).ptr.Optional C Binding Modifier(token:0x6F2FC7E).valueType (token:0x6F2FC80)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6DE6CC9).ptr.Optional C Binding Modifier(token:0x6DE6CCC).valueType (token:0x6DE6CCE)
 
 ;	.proc.beg
 
@@ -16836,8 +16836,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x721D02A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x70BA3A2)
+;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6F4D02A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6DEA3A2)
 
 ;	.proc.beg
 
@@ -16871,8 +16871,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x71B1F89).ptr.valueType (token:0x71B1F8C)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x70CE7F1).ptr.valueType (token:0x70CE7F4)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6EE1F89).ptr.valueType (token:0x6EE1F8C)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6DFE7F1).ptr.valueType (token:0x6DFE7F4)
 
 ;	.proc.beg
 
@@ -16902,8 +16902,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
-;	.formal.i8 2,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x71B1F89).ptr.valueType (token:0x71B1F8C)
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
+;	.formal.i8 2,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x6EE1F89).ptr.valueType (token:0x6EE1F8C)
 
 ;	.proc.beg
 
@@ -16973,8 +16973,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x7255A39).ptr.Optional C Binding Modifier(token:0x7255A3C).r4
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x70D9B11).ptr.Optional C Binding Modifier(token:0x70D9B14).r4
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6F85A39).ptr.Optional C Binding Modifier(token:0x6F85A3C).r4
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6E09B11).ptr.Optional C Binding Modifier(token:0x6E09B14).r4
 
 ;	.proc.beg
 
@@ -17004,8 +17004,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x724D759).Optional C Binding Modifier(token:0x724D75B).ptr.r4
-;	.formal.i8 2,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x7255A39).ptr.Optional C Binding Modifier(token:0x7255A3C).r4
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6F7D759).Optional C Binding Modifier(token:0x6F7D75B).ptr.r4
+;	.formal.i8 2,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x6F85A39).ptr.Optional C Binding Modifier(token:0x6F85A3C).r4
 
 ;	.proc.beg
 
@@ -17042,10 +17042,10 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x720C4C9).ptr.ptr.valueType (token:0x720C4CD)
-;	.formal.i8 1,"_New_val$" SIG: Optional C Binding Modifier(token:0x720C4C9).ptr.ptr.valueType (token:0x720C4CD)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x70E385A)
-;	.local.i8 1,"_Old_val$" SIG: ptr.valueType (token:0x728AB6A)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6F3C4C9).ptr.ptr.valueType (token:0x6F3C4CD)
+;	.formal.i8 1,"_New_val$" SIG: Optional C Binding Modifier(token:0x6F3C4C9).ptr.ptr.valueType (token:0x6F3C4CD)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6E1385A)
+;	.local.i8 1,"_Old_val$" SIG: ptr.valueType (token:0x6FBAB6A)
 
 ;	.proc.beg
 
@@ -17147,7 +17147,7 @@ $LN4@operator:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7252F41).Optional C Binding Modifier(token:0x7252F43).ptr.valueType (token:0x7252F46)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F82F41).Optional C Binding Modifier(token:0x6F82F43).ptr.valueType (token:0x6F82F46)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17241,7 +17241,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A4859).Optional C Binding Modifier(token:0x72A485B).ptr.valueType (token:0x72A485E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD4859).Optional C Binding Modifier(token:0x6FD485B).ptr.valueType (token:0x6FD485E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17335,7 +17335,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717CFF1).Optional C Binding Modifier(token:0x717CFF3).ptr.valueType (token:0x717CFF6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EACFF1).Optional C Binding Modifier(token:0x6EACFF3).ptr.valueType (token:0x6EACFF6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17430,7 +17430,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72AA611).Optional C Binding Modifier(token:0x72AA613).ptr.valueType (token:0x72AA616)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FDA611).Optional C Binding Modifier(token:0x6FDA613).ptr.valueType (token:0x6FDA616)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17525,7 +17525,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7298679).Optional C Binding Modifier(token:0x729867B).ptr.valueType (token:0x729867E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC8679).Optional C Binding Modifier(token:0x6FC867B).ptr.valueType (token:0x6FC867E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17619,7 +17619,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7248001).Optional C Binding Modifier(token:0x7248003).ptr.valueType (token:0x7248006)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F78001).Optional C Binding Modifier(token:0x6F78003).ptr.valueType (token:0x6F78006)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17714,7 +17714,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x721E829).Optional C Binding Modifier(token:0x721E82B).ptr.valueType (token:0x721E82E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F4E829).Optional C Binding Modifier(token:0x6F4E82B).ptr.valueType (token:0x6F4E82E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17749,7 +17749,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7252F41).Optional C Binding Modifier(token:0x7252F43).ptr.valueType (token:0x7252F46)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F82F41).Optional C Binding Modifier(token:0x6F82F43).ptr.valueType (token:0x6F82F46)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17771,7 +17771,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A4859).Optional C Binding Modifier(token:0x72A485B).ptr.valueType (token:0x72A485E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD4859).Optional C Binding Modifier(token:0x6FD485B).ptr.valueType (token:0x6FD485E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17793,7 +17793,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717CFF1).Optional C Binding Modifier(token:0x717CFF3).ptr.valueType (token:0x717CFF6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EACFF1).Optional C Binding Modifier(token:0x6EACFF3).ptr.valueType (token:0x6EACFF6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17815,7 +17815,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72AA611).Optional C Binding Modifier(token:0x72AA613).ptr.valueType (token:0x72AA616)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FDA611).Optional C Binding Modifier(token:0x6FDA613).ptr.valueType (token:0x6FDA616)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17837,7 +17837,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7298679).Optional C Binding Modifier(token:0x729867B).ptr.valueType (token:0x729867E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC8679).Optional C Binding Modifier(token:0x6FC867B).ptr.valueType (token:0x6FC867E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17859,7 +17859,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7248001).Optional C Binding Modifier(token:0x7248003).ptr.valueType (token:0x7248006)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F78001).Optional C Binding Modifier(token:0x6F78003).ptr.valueType (token:0x6F78006)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17881,7 +17881,7 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x721E829).Optional C Binding Modifier(token:0x721E82B).ptr.valueType (token:0x721E82E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F4E829).Optional C Binding Modifier(token:0x6F4E82B).ptr.valueType (token:0x6F4E82E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -17907,8 +17907,8 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x720F069).Optional C Binding Modifier(token:0x720F06B).ptr.valueType (token:0x720F06E)
-;	.formal.i8 1,"_Al_$" SIG: Optional C Binding Modifier(token:0x71F8A69).ptr.valueType (token:0x71F8A6C)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F3F069).Optional C Binding Modifier(token:0x6F3F06B).ptr.valueType (token:0x6F3F06E)
+;	.formal.i8 1,"_Al_$" SIG: Optional C Binding Modifier(token:0x6F28A69).ptr.valueType (token:0x6F28A6C)
 
 ;	.proc.beg
 
@@ -17945,8 +17945,8 @@ $LN5@typed_base:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71FFC79).Optional C Binding Modifier(token:0x71FFC7B).ptr.Optional C Binding Modifier(token:0x71FFC7E).valueType (token:0x71FFC80)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72171C1).ptr.Optional C Binding Modifier(token:0x72171C4).valueType (token:0x72171C6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F2FC79).Optional C Binding Modifier(token:0x6F2FC7B).ptr.Optional C Binding Modifier(token:0x6F2FC7E).valueType (token:0x6F2FC80)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F471C1).ptr.Optional C Binding Modifier(token:0x6F471C4).valueType (token:0x6F471C6)
 ;	.local.u1 0,"$T2" SIG: bool
 
 ;	.proc.beg
@@ -17988,8 +17988,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x72363A1).Optional C Binding Modifier(token:0x72363A3).ptr.valueType (token:0x72363A6)
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6F663A1).Optional C Binding Modifier(token:0x6F663A3).ptr.valueType (token:0x6F663A6)
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -18027,10 +18027,10 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x720C4C9).ptr.ptr.valueType (token:0x720C4CD)
-;	.formal.i8 1,"_New_val$" SIG: Optional C Binding Modifier(token:0x72BCD29).Optional C Binding Modifier(token:0x72BCD2B).ptr.ptr.valueType (token:0x72BCD2F)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7134BCA)
-;	.local.i8 1,"_Old_val$" SIG: ptr.valueType (token:0x728AB6A)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6F3C4C9).ptr.ptr.valueType (token:0x6F3C4CD)
+;	.formal.i8 1,"_New_val$" SIG: Optional C Binding Modifier(token:0x6FECD29).Optional C Binding Modifier(token:0x6FECD2B).ptr.ptr.valueType (token:0x6FECD2F)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6E64BCA)
+;	.local.i8 1,"_Old_val$" SIG: ptr.valueType (token:0x6FBAB6A)
 
 ;	.proc.beg
 
@@ -18076,8 +18076,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x720C4C9).ptr.ptr.valueType (token:0x720C4CD)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x7136279).Optional C Binding Modifier(token:0x713627B).ptr.ptr.valueType (token:0x713627F)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6F3C4C9).ptr.ptr.valueType (token:0x6F3C4CD)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6E66279).Optional C Binding Modifier(token:0x6E6627B).ptr.ptr.valueType (token:0x6E6627F)
 
 ;	.proc.beg
 
@@ -18109,8 +18109,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x71F8A69).ptr.valueType (token:0x71F8A6C)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x7136C49).Optional C Binding Modifier(token:0x7136C4B).ptr.valueType (token:0x7136C4E)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6F28A69).ptr.valueType (token:0x6F28A6C)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6E66C49).Optional C Binding Modifier(token:0x6E66C4B).ptr.valueType (token:0x6E66C4E)
 
 ;	.proc.beg
 
@@ -18144,8 +18144,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x71F8EB9).ptr.Optional C Binding Modifier(token:0x71F8EBC).valueType (token:0x71F8EBE)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x713EA81).ptr.Optional C Binding Modifier(token:0x713EA84).valueType (token:0x713EA86)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6F28EB9).ptr.Optional C Binding Modifier(token:0x6F28EBC).valueType (token:0x6F28EBE)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6E6EA81).ptr.Optional C Binding Modifier(token:0x6E6EA84).valueType (token:0x6E6EA86)
 
 ;	.proc.beg
 
@@ -18179,8 +18179,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x7170F59).ptr.u8
-;	.formal.i8 1,"_New_val$" SIG: Optional C Binding Modifier(token:0x7210061).Optional C Binding Modifier(token:0x7210063).ptr.u8
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6EA0F59).ptr.u8
+;	.formal.i8 1,"_New_val$" SIG: Optional C Binding Modifier(token:0x6F40061).Optional C Binding Modifier(token:0x6F40063).ptr.u8
 ;	.local.u8 0,"$T2" SIG: u8
 ;	.local.u8 1,"_Old_val$" SIG: u8
 
@@ -18228,10 +18228,10 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x720C4C9).ptr.ptr.valueType (token:0x720C4CD)
-;	.formal.i8 1,"_New_val$" SIG: Optional C Binding Modifier(token:0x7210AA9).Optional C Binding Modifier(token:0x7210AAB).ptr.ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x71404AA)
-;	.local.i8 1,"_Old_val$" SIG: ptr.valueType (token:0x728AB6A)
+;	.formal.i8 0,"_Val$" SIG: Optional C Binding Modifier(token:0x6F3C4C9).ptr.ptr.valueType (token:0x6F3C4CD)
+;	.formal.i8 1,"_New_val$" SIG: Optional C Binding Modifier(token:0x6F40AA9).Optional C Binding Modifier(token:0x6F40AAB).ptr.ptr.void
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6E704AA)
+;	.local.i8 1,"_Old_val$" SIG: ptr.valueType (token:0x6FBAB6A)
 
 ;	.proc.beg
 
@@ -18279,8 +18279,8 @@ $LN4@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716CA69).Optional C Binding Modifier(token:0x716CA6B).ptr.valueType (token:0x716CA6E)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x719C131).ptr.Optional C Binding Modifier(token:0x719C134).valueType (token:0x719C136)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9CA69).Optional C Binding Modifier(token:0x6E9CA6B).ptr.valueType (token:0x6E9CA6E)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6ECC131).ptr.Optional C Binding Modifier(token:0x6ECC134).valueType (token:0x6ECC136)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -18383,8 +18383,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x72877B9).ptr.Optional C Binding Modifier(token:0x72877BC).Optional C Binding Modifier(token:0x72877BE).ptr.valueType (token:0x72877C1)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x7141629).ptr.Optional C Binding Modifier(token:0x714162C).Optional C Binding Modifier(token:0x714162E).ptr.valueType (token:0x7141631)
+;	.formal.i8 0,"_Arg$" SIG: Optional C Binding Modifier(token:0x6FB77B9).ptr.Optional C Binding Modifier(token:0x6FB77BC).Optional C Binding Modifier(token:0x6FB77BE).ptr.valueType (token:0x6FB77C1)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6E71629).ptr.Optional C Binding Modifier(token:0x6E7162C).Optional C Binding Modifier(token:0x6E7162E).ptr.valueType (token:0x6E71631)
 
 ;	.proc.beg
 
@@ -18416,8 +18416,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7228459).Optional C Binding Modifier(token:0x722845B).ptr.valueType (token:0x722845E)
-;	.local.mb4   0,"_Lock$" SIG: valueType (token:0x7169E91)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F58459).Optional C Binding Modifier(token:0x6F5845B).ptr.valueType (token:0x6F5845E)
+;	.local.mb4   0,"_Lock$" SIG: valueType (token:0x6E99E91)
 
 ;	.proc.beg
 
@@ -18469,11 +18469,11 @@ $LN5@Iterator_b:
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7228459).Optional C Binding Modifier(token:0x722845B).ptr.valueType (token:0x722845E)
-;	.formal.i8 1,"_Parent$" SIG: ptr.Optional C Binding Modifier(token:0x72C9D92).valueType (token:0x72C9D94)
-;	.local.i8 0,"_Parent_proxy$2" SIG: ptr.valueType (token:0x722E212)
-;	.local.mb4   1,"_Lock$3" SIG: valueType (token:0x7169E91)
-;	.local.mb4   2,"_Lock$4" SIG: valueType (token:0x7169E91)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F58459).Optional C Binding Modifier(token:0x6F5845B).ptr.valueType (token:0x6F5845E)
+;	.formal.i8 1,"_Parent$" SIG: ptr.Optional C Binding Modifier(token:0x6FF9D92).valueType (token:0x6FF9D94)
+;	.local.i8 0,"_Parent_proxy$2" SIG: ptr.valueType (token:0x6F5E212)
+;	.local.mb4   1,"_Lock$3" SIG: valueType (token:0x6E99E91)
+;	.local.mb4   2,"_Lock$4" SIG: valueType (token:0x6E99E91)
 
 ;	.proc.beg
 
@@ -18614,7 +18614,7 @@ $LN1@Adopt:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B97B9).Optional C Binding Modifier(token:0x72B97BB).ptr.valueType (token:0x72B97BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE97B9).Optional C Binding Modifier(token:0x6FE97BB).ptr.valueType (token:0x6FE97BE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -18637,7 +18637,7 @@ $LN1@Adopt:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72C48D1).Optional C Binding Modifier(token:0x72C48D3).ptr.valueType (token:0x72C48D6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FF48D1).Optional C Binding Modifier(token:0x6FF48D3).ptr.valueType (token:0x6FF48D6)
 
 ;	.proc.beg
 
@@ -18676,8 +18676,8 @@ $LN1@Adopt:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72C48D1).Optional C Binding Modifier(token:0x72C48D3).ptr.valueType (token:0x72C48D6)
-;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x72BE179).ptr.Optional C Binding Modifier(token:0x72BE17C).valueType (token:0x72BE17E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FF48D1).Optional C Binding Modifier(token:0x6FF48D3).ptr.valueType (token:0x6FF48D6)
+;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x6FEE179).ptr.Optional C Binding Modifier(token:0x6FEE17C).valueType (token:0x6FEE17E)
 
 ;	.proc.beg
 
@@ -18715,12 +18715,12 @@ $LN1@Adopt:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x728B73A)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x728B73A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x728B73A)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x72D5CA2)
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x728B73A)
-;	.local.mb1   3,"$T5" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6FBB73A)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6FBB73A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6FBB73A)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x7005CA2)
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x6FBB73A)
+;	.local.mb1   3,"$T5" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	3		; $T5
@@ -18802,8 +18802,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3409).Optional C Binding Modifier(token:0x71B340B).ptr.valueType (token:0x71B340E)
-;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x72C5F59).ptr.valueType (token:0x72C5F5C)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3409).Optional C Binding Modifier(token:0x6EE340B).ptr.valueType (token:0x6EE340E)
+;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x6FF5F59).ptr.valueType (token:0x6FF5F5C)
 
 ;	.proc.beg
 
@@ -18843,7 +18843,7 @@ $LN5@OutputArra:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B1209).Optional C Binding Modifier(token:0x72B120B).ptr.valueType (token:0x72B120E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE1209).Optional C Binding Modifier(token:0x6FE120B).ptr.valueType (token:0x6FE120E)
 
 ;	.proc.beg
 
@@ -19148,9 +19148,9 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B1209).Optional C Binding Modifier(token:0x72B120B).ptr.valueType (token:0x72B120E)
-;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x7283B31).Optional C Binding Modifier(token:0x7283B33).ptr.valueType (token:0x7283B36)
-;	.local.mb16  0,"$T2" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE1209).Optional C Binding Modifier(token:0x6FE120B).ptr.valueType (token:0x6FE120E)
+;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x6FB3B31).Optional C Binding Modifier(token:0x6FB3B33).ptr.valueType (token:0x6FB3B36)
+;	.local.mb16  0,"$T2" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
 
 ;	.proc.beg
 
@@ -19520,10 +19520,10 @@ $LN3@Mat:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B1209).Optional C Binding Modifier(token:0x72B120B).ptr.valueType (token:0x72B120E)
-;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x7283B31).Optional C Binding Modifier(token:0x7283B33).ptr.valueType (token:0x7283B36)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8992141).ptr.valueType (token:0x8992144)
-;	.local.mb16  1,"$T3" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE1209).Optional C Binding Modifier(token:0x6FE120B).ptr.valueType (token:0x6FE120E)
+;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x6FB3B31).Optional C Binding Modifier(token:0x6FB3B33).ptr.valueType (token:0x6FB3B36)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8582141).ptr.valueType (token:0x8582144)
+;	.local.mb16  1,"$T3" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
 
 ;	.proc.beg
 
@@ -19943,12 +19943,12 @@ $LN1@operator:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x7257192)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x7257192)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7257192)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x72D5CA2)
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x7257192)
-;	.local.mb1   3,"$T5" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6F87192)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6F87192)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6F87192)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x7005CA2)
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x6F87192)
+;	.local.mb1   3,"$T5" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	3		; $T5
@@ -20031,7 +20031,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7216101).Optional C Binding Modifier(token:0x7216103).ptr.valueType (token:0x7216106)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F46101).Optional C Binding Modifier(token:0x6F46103).ptr.valueType (token:0x6F46106)
 
 ;	.proc.beg
 
@@ -20077,7 +20077,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717C451).Optional C Binding Modifier(token:0x717C453).ptr.valueType (token:0x717C456)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EAC451).Optional C Binding Modifier(token:0x6EAC453).ptr.valueType (token:0x6EAC456)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -20102,7 +20102,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A7BB9).Optional C Binding Modifier(token:0x72A7BBB).ptr.valueType (token:0x72A7BBE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD7BB9).Optional C Binding Modifier(token:0x6FD7BBB).ptr.valueType (token:0x6FD7BBE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -20128,12 +20128,12 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x72BD10A)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x72BD10A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x72BD10A)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x72D5CA2)
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x72BD10A)
-;	.local.mb1   3,"$T5" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6FED10A)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6FED10A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6FED10A)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x7005CA2)
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x6FED10A)
+;	.local.mb1   3,"$T5" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	3		; $T5
@@ -20218,11 +20218,11 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x72066F9).class (token:0x72066FB)
-;	.formal.i8 1,"_to_object$" SIG: Optional C Binding Modifier(token:0x724B271).ptr.ptr.Optional C Binding Modifier(token:0x724B275).Optional C Binding Modifier(token:0x724B277).i1
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F366F9).class (token:0x6F366FB)
+;	.formal.i8 1,"_to_object$" SIG: Optional C Binding Modifier(token:0x6F7B271).ptr.ptr.Optional C Binding Modifier(token:0x6F7B275).Optional C Binding Modifier(token:0x6F7B277).i1
 ;	.formal.mptr 2,"_from_object$" SIG: string
 ;	.local.u8 0,"_size$" SIG: u8
-;	.local.mb8   1,"_char_buf$" SIG: valueType (token:0x721F901)
+;	.local.mb8   1,"_char_buf$" SIG: valueType (token:0x6F4F901)
 
 ;	.proc.beg
 
@@ -20343,7 +20343,7 @@ $LN4@context_no:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x72066F9).class (token:0x72066FB)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F366F9).class (token:0x6F366FB)
 
 ;	.proc.beg
 
@@ -20371,7 +20371,7 @@ $LN4@context_no:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x72066F9).class (token:0x72066FB)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F366F9).class (token:0x6F366FB)
 ;	.formal.u1 1,"disposing$" SIG: bool
 
 ;	.proc.beg
@@ -20411,7 +20411,7 @@ $LN12@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x72066F9).class (token:0x72066FB)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F366F9).class (token:0x6F366FB)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -20435,7 +20435,7 @@ $LN12@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7173B71).class (token:0x7173B73)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA3B71).class (token:0x6EA3B73)
 
 ;	.proc.beg
 
@@ -20463,7 +20463,7 @@ $LN12@:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7173B71).class (token:0x7173B73)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA3B71).class (token:0x6EA3B73)
 ;	.formal.u1 1,"disposing$" SIG: bool
 
 ;	.proc.beg
@@ -20503,7 +20503,7 @@ $LN12@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7173B71).class (token:0x7173B73)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA3B71).class (token:0x6EA3B73)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -20526,7 +20526,7 @@ $LN12@:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7290C11).class (token:0x7290C13)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC0C11).class (token:0x6FC0C13)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -20553,12 +20553,12 @@ $LN12@:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x7290622)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x7290622)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7290622)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x72D5CA2)
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x7290622)
-;	.local.mb1   3,"$T5" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6FC0622)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6FC0622)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6FC0622)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x7005CA2)
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x6FC0622)
+;	.local.mb1   3,"$T5" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	3		; $T5
@@ -20639,7 +20639,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716F931).Optional C Binding Modifier(token:0x716F933).ptr.Optional C Binding Modifier(token:0x716F936).valueType (token:0x716F938)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9F931).Optional C Binding Modifier(token:0x6E9F933).ptr.Optional C Binding Modifier(token:0x6E9F936).valueType (token:0x6E9F938)
 ;	.local.u1 0,"$T2" SIG: bool
 
 ;	.proc.beg
@@ -20679,10 +20679,10 @@ $LN4@empty:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.u8 1,"_Pos$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x72A03C9).ptr.valueType (token:0x72A03CC)
-;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x8629F59).ptr.i4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.u8 1,"_Pos$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x6FD03C9).ptr.valueType (token:0x6FD03CC)
+;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x8219F59).ptr.i4
 
 ;	.proc.beg
 
@@ -20753,7 +20753,7 @@ $LN2@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A6579).Optional C Binding Modifier(token:0x72A657B).ptr.valueType (token:0x72A657E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD6579).Optional C Binding Modifier(token:0x6FD657B).ptr.valueType (token:0x6FD657E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -20781,7 +20781,7 @@ $LN2@at:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728D899).Optional C Binding Modifier(token:0x728D89B).ptr.valueType (token:0x728D89E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBD899).Optional C Binding Modifier(token:0x6FBD89B).ptr.valueType (token:0x6FBD89E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -20811,9 +20811,9 @@ $LN2@at:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72BCEF9).Optional C Binding Modifier(token:0x72BCEFB).ptr.valueType (token:0x72BCEFE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FECEF9).Optional C Binding Modifier(token:0x6FECEFB).ptr.valueType (token:0x6FECEFE)
 ;	.local.u1 0,"tv72"
-;	.local.u1 1,"_Zero_uncaught_exceptions$" SIG: Optional C Binding Modifier(token:0x71ADEE9).bool
+;	.local.u1 1,"_Zero_uncaught_exceptions$" SIG: Optional C Binding Modifier(token:0x6EDDEE9).bool
 
 ;	.proc.beg
 
@@ -20890,9 +20890,9 @@ $LN1@sentry:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72BCEF9).Optional C Binding Modifier(token:0x72BCEFB).ptr.valueType (token:0x72BCEFE)
-;	.formal.i8 1,"_Ostr$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.local.i8 0,"_Tied$" SIG: Optional C Binding Modifier(token:0x7221299).Optional C Binding Modifier(token:0x722129B).ptr.valueType (token:0x722129E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FECEF9).Optional C Binding Modifier(token:0x6FECEFB).ptr.valueType (token:0x6FECEFE)
+;	.formal.i8 1,"_Ostr$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.local.i8 0,"_Tied$" SIG: Optional C Binding Modifier(token:0x6F51299).Optional C Binding Modifier(token:0x6F5129B).ptr.valueType (token:0x6F5129E)
 
 ;	.proc.beg
 
@@ -21031,8 +21031,8 @@ $LN1@sentry:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717A4C1).Optional C Binding Modifier(token:0x717A4C3).ptr.Optional C Binding Modifier(token:0x717A4C6).valueType (token:0x717A4C8)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x866BED1).ptr.Optional C Binding Modifier(token:0x866BED4).valueType (token:0x866BED6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EAA4C1).Optional C Binding Modifier(token:0x6EAA4C3).ptr.Optional C Binding Modifier(token:0x6EAA4C6).valueType (token:0x6EAA4C8)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x825BED1).ptr.Optional C Binding Modifier(token:0x825BED4).valueType (token:0x825BED6)
 
 ;	.proc.beg
 
@@ -21067,8 +21067,8 @@ $LN1@sentry:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71F4449).Optional C Binding Modifier(token:0x71F444B).ptr.valueType (token:0x71F444E)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x866C891).ptr.valueType (token:0x866C894)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F24449).Optional C Binding Modifier(token:0x6F2444B).ptr.valueType (token:0x6F2444E)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x825C891).ptr.valueType (token:0x825C894)
 
 ;	.proc.beg
 
@@ -21103,8 +21103,8 @@ $LN1@sentry:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EC289).Optional C Binding Modifier(token:0x71EC28B).ptr.valueType (token:0x71EC28E)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8670051).ptr.valueType (token:0x8670054)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1C289).Optional C Binding Modifier(token:0x6F1C28B).ptr.valueType (token:0x6F1C28E)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8260051).ptr.valueType (token:0x8260054)
 
 ;	.proc.beg
 
@@ -21137,8 +21137,8 @@ $LN1@sentry:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8677291).ptr.valueType (token:0x8677294)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8267291).ptr.valueType (token:0x8267294)
 
 ;	.proc.beg
 
@@ -21174,8 +21174,8 @@ $LN1@sentry:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x721F1F1).ptr.valueType (token:0x721F1F4)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F4F1F1).ptr.valueType (token:0x6F4F1F4)
 
 ;	.proc.beg
 
@@ -21208,8 +21208,8 @@ $LN1@sentry:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7174C89).Optional C Binding Modifier(token:0x7174C8B).ptr.valueType (token:0x7174C8E)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x869B1EA)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA4C89).Optional C Binding Modifier(token:0x6EA4C8B).ptr.valueType (token:0x6EA4C8E)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x828B1EA)
 ;	.local.u1 1,"tv78"
 
 ;	.proc.beg
@@ -21279,9 +21279,9 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7174C89).Optional C Binding Modifier(token:0x7174C8B).ptr.valueType (token:0x7174C8E)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x7249371).Optional C Binding Modifier(token:0x7249373).ptr.valueType (token:0x7249376)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x869B1EA)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA4C89).Optional C Binding Modifier(token:0x6EA4C8B).ptr.valueType (token:0x6EA4C8E)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F79371).Optional C Binding Modifier(token:0x6F79373).ptr.valueType (token:0x6F79376)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x828B1EA)
 
 ;	.proc.beg
 
@@ -21366,9 +21366,9 @@ $LN1@Reset_move:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7174C89).Optional C Binding Modifier(token:0x7174C8B).ptr.valueType (token:0x7174C8E)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x7184681).ptr.Optional C Binding Modifier(token:0x7184684).valueType (token:0x7184686)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x869B1EA)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA4C89).Optional C Binding Modifier(token:0x6EA4C8B).ptr.valueType (token:0x6EA4C8E)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6EB4681).ptr.Optional C Binding Modifier(token:0x6EB4684).valueType (token:0x6EB4686)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x828B1EA)
 
 ;	.proc.beg
 
@@ -21414,7 +21414,7 @@ $LN1@Reset_copy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7174C89).Optional C Binding Modifier(token:0x7174C8B).ptr.valueType (token:0x7174C8E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA4C89).Optional C Binding Modifier(token:0x6EA4C8B).ptr.valueType (token:0x6EA4C8E)
 
 ;	.proc.beg
 
@@ -21448,8 +21448,8 @@ $LN1@Reset_copy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3781).Optional C Binding Modifier(token:0x71B3783).ptr.valueType (token:0x71B3786)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x86D7179).ptr.valueType (token:0x86D717C)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3781).Optional C Binding Modifier(token:0x6EE3783).ptr.valueType (token:0x6EE3786)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x82C7179).ptr.valueType (token:0x82C717C)
 
 ;	.proc.beg
 
@@ -21482,8 +21482,8 @@ $LN1@Reset_copy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3781).Optional C Binding Modifier(token:0x71B3783).ptr.valueType (token:0x71B3786)
-;	.local.u2 0,"$T2" SIG: Optional C Binding Modifier(token:0x72B1E59).char
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3781).Optional C Binding Modifier(token:0x6EE3783).ptr.valueType (token:0x6EE3786)
+;	.local.u2 0,"$T2" SIG: Optional C Binding Modifier(token:0x6FE1E59).char
 
 ;	.proc.beg
 
@@ -21547,9 +21547,9 @@ $LN1@Reset_copy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x724BB41).Optional C Binding Modifier(token:0x724BB43).ptr.Optional C Binding Modifier(token:0x724BB46).valueType (token:0x724BB48)
-;	.local.i8 0,"_Result$" SIG: ptr.Optional C Binding Modifier(token:0x719A7C2).char
-;	.local.i8 1,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x86F13DA).char
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F7BB41).Optional C Binding Modifier(token:0x6F7BB43).ptr.Optional C Binding Modifier(token:0x6F7BB46).valueType (token:0x6F7BB48)
+;	.local.i8 0,"_Result$" SIG: ptr.Optional C Binding Modifier(token:0x6ECA7C2).char
+;	.local.i8 1,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x82E13DA).char
 
 ;	.proc.beg
 
@@ -21608,8 +21608,8 @@ $LN2@Myptr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716F931).Optional C Binding Modifier(token:0x716F933).ptr.Optional C Binding Modifier(token:0x716F936).valueType (token:0x716F938)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x86F2439).ptr.Optional C Binding Modifier(token:0x86F243C).valueType (token:0x86F243E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9F931).Optional C Binding Modifier(token:0x6E9F933).ptr.Optional C Binding Modifier(token:0x6E9F936).valueType (token:0x6E9F938)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x82E2439).ptr.Optional C Binding Modifier(token:0x82E243C).valueType (token:0x82E243E)
 
 ;	.proc.beg
 
@@ -21642,8 +21642,8 @@ $LN2@Myptr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x86F2D11).ptr.valueType (token:0x86F2D14)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x82E2D11).ptr.valueType (token:0x82E2D14)
 
 ;	.proc.beg
 
@@ -21676,8 +21676,8 @@ $LN2@Myptr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.local.i1 0,"$T2" SIG: Optional C Binding Modifier(token:0x7252A41).Optional C Binding Modifier(token:0x7252A43).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.local.i1 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F82A41).Optional C Binding Modifier(token:0x6F82A43).i1
 
 ;	.proc.beg
 
@@ -21743,12 +21743,12 @@ $LN2@Myptr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_New_ptr$" SIG: Optional C Binding Modifier(token:0x72E17C9).Optional C Binding Modifier(token:0x72E17CB).ptr.Optional C Binding Modifier(token:0x72E17CE).i1
-;	.formal.i8 2,"_Old_ptr$" SIG: Optional C Binding Modifier(token:0x7205699).Optional C Binding Modifier(token:0x720569B).ptr.Optional C Binding Modifier(token:0x720569E).Optional C Binding Modifier(token:0x72056A0).i1
-;	.formal.u8 3,"_Old_size$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.u8 4,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.i1 5,"_Ch$" SIG: Optional C Binding Modifier(token:0x7252A41).Optional C Binding Modifier(token:0x7252A43).i1
-;	.local.i1 0,"$T2" SIG: Optional C Binding Modifier(token:0x7252A41).Optional C Binding Modifier(token:0x7252A43).i1
+;	.formal.i8 1,"_New_ptr$" SIG: Optional C Binding Modifier(token:0x70117C9).Optional C Binding Modifier(token:0x70117CB).ptr.Optional C Binding Modifier(token:0x70117CE).i1
+;	.formal.i8 2,"_Old_ptr$" SIG: Optional C Binding Modifier(token:0x6F35699).Optional C Binding Modifier(token:0x6F3569B).ptr.Optional C Binding Modifier(token:0x6F3569E).Optional C Binding Modifier(token:0x6F356A0).i1
+;	.formal.u8 3,"_Old_size$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.u8 4,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.i1 5,"_Ch$" SIG: Optional C Binding Modifier(token:0x6F82A41).Optional C Binding Modifier(token:0x6F82A43).i1
+;	.local.i1 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F82A41).Optional C Binding Modifier(token:0x6F82A43).i1
 
 ;	.proc.beg
 
@@ -21804,9 +21804,9 @@ $LN2@Myptr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72539C9).Optional C Binding Modifier(token:0x72539CB).ptr.Optional C Binding Modifier(token:0x72539CE).valueType (token:0x72539D0)
-;	.local.i8 0,"_Result$" SIG: ptr.Optional C Binding Modifier(token:0x7225A8A).Optional C Binding Modifier(token:0x7225A8C).i1
-;	.local.i8 1,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8705012).Optional C Binding Modifier(token:0x8705014).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F839C9).Optional C Binding Modifier(token:0x6F839CB).ptr.Optional C Binding Modifier(token:0x6F839CE).valueType (token:0x6F839D0)
+;	.local.i8 0,"_Result$" SIG: ptr.Optional C Binding Modifier(token:0x6F55A8A).Optional C Binding Modifier(token:0x6F55A8C).i1
+;	.local.i8 1,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x82F5012).Optional C Binding Modifier(token:0x82F5014).i1
 
 ;	.proc.beg
 
@@ -21865,9 +21865,9 @@ $LN2@Myptr:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728D899).Optional C Binding Modifier(token:0x728D89B).ptr.valueType (token:0x728D89E)
-;	.local.i8 0,"_Result$" SIG: ptr.Optional C Binding Modifier(token:0x7207992).i1
-;	.local.i8 1,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8705842).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBD899).Optional C Binding Modifier(token:0x6FBD89B).ptr.valueType (token:0x6FBD89E)
+;	.local.i8 0,"_Result$" SIG: ptr.Optional C Binding Modifier(token:0x6F37992).i1
+;	.local.i8 1,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x82F5842).i1
 
 ;	.proc.beg
 
@@ -21924,9 +21924,9 @@ $LN2@Myptr:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B97B9).Optional C Binding Modifier(token:0x72B97BB).ptr.valueType (token:0x72B97BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE97B9).Optional C Binding Modifier(token:0x6FE97BB).ptr.valueType (token:0x6FE97BE)
 ;	.formal.i8 1,"_Parg$" SIG: ptr.i4
-;	.formal.i8 2,"_Pvector$" SIG: ptr.Optional C Binding Modifier(token:0x72C9D92).valueType (token:0x72C9D94)
+;	.formal.i8 2,"_Pvector$" SIG: ptr.Optional C Binding Modifier(token:0x6FF9D92).valueType (token:0x6FF9D94)
 
 ;	.proc.beg
 
@@ -21979,8 +21979,8 @@ $LN5@Vector_con:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A9679).Optional C Binding Modifier(token:0x71A967B).ptr.Optional C Binding Modifier(token:0x71A967E).valueType (token:0x71A9680)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x870CC89).ptr.Optional C Binding Modifier(token:0x870CC8C).valueType (token:0x870CC8E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED9679).Optional C Binding Modifier(token:0x6ED967B).ptr.Optional C Binding Modifier(token:0x6ED967E).valueType (token:0x6ED9680)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x82FCC89).ptr.Optional C Binding Modifier(token:0x82FCC8C).valueType (token:0x82FCC8E)
 
 ;	.proc.beg
 
@@ -22013,8 +22013,8 @@ $LN5@Vector_con:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x870D4E1).ptr.valueType (token:0x870D4E4)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x82FD4E1).ptr.valueType (token:0x82FD4E4)
 
 ;	.proc.beg
 
@@ -22048,8 +22048,8 @@ $LN5@Vector_con:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72DDDF1).ptr.valueType (token:0x72DDDF4)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x700DDF1).ptr.valueType (token:0x700DDF4)
 
 ;	.proc.beg
 
@@ -22081,7 +22081,7 @@ $LN5@Vector_con:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A7D61).Optional C Binding Modifier(token:0x71A7D63).ptr.valueType (token:0x71A7D66)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED7D61).Optional C Binding Modifier(token:0x6ED7D63).ptr.valueType (token:0x6ED7D66)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -22106,7 +22106,7 @@ $LN5@Vector_con:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x72B456A)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6FE456A)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -22154,7 +22154,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7203759).Optional C Binding Modifier(token:0x720375B).ptr.valueType (token:0x720375E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F33759).Optional C Binding Modifier(token:0x6F3375B).ptr.valueType (token:0x6F3375E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -22179,7 +22179,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x72A624A)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6FD624A)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -22228,8 +22228,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -22263,7 +22263,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
 ;	.formal.i8 1,"_First$" SIG: ptr.r4
 ;	.formal.i8 2,"_Last$" SIG: ptr.r4
 
@@ -22297,8 +22297,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x724D759).Optional C Binding Modifier(token:0x724D75B).ptr.r4
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6F7D759).Optional C Binding Modifier(token:0x6F7D75B).ptr.r4
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -22336,8 +22336,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7215B81).Optional C Binding Modifier(token:0x7215B83).ptr.Optional C Binding Modifier(token:0x7215B86).valueType (token:0x7215B88)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x878C739).ptr.Optional C Binding Modifier(token:0x878C73C).valueType (token:0x878C73E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F45B81).Optional C Binding Modifier(token:0x6F45B83).ptr.Optional C Binding Modifier(token:0x6F45B86).valueType (token:0x6F45B88)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x837C739).ptr.Optional C Binding Modifier(token:0x837C73C).valueType (token:0x837C73E)
 
 ;	.proc.beg
 
@@ -22376,10 +22376,10 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3781).Optional C Binding Modifier(token:0x71B3783).ptr.valueType (token:0x71B3786)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x7224079).ptr.Optional C Binding Modifier(token:0x722407C).valueType (token:0x722407E)
-;	.local.i8 0,"_Right_data_mem$" SIG: Optional C Binding Modifier(token:0x71F4031).Optional C Binding Modifier(token:0x71F4033).ptr.Optional C Binding Modifier(token:0x71F4036).u1
-;	.local.i8 1,"_My_data_mem$" SIG: Optional C Binding Modifier(token:0x7196751).Optional C Binding Modifier(token:0x7196753).ptr.u1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3781).Optional C Binding Modifier(token:0x6EE3783).ptr.valueType (token:0x6EE3786)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F54079).ptr.Optional C Binding Modifier(token:0x6F5407C).valueType (token:0x6F5407E)
+;	.local.i8 0,"_Right_data_mem$" SIG: Optional C Binding Modifier(token:0x6F24031).Optional C Binding Modifier(token:0x6F24033).ptr.Optional C Binding Modifier(token:0x6F24036).u1
+;	.local.i8 1,"_My_data_mem$" SIG: Optional C Binding Modifier(token:0x6EC6751).Optional C Binding Modifier(token:0x6EC6753).ptr.u1
 
 ;	.proc.beg
 
@@ -22436,8 +22436,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x72B1961).Optional C Binding Modifier(token:0x72B1963).ptr.char
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6FE1961).Optional C Binding Modifier(token:0x6FE1963).ptr.char
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -22473,13 +22473,13 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716F931).Optional C Binding Modifier(token:0x716F933).ptr.Optional C Binding Modifier(token:0x716F936).valueType (token:0x716F938)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9F931).Optional C Binding Modifier(token:0x6E9F933).ptr.Optional C Binding Modifier(token:0x6E9F936).valueType (token:0x6E9F938)
 ;	.local.u8 0,"$T2" SIG: u8
-;	.local.u8 1,"_Storage_max$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 2,"$T3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 3,"$T4" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 4,"$T5" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 5,"_Alloc_max$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.local.u8 1,"_Storage_max$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 2,"$T3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 3,"$T4" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 4,"$T5" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 5,"_Alloc_max$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -22544,10 +22544,10 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72B96B9).ptr.Optional C Binding Modifier(token:0x72B96BC).valueType (token:0x72B96BE)
-;	.local.i8 0,"_Right_data_mem$" SIG: Optional C Binding Modifier(token:0x71F4031).Optional C Binding Modifier(token:0x71F4033).ptr.Optional C Binding Modifier(token:0x71F4036).u1
-;	.local.i8 1,"_My_data_mem$" SIG: Optional C Binding Modifier(token:0x7196751).Optional C Binding Modifier(token:0x7196753).ptr.u1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6FE96B9).ptr.Optional C Binding Modifier(token:0x6FE96BC).valueType (token:0x6FE96BE)
+;	.local.i8 0,"_Right_data_mem$" SIG: Optional C Binding Modifier(token:0x6F24031).Optional C Binding Modifier(token:0x6F24033).ptr.Optional C Binding Modifier(token:0x6F24036).u1
+;	.local.i8 1,"_My_data_mem$" SIG: Optional C Binding Modifier(token:0x6EC6751).Optional C Binding Modifier(token:0x6EC6753).ptr.u1
 
 ;	.proc.beg
 
@@ -22601,8 +22601,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x72E17C9).Optional C Binding Modifier(token:0x72E17CB).ptr.Optional C Binding Modifier(token:0x72E17CE).i1
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x70117C9).Optional C Binding Modifier(token:0x70117CB).ptr.Optional C Binding Modifier(token:0x70117CE).i1
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -22633,7 +22633,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
 ;	.formal.i8 1,"_First$" SIG: ptr.i4
 ;	.formal.i8 2,"_Last$" SIG: ptr.i4
 
@@ -22667,8 +22667,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x71ACCC1).Optional C Binding Modifier(token:0x71ACCC3).ptr.i4
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6EDCCC1).Optional C Binding Modifier(token:0x6EDCCC3).ptr.i4
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -22704,13 +22704,13 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7215B81).Optional C Binding Modifier(token:0x7215B83).ptr.Optional C Binding Modifier(token:0x7215B86).valueType (token:0x7215B88)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F45B81).Optional C Binding Modifier(token:0x6F45B83).ptr.Optional C Binding Modifier(token:0x6F45B86).valueType (token:0x6F45B88)
 ;	.local.u8 0,"$T2" SIG: u8
-;	.local.u8 1,"_Storage_max$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 2,"$T3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 3,"$T4" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 4,"$T5" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 5,"_Alloc_max$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.local.u8 1,"_Storage_max$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 2,"$T3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 3,"$T4" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 4,"$T5" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 5,"_Alloc_max$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -22775,7 +22775,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_It$" SIG: Optional C Binding Modifier(token:0x721C899).ptr.valueType (token:0x721C89C)
+;	.formal.i8 0,"_It$" SIG: Optional C Binding Modifier(token:0x6F4C899).ptr.valueType (token:0x6F4C89C)
 ;	.local.i8 0,"$T2" SIG: ptr.i4
 
 ;	.proc.beg
@@ -22819,8 +22819,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A3D79).Optional C Binding Modifier(token:0x72A3D7B).ptr.valueType (token:0x72A3D7E)
-;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x720E4D1).ptr.Optional C Binding Modifier(token:0x720E4D4).valueType (token:0x720E4D6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD3D79).Optional C Binding Modifier(token:0x6FD3D7B).ptr.valueType (token:0x6FD3D7E)
+;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x6F3E4D1).ptr.Optional C Binding Modifier(token:0x6F3E4D4).valueType (token:0x6F3E4D6)
 
 ;	.proc.beg
 
@@ -22877,8 +22877,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72228F9).Optional C Binding Modifier(token:0x72228FB).ptr.valueType (token:0x72228FE)
-;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x7187D99).ptr.Optional C Binding Modifier(token:0x7187D9C).valueType (token:0x7187D9E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F528F9).Optional C Binding Modifier(token:0x6F528FB).ptr.valueType (token:0x6F528FE)
+;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x6EB7D99).ptr.Optional C Binding Modifier(token:0x6EB7D9C).valueType (token:0x6EB7D9E)
 
 ;	.proc.beg
 
@@ -22935,8 +22935,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717CEE1).Optional C Binding Modifier(token:0x717CEE3).ptr.valueType (token:0x717CEE6)
-;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x720BC39).ptr.Optional C Binding Modifier(token:0x720BC3C).valueType (token:0x720BC3E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EACEE1).Optional C Binding Modifier(token:0x6EACEE3).ptr.valueType (token:0x6EACEE6)
+;	.formal.i8 1,"m$" SIG: Optional C Binding Modifier(token:0x6F3BC39).ptr.Optional C Binding Modifier(token:0x6F3BC3C).valueType (token:0x6F3BC3E)
 
 ;	.proc.beg
 
@@ -22988,7 +22988,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7226221).Optional C Binding Modifier(token:0x7226223).ptr.valueType (token:0x7226226)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F56221).Optional C Binding Modifier(token:0x6F56223).ptr.valueType (token:0x6F56226)
 
 ;	.proc.beg
 
@@ -23023,23 +23023,23 @@ _TEXT	ENDS
 ; Exception Information:
 ; 4 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Ostr$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.formal.i8 1,"_Val$" SIG: ptr.Optional C Binding Modifier(token:0x7225A8A).Optional C Binding Modifier(token:0x7225A8C).i1
+;	.formal.i8 0,"_Ostr$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.formal.i8 1,"_Val$" SIG: ptr.Optional C Binding Modifier(token:0x6F55A8A).Optional C Binding Modifier(token:0x6F55A8C).i1
 ;	.local.i4 0,"_State$" SIG: i4
 ;	.local.i8 1,"_Pad$" SIG: i8
 ;	.local.u4 2,"_rethrow$0$"
 ;	.local.i8 3,"_Count$" SIG: i8
 ;	.local.i8 4,"$T2" SIG: i8
 ;	.local.i8 5,"_storage$0$"
-;	.local.i8 6,"$T3" SIG: Optional C Binding Modifier(token:0x8A85379).ptr.valueType (token:0x8A8537C)
-;	.local.i8 7,"$T4" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
+;	.local.i8 6,"$T3" SIG: Optional C Binding Modifier(token:0x8675379).ptr.valueType (token:0x867537C)
+;	.local.i8 7,"$T4" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
 ;	.local.i4 8,"tv304"
 ;	.local.u4 9,"_excode$0$"
-;	.local.i4 10,"$T5" SIG: Optional C Binding Modifier(token:0x717E159).i4
-;	.local.i4 11,"$T6" SIG: Optional C Binding Modifier(token:0x717E159).i4
-;	.local.i4 12,"$T7" SIG: Optional C Binding Modifier(token:0x717E159).i4
-;	.local.i4 13,"$T8" SIG: Optional C Binding Modifier(token:0x717E159).i4
-;	.local.mb16  14,"_Ok$" SIG: Optional C Binding Modifier(token:0x728D989).valueType (token:0x728D98B)
+;	.local.i4 10,"$T5" SIG: Optional C Binding Modifier(token:0x6EAE159).i4
+;	.local.i4 11,"$T6" SIG: Optional C Binding Modifier(token:0x6EAE159).i4
+;	.local.i4 12,"$T7" SIG: Optional C Binding Modifier(token:0x6EAE159).i4
+;	.local.i4 13,"$T8" SIG: Optional C Binding Modifier(token:0x6EAE159).i4
+;	.local.mb16  14,"_Ok$" SIG: Optional C Binding Modifier(token:0x6FBD989).valueType (token:0x6FBD98B)
 
 ;	.proc.beg
 
@@ -23473,9 +23473,9 @@ $LN47@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728C059).Optional C Binding Modifier(token:0x728C05B).ptr.valueType (token:0x728C05E)
-;	.formal.i8 2,"_Lobj$" SIG: Optional C Binding Modifier(token:0x7235839).ptr.Optional C Binding Modifier(token:0x723583C).valueType (token:0x723583E)
-;	.local.mb44  0,"$T2" SIG: valueType (token:0x72C08D1)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBC059).Optional C Binding Modifier(token:0x6FBC05B).ptr.valueType (token:0x6FBC05E)
+;	.formal.i8 2,"_Lobj$" SIG: Optional C Binding Modifier(token:0x6F65839).ptr.Optional C Binding Modifier(token:0x6F6583C).valueType (token:0x6F6583E)
+;	.local.mb44  0,"$T2" SIG: valueType (token:0x6FF08D1)
 
 ;	.proc.beg
 
@@ -23636,8 +23636,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7298091).Optional C Binding Modifier(token:0x7298093).ptr.valueType (token:0x7298096)
-;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x719E9C1).Optional C Binding Modifier(token:0x719E9C3).ptr.valueType (token:0x719E9C6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC8091).Optional C Binding Modifier(token:0x6FC8093).ptr.valueType (token:0x6FC8096)
+;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x6ECE9C1).Optional C Binding Modifier(token:0x6ECE9C3).ptr.valueType (token:0x6ECE9C6)
 
 ;	.proc.beg
 
@@ -23671,8 +23671,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72429E9).Optional C Binding Modifier(token:0x72429EB).ptr.valueType (token:0x72429EE)
-;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x71AB2B9).Optional C Binding Modifier(token:0x71AB2BB).ptr.valueType (token:0x71AB2BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F729E9).Optional C Binding Modifier(token:0x6F729EB).ptr.valueType (token:0x6F729EE)
+;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x6EDB2B9).Optional C Binding Modifier(token:0x6EDB2BB).ptr.valueType (token:0x6EDB2BE)
 
 ;	.proc.beg
 
@@ -23703,8 +23703,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72429E9).Optional C Binding Modifier(token:0x72429EB).ptr.valueType (token:0x72429EE)
-;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x71ADA01).ptr.Optional C Binding Modifier(token:0x71ADA04).valueType (token:0x71ADA06)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F729E9).Optional C Binding Modifier(token:0x6F729EB).ptr.valueType (token:0x6F729EE)
+;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x6EDDA01).ptr.Optional C Binding Modifier(token:0x6EDDA04).valueType (token:0x6EDDA06)
 
 ;	.proc.beg
 
@@ -23738,7 +23738,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72429E9).Optional C Binding Modifier(token:0x72429EB).ptr.valueType (token:0x72429EE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F729E9).Optional C Binding Modifier(token:0x6F729EB).ptr.valueType (token:0x6F729EE)
 
 ;	.proc.beg
 
@@ -23772,8 +23772,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7172BA9).Optional C Binding Modifier(token:0x7172BAB).ptr.valueType (token:0x7172BAE)
-;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x71B29D1).Optional C Binding Modifier(token:0x71B29D3).ptr.valueType (token:0x71B29D6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA2BA9).Optional C Binding Modifier(token:0x6EA2BAB).ptr.valueType (token:0x6EA2BAE)
+;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x6EE29D1).Optional C Binding Modifier(token:0x6EE29D3).ptr.valueType (token:0x6EE29D6)
 
 ;	.proc.beg
 
@@ -23804,8 +23804,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7172BA9).Optional C Binding Modifier(token:0x7172BAB).ptr.valueType (token:0x7172BAE)
-;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x722BD19).ptr.Optional C Binding Modifier(token:0x722BD1C).valueType (token:0x722BD1E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA2BA9).Optional C Binding Modifier(token:0x6EA2BAB).ptr.valueType (token:0x6EA2BAE)
+;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x6F5BD19).ptr.Optional C Binding Modifier(token:0x6F5BD1C).valueType (token:0x6F5BD1E)
 
 ;	.proc.beg
 
@@ -23836,7 +23836,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7172BA9).Optional C Binding Modifier(token:0x7172BAB).ptr.valueType (token:0x7172BAE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA2BA9).Optional C Binding Modifier(token:0x6EA2BAB).ptr.valueType (token:0x6EA2BAE)
 
 ;	.proc.beg
 
@@ -23870,8 +23870,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x7283F31).ptr.valueType (token:0x7283F34)
-;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x720E3F1).Optional C Binding Modifier(token:0x720E3F3).ptr.ptr.valueType (token:0x720E3F7)
+;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x6FB3F31).ptr.valueType (token:0x6FB3F34)
+;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x6F3E3F1).Optional C Binding Modifier(token:0x6F3E3F3).ptr.ptr.valueType (token:0x6F3E3F7)
 
 ;	.proc.beg
 
@@ -23909,8 +23909,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x720C4C9).ptr.ptr.valueType (token:0x720C4CD)
-;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x720C4C9).ptr.ptr.valueType (token:0x720C4CD)
+;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x6F3C4C9).ptr.ptr.valueType (token:0x6F3C4CD)
+;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x6F3C4C9).ptr.ptr.valueType (token:0x6F3C4CD)
 
 ;	.proc.beg
 
@@ -23947,8 +23947,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Al$" SIG: Optional C Binding Modifier(token:0x71F8A69).ptr.valueType (token:0x71F8A6C)
-;	.formal.i8 1,"_Ptr$" SIG: ptr.valueType (token:0x728AB6A)
+;	.formal.i8 0,"_Al$" SIG: Optional C Binding Modifier(token:0x6F28A69).ptr.valueType (token:0x6F28A6C)
+;	.formal.i8 1,"_Ptr$" SIG: ptr.valueType (token:0x6FBAB6A)
 
 ;	.proc.beg
 
@@ -23995,8 +23995,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x717EF61).ptr.ptr.Optional C Binding Modifier(token:0x717EF65).i1
-;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x72D7309).ptr.Optional C Binding Modifier(token:0x72D730C).Optional C Binding Modifier(token:0x72D730E).ptr.Optional C Binding Modifier(token:0x72D7311).i1
+;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x6EAEF61).ptr.ptr.Optional C Binding Modifier(token:0x6EAEF65).i1
+;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x7007309).ptr.Optional C Binding Modifier(token:0x700730C).Optional C Binding Modifier(token:0x700730E).ptr.Optional C Binding Modifier(token:0x7007311).i1
 
 ;	.proc.beg
 
@@ -24035,7 +24035,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 0,"_Bytes$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 0,"_Bytes$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
 ;	.proc.beg
@@ -24103,8 +24103,8 @@ $LN1@Allocate:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x72C6461).ptr.ptr.char
-;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x72D7F99).ptr.Optional C Binding Modifier(token:0x72D7F9C).Optional C Binding Modifier(token:0x72D7F9E).ptr.char
+;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x6FF6461).ptr.ptr.char
+;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x7007F99).ptr.Optional C Binding Modifier(token:0x7007F9C).Optional C Binding Modifier(token:0x7007F9E).ptr.char
 
 ;	.proc.beg
 
@@ -24141,7 +24141,7 @@ $LN1@Allocate:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A6579).Optional C Binding Modifier(token:0x72A657B).ptr.valueType (token:0x72A657E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD6579).Optional C Binding Modifier(token:0x6FD657B).ptr.valueType (token:0x6FD657E)
 
 ;	.proc.beg
 
@@ -24202,8 +24202,8 @@ $LN5@String_val:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716F931).Optional C Binding Modifier(token:0x716F933).ptr.Optional C Binding Modifier(token:0x716F936).valueType (token:0x716F938)
-;	.formal.u8 1,"_Requested$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9F931).Optional C Binding Modifier(token:0x6E9F933).ptr.Optional C Binding Modifier(token:0x6E9F936).valueType (token:0x6E9F938)
+;	.formal.u8 1,"_Requested$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.u8 0,"$T2" SIG: u8
 
 ;	.proc.beg
@@ -24242,7 +24242,7 @@ $LN5@String_val:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728D899).Optional C Binding Modifier(token:0x728D89B).ptr.valueType (token:0x728D89E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBD899).Optional C Binding Modifier(token:0x6FBD89B).ptr.valueType (token:0x6FBD89E)
 
 ;	.proc.beg
 
@@ -24303,10 +24303,10 @@ $LN5@String_val:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A9679).Optional C Binding Modifier(token:0x71A967B).ptr.Optional C Binding Modifier(token:0x71A967E).valueType (token:0x71A9680)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED9679).Optional C Binding Modifier(token:0x6ED967B).ptr.Optional C Binding Modifier(token:0x6ED967E).valueType (token:0x6ED9680)
 ;	.local.u8 0,"$T2" SIG: u8
-;	.local.u8 1,"$T3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 2,"$T4" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.local.u8 1,"$T3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 2,"$T4" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -24350,8 +24350,8 @@ $LN5@String_val:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717E6C1).Optional C Binding Modifier(token:0x717E6C3).ptr.Optional C Binding Modifier(token:0x717E6C6).valueType (token:0x717E6C8)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6EA27C9).ptr.Optional C Binding Modifier(token:0x6EA27CC).valueType (token:0x6EA27CE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EAE6C1).Optional C Binding Modifier(token:0x6EAE6C3).ptr.Optional C Binding Modifier(token:0x6EAE6C6).valueType (token:0x6EAE6C8)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6BD27C9).ptr.Optional C Binding Modifier(token:0x6BD27CC).valueType (token:0x6BD27CE)
 
 ;	.proc.beg
 
@@ -24384,9 +24384,9 @@ $LN5@String_val:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717E6C1).Optional C Binding Modifier(token:0x717E6C3).ptr.Optional C Binding Modifier(token:0x717E6C6).valueType (token:0x717E6C8)
-;	.formal.i8 1,"__$ReturnUdt$" SIG: ptr.valueType (token:0x71EE71A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6EA31C2)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EAE6C1).Optional C Binding Modifier(token:0x6EAE6C3).ptr.Optional C Binding Modifier(token:0x6EAE6C6).valueType (token:0x6EAE6C8)
+;	.formal.i8 1,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6F1E71A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6BD31C2)
 
 ;	.proc.beg
 
@@ -24428,9 +24428,9 @@ $LN5@String_val:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717E6C1).Optional C Binding Modifier(token:0x717E6C3).ptr.Optional C Binding Modifier(token:0x717E6C6).valueType (token:0x717E6C8)
-;	.formal.i8 1,"__$ReturnUdt$" SIG: ptr.valueType (token:0x71EE71A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6EA3D12)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EAE6C1).Optional C Binding Modifier(token:0x6EAE6C3).ptr.Optional C Binding Modifier(token:0x6EAE6C6).valueType (token:0x6EAE6C8)
+;	.formal.i8 1,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6F1E71A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6BD3D12)
 
 ;	.proc.beg
 
@@ -24473,8 +24473,8 @@ $LN5@String_val:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7198E11).Optional C Binding Modifier(token:0x7198E13).ptr.Optional C Binding Modifier(token:0x7198E16).valueType (token:0x7198E18)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6EA52B1).ptr.Optional C Binding Modifier(token:0x6EA52B4).valueType (token:0x6EA52B6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC8E11).Optional C Binding Modifier(token:0x6EC8E13).ptr.Optional C Binding Modifier(token:0x6EC8E16).valueType (token:0x6EC8E18)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6BD52B1).ptr.Optional C Binding Modifier(token:0x6BD52B4).valueType (token:0x6BD52B6)
 
 ;	.proc.beg
 
@@ -24507,7 +24507,7 @@ $LN5@String_val:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.i8 0,"$T2" SIG: ptr.r4
 
 ;	.proc.beg
@@ -24543,8 +24543,8 @@ $LN5@String_val:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x722CF71).ptr.Optional C Binding Modifier(token:0x722CF74).valueType (token:0x722CF76)
-;	.formal.i8 1,"_Last$" SIG: Optional C Binding Modifier(token:0x722CF71).ptr.Optional C Binding Modifier(token:0x722CF74).valueType (token:0x722CF76)
+;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x6F5CF71).ptr.Optional C Binding Modifier(token:0x6F5CF74).valueType (token:0x6F5CF76)
+;	.formal.i8 1,"_Last$" SIG: Optional C Binding Modifier(token:0x6F5CF71).ptr.Optional C Binding Modifier(token:0x6F5CF74).valueType (token:0x6F5CF76)
 
 ;	.proc.beg
 
@@ -24577,8 +24577,8 @@ $LN5@String_val:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Al$" SIG: Optional C Binding Modifier(token:0x7184D39).ptr.valueType (token:0x7184D3C)
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x720FA89).Optional C Binding Modifier(token:0x720FA8B).ptr.valueType (token:0x720FA8E)
+;	.formal.i8 0,"_Al$" SIG: Optional C Binding Modifier(token:0x6EB4D39).ptr.valueType (token:0x6EB4D3C)
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6F3FA89).Optional C Binding Modifier(token:0x6F3FA8B).ptr.valueType (token:0x6F3FA8E)
 
 ;	.proc.beg
 
@@ -24619,10 +24619,10 @@ $LN5@String_val:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x71ACCC1).Optional C Binding Modifier(token:0x71ACCC3).ptr.i4
-;	.formal.i8 1,"_Last$" SIG: Optional C Binding Modifier(token:0x71ACCC1).Optional C Binding Modifier(token:0x71ACCC3).ptr.i4
+;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x6EDCCC1).Optional C Binding Modifier(token:0x6EDCCC3).ptr.i4
+;	.formal.i8 1,"_Last$" SIG: Optional C Binding Modifier(token:0x6EDCCC1).Optional C Binding Modifier(token:0x6EDCCC3).ptr.i4
 ;	.formal.i8 2,"_Dest$" SIG: ptr.i4
-;	.local.i8 0,"_ULast$" SIG: Optional C Binding Modifier(token:0x71ACCC1).Optional C Binding Modifier(token:0x71ACCC3).ptr.i4
+;	.local.i8 0,"_ULast$" SIG: Optional C Binding Modifier(token:0x6EDCCC1).Optional C Binding Modifier(token:0x6EDCCC3).ptr.i4
 ;	.local.i8 1,"_UFirst$" SIG: ptr.i4
 ;	.local.i8 2,"$T2" SIG: ptr.i4
 
@@ -24705,8 +24705,8 @@ $LN5@String_val:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Al$" SIG: Optional C Binding Modifier(token:0x71F8A69).ptr.valueType (token:0x71F8A6C)
-;	.formal.i8 1,"_Ptr$" SIG: ptr.valueType (token:0x728AB6A)
+;	.formal.i8 0,"_Al$" SIG: Optional C Binding Modifier(token:0x6F28A69).ptr.valueType (token:0x6F28A6C)
+;	.formal.i8 1,"_Ptr$" SIG: ptr.valueType (token:0x6FBAB6A)
 
 ;	.proc.beg
 
@@ -24752,11 +24752,11 @@ $LN5@String_val:
 
 ;	.formal.i8 0,"_First$" SIG: ptr.i4
 ;	.formal.u8 1,"_Count$" SIG: u8
-;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x7220951).ptr.Optional C Binding Modifier(token:0x7220954).i4
-;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x7201661).ptr.valueType (token:0x7201664)
+;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x6F50951).ptr.Optional C Binding Modifier(token:0x6F50954).i4
+;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x6F31661).ptr.valueType (token:0x6F31664)
 ;	.local.i8 0,"$T2" SIG: ptr.i4
 ;	.local.i8 1,"$T3" SIG: ptr.i4
-;	.local.mb24  2,"_Backout$4" SIG: valueType (token:0x717FB61)
+;	.local.mb24  2,"_Backout$4" SIG: valueType (token:0x6EAFB61)
 
 ;	.proc.beg
 
@@ -24900,7 +24900,7 @@ $LN8@Uninitiali:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7194CE1).Optional C Binding Modifier(token:0x7194CE3).ptr.valueType (token:0x7194CE6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC4CE1).Optional C Binding Modifier(token:0x6EC4CE3).ptr.valueType (token:0x6EC4CE6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -24935,7 +24935,7 @@ $LN5@big_any_po:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7194CE1).Optional C Binding Modifier(token:0x7194CE3).ptr.valueType (token:0x7194CE6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC4CE1).Optional C Binding Modifier(token:0x6EC4CE3).ptr.valueType (token:0x6EC4CE6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -24959,7 +24959,7 @@ $LN5@big_any_po:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -24996,8 +24996,8 @@ $LN2@scalar:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x719C611).Optional C Binding Modifier(token:0x719C613).ptr.valueType (token:0x719C616)
-;	.formal.i8 1,"<_Vals_0>$" SIG: Optional C Binding Modifier(token:0x71B1F89).ptr.valueType (token:0x71B1F8C)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ECC611).Optional C Binding Modifier(token:0x6ECC613).ptr.valueType (token:0x6ECC616)
+;	.formal.i8 1,"<_Vals_0>$" SIG: Optional C Binding Modifier(token:0x6EE1F89).ptr.valueType (token:0x6EE1F8C)
 
 ;	.proc.beg
 
@@ -25054,8 +25054,8 @@ $LN2@scalar:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x728BE09).Optional C Binding Modifier(token:0x728BE0B).ptr.valueType (token:0x728BE0E)
-;	.formal.i8 1,"<_Vals_0>$" SIG: Optional C Binding Modifier(token:0x7255A39).ptr.Optional C Binding Modifier(token:0x7255A3C).r4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FBBE09).Optional C Binding Modifier(token:0x6FBBE0B).ptr.valueType (token:0x6FBBE0E)
+;	.formal.i8 1,"<_Vals_0>$" SIG: Optional C Binding Modifier(token:0x6F85A39).ptr.Optional C Binding Modifier(token:0x6F85A3C).r4
 
 ;	.proc.beg
 
@@ -25170,7 +25170,7 @@ $LN2@scalar:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EB3A9).Optional C Binding Modifier(token:0x71EB3AB).ptr.valueType (token:0x71EB3AE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1B3A9).Optional C Binding Modifier(token:0x6F1B3AB).ptr.valueType (token:0x6F1B3AE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25205,7 +25205,7 @@ $LN5@small_any_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EB3A9).Optional C Binding Modifier(token:0x71EB3AB).ptr.valueType (token:0x71EB3AE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1B3A9).Optional C Binding Modifier(token:0x6F1B3AB).ptr.valueType (token:0x6F1B3AE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25228,8 +25228,8 @@ $LN5@small_any_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x720C4C9).ptr.ptr.valueType (token:0x720C4CD)
-;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x72BCD29).Optional C Binding Modifier(token:0x72BCD2B).ptr.ptr.valueType (token:0x72BCD2F)
+;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x6F3C4C9).ptr.ptr.valueType (token:0x6F3C4CD)
+;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x6FECD29).Optional C Binding Modifier(token:0x6FECD2B).ptr.ptr.valueType (token:0x6FECD2F)
 
 ;	.proc.beg
 
@@ -25269,8 +25269,8 @@ $LN5@small_any_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7246CC9).Optional C Binding Modifier(token:0x7246CCB).ptr.valueType (token:0x7246CCE)
-;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x7251209).Optional C Binding Modifier(token:0x725120B).ptr.valueType (token:0x725120E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F76CC9).Optional C Binding Modifier(token:0x6F76CCB).ptr.valueType (token:0x6F76CCE)
+;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x6F81209).Optional C Binding Modifier(token:0x6F8120B).ptr.valueType (token:0x6F8120E)
 
 ;	.proc.beg
 
@@ -25359,7 +25359,7 @@ $LN5@small_any_:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x724F491).Optional C Binding Modifier(token:0x724F493).ptr.valueType (token:0x724F496)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F7F491).Optional C Binding Modifier(token:0x6F7F493).ptr.valueType (token:0x6F7F496)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25394,7 +25394,7 @@ $LN5@small_any_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x724F491).Optional C Binding Modifier(token:0x724F493).ptr.valueType (token:0x724F496)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F7F491).Optional C Binding Modifier(token:0x6F7F493).ptr.valueType (token:0x6F7F496)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25475,7 +25475,7 @@ $LN5@small_any_:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EBCF9).Optional C Binding Modifier(token:0x71EBCFB).ptr.valueType (token:0x71EBCFE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1BCF9).Optional C Binding Modifier(token:0x6F1BCFB).ptr.valueType (token:0x6F1BCFE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25510,7 +25510,7 @@ $LN5@small_any_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EBCF9).Optional C Binding Modifier(token:0x71EBCFB).ptr.valueType (token:0x71EBCFE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1BCF9).Optional C Binding Modifier(token:0x6F1BCFB).ptr.valueType (token:0x6F1BCFE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25591,7 +25591,7 @@ $LN5@small_any_:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B4091).Optional C Binding Modifier(token:0x71B4093).ptr.valueType (token:0x71B4096)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE4091).Optional C Binding Modifier(token:0x6EE4093).ptr.valueType (token:0x6EE4096)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25626,7 +25626,7 @@ $LN5@small_any_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B4091).Optional C Binding Modifier(token:0x71B4093).ptr.valueType (token:0x71B4096)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE4091).Optional C Binding Modifier(token:0x6EE4093).ptr.valueType (token:0x6EE4096)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25708,7 +25708,7 @@ $LN5@small_any_:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x723B819).Optional C Binding Modifier(token:0x723B81B).ptr.valueType (token:0x723B81E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F6B819).Optional C Binding Modifier(token:0x6F6B81B).ptr.valueType (token:0x6F6B81E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25743,7 +25743,7 @@ $LN5@big_any_po:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x723B819).Optional C Binding Modifier(token:0x723B81B).ptr.valueType (token:0x723B81E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F6B819).Optional C Binding Modifier(token:0x6F6B81B).ptr.valueType (token:0x6F6B81E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25825,7 +25825,7 @@ $LN5@big_any_po:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71FE429).Optional C Binding Modifier(token:0x71FE42B).ptr.valueType (token:0x71FE42E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F2E429).Optional C Binding Modifier(token:0x6F2E42B).ptr.valueType (token:0x6F2E42E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25860,7 +25860,7 @@ $LN5@big_any_po:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71FE429).Optional C Binding Modifier(token:0x71FE42B).ptr.valueType (token:0x71FE42E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F2E429).Optional C Binding Modifier(token:0x6F2E42B).ptr.valueType (token:0x6F2E42E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25941,7 +25941,7 @@ $LN5@big_any_po:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E2861).Optional C Binding Modifier(token:0x71E2863).ptr.valueType (token:0x71E2866)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F12861).Optional C Binding Modifier(token:0x6F12863).ptr.valueType (token:0x6F12866)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -25976,7 +25976,7 @@ $LN5@small_any_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E2861).Optional C Binding Modifier(token:0x71E2863).ptr.valueType (token:0x71E2866)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F12861).Optional C Binding Modifier(token:0x6F12863).ptr.valueType (token:0x6F12866)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -26057,7 +26057,7 @@ $LN5@small_any_:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7247D79).Optional C Binding Modifier(token:0x7247D7B).ptr.valueType (token:0x7247D7E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F77D79).Optional C Binding Modifier(token:0x6F77D7B).ptr.valueType (token:0x6F77D7E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -26092,7 +26092,7 @@ $LN5@big_any_po:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7247D79).Optional C Binding Modifier(token:0x7247D7B).ptr.valueType (token:0x7247D7E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F77D79).Optional C Binding Modifier(token:0x6F77D7B).ptr.valueType (token:0x6F77D7E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -26115,7 +26115,7 @@ $LN5@big_any_po:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x720F069).Optional C Binding Modifier(token:0x720F06B).ptr.valueType (token:0x720F06E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F3F069).Optional C Binding Modifier(token:0x6F3F06B).ptr.valueType (token:0x6F3F06E)
 
 ;	.proc.beg
 
@@ -26163,8 +26163,8 @@ $LN1@Alloc_cons:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x7230341).Optional C Binding Modifier(token:0x7230343).ptr.valueType (token:0x7230346)
-;	.formal.i8 2,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x71F8EB9).ptr.Optional C Binding Modifier(token:0x71F8EBC).valueType (token:0x71F8EBE)
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6F60341).Optional C Binding Modifier(token:0x6F60343).ptr.valueType (token:0x6F60346)
+;	.formal.i8 2,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x6F28EB9).ptr.Optional C Binding Modifier(token:0x6F28EBC).valueType (token:0x6F28EBE)
 
 ;	.proc.beg
 
@@ -26202,8 +26202,8 @@ $LN1@Alloc_cons:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x720F069).Optional C Binding Modifier(token:0x720F06B).ptr.valueType (token:0x720F06E)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x713824A)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F3F069).Optional C Binding Modifier(token:0x6F3F06B).ptr.valueType (token:0x6F3F06E)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6E6824A)
 ;	.local.i8 1,"$T3" SIG: ptr.void
 
 ;	.proc.beg
@@ -26242,8 +26242,8 @@ $LN1@Alloc_cons:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x720C4C9).ptr.ptr.valueType (token:0x720C4CD)
-;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x72877B9).ptr.Optional C Binding Modifier(token:0x72877BC).Optional C Binding Modifier(token:0x72877BE).ptr.valueType (token:0x72877C1)
+;	.formal.i8 0,"_Obj$" SIG: Optional C Binding Modifier(token:0x6F3C4C9).ptr.ptr.valueType (token:0x6F3C4CD)
+;	.formal.i8 1,"<_Args_0>$" SIG: Optional C Binding Modifier(token:0x6FB77B9).ptr.Optional C Binding Modifier(token:0x6FB77BC).Optional C Binding Modifier(token:0x6FB77BE).ptr.valueType (token:0x6FB77C1)
 
 ;	.proc.beg
 
@@ -26284,10 +26284,10 @@ $LN1@Alloc_cons:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7228459).Optional C Binding Modifier(token:0x722845B).ptr.valueType (token:0x722845E)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x7174BB1).ptr.Optional C Binding Modifier(token:0x7174BB4).valueType (token:0x7174BB6)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8E4EE51).ptr.valueType (token:0x8E4EE54)
-;	.local.mb4   1,"_Lock$3" SIG: valueType (token:0x7169E91)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F58459).Optional C Binding Modifier(token:0x6F5845B).ptr.valueType (token:0x6F5845E)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6EA4BB1).ptr.Optional C Binding Modifier(token:0x6EA4BB4).valueType (token:0x6EA4BB6)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8A3EE51).ptr.valueType (token:0x8A3EE54)
+;	.local.mb4   1,"_Lock$3" SIG: valueType (token:0x6E99E91)
 
 ;	.proc.beg
 
@@ -26397,13 +26397,13 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x720AF79).class (token:0x720AF7B)
-;	.local.mptr 0,"histogram$" SIG: class (token:0x72BA031)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F3AF79).class (token:0x6F3AF7B)
+;	.local.mptr 0,"histogram$" SIG: class (token:0x6FEA031)
 ;	.local.i4 1,"i$2" SIG: i4
-;	.local.mptr 2,"dp$" SIG: class (token:0x721D219)
-;	.local.mptr 3,"legend$" SIG: class (token:0x72CCBD9)
-;	.local.mptr 4,"$T3" SIG: class (token:0x721D219)
-;	.local.mptr 5,"chart_area$" SIG: class (token:0x7178229)
+;	.local.mptr 2,"dp$" SIG: class (token:0x6F4D219)
+;	.local.mptr 3,"legend$" SIG: class (token:0x6FFCBD9)
+;	.local.mptr 4,"$T3" SIG: class (token:0x6F4D219)
+;	.local.mptr 5,"chart_area$" SIG: class (token:0x6EA8229)
 ;	.local.i8 6,"tv171"
 
 ;	.proc.beg
@@ -26592,7 +26592,7 @@ $LN7@DisplayHis:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7285C79).Optional C Binding Modifier(token:0x7285C7B).ptr.valueType (token:0x7285C7E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FB5C79).Optional C Binding Modifier(token:0x6FB5C7B).ptr.valueType (token:0x6FB5C7E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -26617,7 +26617,7 @@ $LN7@DisplayHis:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x722966A)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6F5966A)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -26667,8 +26667,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B73F9).Optional C Binding Modifier(token:0x71B73FB).ptr.valueType (token:0x71B73FE)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x71A7C51).ptr.Optional C Binding Modifier(token:0x71A7C54).valueType (token:0x71A7C56)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE73F9).Optional C Binding Modifier(token:0x6EE73FB).ptr.valueType (token:0x6EE73FE)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6ED7C51).ptr.Optional C Binding Modifier(token:0x6ED7C54).valueType (token:0x6ED7C56)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -26716,7 +26716,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x7257192)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6F87192)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -26767,9 +26767,9 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7216101).Optional C Binding Modifier(token:0x7216103).ptr.valueType (token:0x7216106)
-;	.formal.i8 1,"x$" SIG: Optional C Binding Modifier(token:0x718CA49).ptr.Optional C Binding Modifier(token:0x718CA4C).valueType (token:0x718CA4E)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8C98239).ptr.valueType (token:0x8C9823C)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F46101).Optional C Binding Modifier(token:0x6F46103).ptr.valueType (token:0x6F46106)
+;	.formal.i8 1,"x$" SIG: Optional C Binding Modifier(token:0x6EBCA49).ptr.Optional C Binding Modifier(token:0x6EBCA4C).valueType (token:0x6EBCA4E)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8888239).ptr.valueType (token:0x888823C)
 
 ;	.proc.beg
 
@@ -26834,7 +26834,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72DCD51).Optional C Binding Modifier(token:0x72DCD53).ptr.valueType (token:0x72DCD56)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x700CD51).Optional C Binding Modifier(token:0x700CD53).ptr.valueType (token:0x700CD56)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -26859,7 +26859,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x71AA81A)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6EDA81A)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -26907,7 +26907,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716D359).Optional C Binding Modifier(token:0x716D35B).ptr.valueType (token:0x716D35E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9D359).Optional C Binding Modifier(token:0x6E9D35B).ptr.valueType (token:0x6E9D35E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -26932,7 +26932,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x72DC76A)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x700C76A)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -26980,8 +26980,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B73F9).Optional C Binding Modifier(token:0x71B73FB).ptr.valueType (token:0x71B73FE)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x71FE851).Optional C Binding Modifier(token:0x71FE853).ptr.valueType (token:0x71FE856)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE73F9).Optional C Binding Modifier(token:0x6EE73FB).ptr.valueType (token:0x6EE73FE)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F2E851).Optional C Binding Modifier(token:0x6F2E853).ptr.valueType (token:0x6F2E856)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -27006,7 +27006,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x72066F9).class (token:0x72066FB)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F366F9).class (token:0x6F366FB)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -27031,7 +27031,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7173B71).class (token:0x7173B73)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA3B71).class (token:0x6EA3B73)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -27060,14 +27060,14 @@ _TEXT	ENDS
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x7290622)
-;	.formal.i8 1,"dst$" SIG: ptr.valueType (token:0x7290622)
-;	.formal.i8 2,"new_hist$" SIG: Optional C Binding Modifier(token:0x719ACC1).ptr.Optional C Binding Modifier(token:0x719ACC4).valueType (token:0x719ACC6)
+;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6FC0622)
+;	.formal.i8 1,"dst$" SIG: ptr.valueType (token:0x6FC0622)
+;	.formal.i8 2,"new_hist$" SIG: Optional C Binding Modifier(token:0x6ECACC1).ptr.Optional C Binding Modifier(token:0x6ECACC4).valueType (token:0x6ECACC6)
 ;	.local.i4 0,"x$2" SIG: i4
 ;	.local.i4 1,"y$3" SIG: i4
 ;	.local.u4 2,"$T4"
-;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x88FD252)
-;	.local.i8 4,"$T6" SIG: ptr.valueType (token:0x88FD252)
+;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x84ED252)
+;	.local.i8 4,"$T6" SIG: ptr.valueType (token:0x84ED252)
 ;	.local.i4 5,"height$" SIG: i4
 ;	.local.i4 6,"width$" SIG: i4
 ;	.local.i4 7,"a$" SIG: i4
@@ -27249,7 +27249,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7174C89).Optional C Binding Modifier(token:0x7174C8B).ptr.valueType (token:0x7174C8E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA4C89).Optional C Binding Modifier(token:0x6EA4C8B).ptr.valueType (token:0x6EA4C8E)
 
 ;	.proc.beg
 
@@ -27280,8 +27280,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716F931).Optional C Binding Modifier(token:0x716F933).ptr.Optional C Binding Modifier(token:0x716F936).valueType (token:0x716F938)
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x862416A).Optional C Binding Modifier(token:0x862416C).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9F931).Optional C Binding Modifier(token:0x6E9F933).ptr.Optional C Binding Modifier(token:0x6E9F936).valueType (token:0x6E9F938)
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x821416A).Optional C Binding Modifier(token:0x821416C).i1
 
 ;	.proc.beg
 
@@ -27365,9 +27365,9 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.formal.u8 1,"_Off$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8624A39).ptr.Optional C Binding Modifier(token:0x8624A3C).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.formal.u8 1,"_Off$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8214A39).ptr.Optional C Binding Modifier(token:0x8214A3C).i1
 
 ;	.proc.beg
 
@@ -27441,7 +27441,7 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72CBD21).Optional C Binding Modifier(token:0x72CBD23).ptr.valueType (token:0x72CBD26)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FFBD21).Optional C Binding Modifier(token:0x6FFBD23).ptr.valueType (token:0x6FFBD26)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -27463,7 +27463,7 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x719DB61).Optional C Binding Modifier(token:0x719DB63).ptr.valueType (token:0x719DB66)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ECDB61).Optional C Binding Modifier(token:0x6ECDB63).ptr.valueType (token:0x6ECDB66)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -27485,9 +27485,9 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7285C79).Optional C Binding Modifier(token:0x7285C7B).ptr.valueType (token:0x7285C7E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FB5C79).Optional C Binding Modifier(token:0x6FB5C7B).ptr.valueType (token:0x6FB5C7E)
 ;	.formal.i8 1,"__param0$" SIG: ptr.i4
-;	.formal.i8 2,"__param1$" SIG: ptr.Optional C Binding Modifier(token:0x72C9D92).valueType (token:0x72C9D94)
+;	.formal.i8 2,"__param1$" SIG: ptr.Optional C Binding Modifier(token:0x6FF9D92).valueType (token:0x6FF9D94)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -27518,11 +27518,11 @@ $LN2@operator:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
-;	.local.i8 0,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x7250951).ptr.ptr.r4
-;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x72DBFC1).ptr.valueType (token:0x72DBFC4)
-;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x7250951).ptr.ptr.r4
-;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x7250951).ptr.ptr.r4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
+;	.local.i8 0,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x6F80951).ptr.ptr.r4
+;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x700BFC1).ptr.valueType (token:0x700BFC4)
+;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x6F80951).ptr.ptr.r4
+;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x6F80951).ptr.ptr.r4
 
 ;	.proc.beg
 
@@ -27638,10 +27638,10 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3781).Optional C Binding Modifier(token:0x71B3783).ptr.valueType (token:0x71B3786)
-;	.local.i8 0,"_Al$2" SIG: Optional C Binding Modifier(token:0x7190071).ptr.valueType (token:0x7190074)
-;	.local.i8 1,"_Ptr$3" SIG: Optional C Binding Modifier(token:0x72B1961).Optional C Binding Modifier(token:0x72B1963).ptr.char
-;	.local.u2 2,"$T4" SIG: Optional C Binding Modifier(token:0x72B1E59).char
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3781).Optional C Binding Modifier(token:0x6EE3783).ptr.valueType (token:0x6EE3786)
+;	.local.i8 0,"_Al$2" SIG: Optional C Binding Modifier(token:0x6EC0071).ptr.valueType (token:0x6EC0074)
+;	.local.i8 1,"_Ptr$3" SIG: Optional C Binding Modifier(token:0x6FE1961).Optional C Binding Modifier(token:0x6FE1963).ptr.char
+;	.local.u2 2,"$T4" SIG: Optional C Binding Modifier(token:0x6FE1E59).char
 
 ;	.proc.beg
 
@@ -27754,8 +27754,8 @@ $LN2@Tidy_deall:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3781).Optional C Binding Modifier(token:0x71B3783).ptr.valueType (token:0x71B3786)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72576E1).ptr.valueType (token:0x72576E4)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3781).Optional C Binding Modifier(token:0x6EE3783).ptr.valueType (token:0x6EE3786)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F876E1).ptr.valueType (token:0x6F876E4)
 
 ;	.proc.beg
 
@@ -27825,10 +27825,10 @@ $LN3@Take_conte:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.local.i8 0,"_Al$2" SIG: Optional C Binding Modifier(token:0x7172729).ptr.valueType (token:0x717272C)
-;	.local.i8 1,"_Ptr$3" SIG: Optional C Binding Modifier(token:0x72E17C9).Optional C Binding Modifier(token:0x72E17CB).ptr.Optional C Binding Modifier(token:0x72E17CE).i1
-;	.local.i1 2,"$T4" SIG: Optional C Binding Modifier(token:0x7252A41).Optional C Binding Modifier(token:0x7252A43).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.local.i8 0,"_Al$2" SIG: Optional C Binding Modifier(token:0x6EA2729).ptr.valueType (token:0x6EA272C)
+;	.local.i8 1,"_Ptr$3" SIG: Optional C Binding Modifier(token:0x70117C9).Optional C Binding Modifier(token:0x70117CB).ptr.Optional C Binding Modifier(token:0x70117CE).i1
+;	.local.i1 2,"$T4" SIG: Optional C Binding Modifier(token:0x6F82A41).Optional C Binding Modifier(token:0x6F82A43).i1
 
 ;	.proc.beg
 
@@ -27943,9 +27943,9 @@ $LN2@Tidy_deall:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.formal.u8 1,"_Newsize$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i1 0,"$T2" SIG: Optional C Binding Modifier(token:0x7252A41).Optional C Binding Modifier(token:0x7252A43).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.formal.u8 1,"_Newsize$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i1 0,"$T2" SIG: Optional C Binding Modifier(token:0x6F82A41).Optional C Binding Modifier(token:0x6F82A43).i1
 
 ;	.proc.beg
 
@@ -27986,8 +27986,8 @@ $LN2@Tidy_deall:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x71A07E9).ptr.valueType (token:0x71A07EC)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6ED07E9).ptr.valueType (token:0x6ED07EC)
 
 ;	.proc.beg
 
@@ -28059,11 +28059,11 @@ $LN3@Take_conte:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.local.i8 0,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x717BAD1).ptr.ptr.i4
-;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x72A03C9).ptr.valueType (token:0x72A03CC)
-;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x717BAD1).ptr.ptr.i4
-;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x717BAD1).ptr.ptr.i4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.local.i8 0,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x6EABAD1).ptr.ptr.i4
+;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x6FD03C9).ptr.valueType (token:0x6FD03CC)
+;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x6EABAD1).ptr.ptr.i4
+;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x6EABAD1).ptr.ptr.i4
 
 ;	.proc.beg
 
@@ -28179,8 +28179,8 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x8731E0A)
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x8321E0A)
 
 ;	.proc.beg
 
@@ -28214,8 +28214,8 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x87384EA)
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x83284EA)
 
 ;	.proc.beg
 
@@ -28249,8 +28249,8 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x874FFBA)
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x833FFBA)
 
 ;	.proc.beg
 
@@ -28284,8 +28284,8 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x89F7ED2).i1
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x85E7ED2).i1
 
 ;	.proc.beg
 
@@ -28319,7 +28319,7 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.i8 0,"$T2" SIG: ptr.i4
 
 ;	.proc.beg
@@ -28354,7 +28354,7 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 ;	.local.i8 0,"$T2" SIG: ptr.char
 
 ;	.proc.beg
@@ -28387,8 +28387,8 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_Al$" SIG: Optional C Binding Modifier(token:0x7184D39).ptr.valueType (token:0x7184D3C)
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x720FA89).Optional C Binding Modifier(token:0x720FA8B).ptr.valueType (token:0x720FA8E)
+;	.formal.i8 0,"_Al$" SIG: Optional C Binding Modifier(token:0x6EB4D39).ptr.valueType (token:0x6EB4D3C)
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6F3FA89).Optional C Binding Modifier(token:0x6F3FA8B).ptr.valueType (token:0x6F3FA8E)
 
 ;	.proc.beg
 
@@ -28425,10 +28425,10 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7231B81).Optional C Binding Modifier(token:0x7231B83).ptr.valueType (token:0x7231B86)
-;	.formal.i8 1,"_Al$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
-;	.local.i8 0,"_New_proxy$" SIG: Optional C Binding Modifier(token:0x720FA89).Optional C Binding Modifier(token:0x720FA8B).ptr.valueType (token:0x720FA8E)
-;	.local.i8 1,"$T2" SIG: ptr.valueType (token:0x7199F6A)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F61B81).Optional C Binding Modifier(token:0x6F61B83).ptr.valueType (token:0x6F61B86)
+;	.formal.i8 1,"_Al$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
+;	.local.i8 0,"_New_proxy$" SIG: Optional C Binding Modifier(token:0x6F3FA89).Optional C Binding Modifier(token:0x6F3FA8B).ptr.valueType (token:0x6F3FA8E)
+;	.local.i8 1,"$T2" SIG: ptr.valueType (token:0x6EC9F6A)
 
 ;	.proc.beg
 
@@ -28484,8 +28484,8 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72CBD21).Optional C Binding Modifier(token:0x72CBD23).ptr.valueType (token:0x72CBD26)
-;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x720A6C1).Optional C Binding Modifier(token:0x720A6C3).ptr.valueType (token:0x720A6C6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FFBD21).Optional C Binding Modifier(token:0x6FFBD23).ptr.valueType (token:0x6FFBD26)
+;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x6F3A6C1).Optional C Binding Modifier(token:0x6F3A6C3).ptr.valueType (token:0x6F3A6C6)
 
 ;	.proc.beg
 
@@ -28519,8 +28519,8 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x719DB61).Optional C Binding Modifier(token:0x719DB63).ptr.valueType (token:0x719DB66)
-;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x72C2A81).Optional C Binding Modifier(token:0x72C2A83).ptr.valueType (token:0x72C2A86)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ECDB61).Optional C Binding Modifier(token:0x6ECDB63).ptr.valueType (token:0x6ECDB66)
+;	.formal.i8 2,"_Val1$" SIG: Optional C Binding Modifier(token:0x6FF2A81).Optional C Binding Modifier(token:0x6FF2A83).ptr.valueType (token:0x6FF2A86)
 
 ;	.proc.beg
 
@@ -28551,7 +28551,7 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x719DB61).Optional C Binding Modifier(token:0x719DB63).ptr.valueType (token:0x719DB66)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ECDB61).Optional C Binding Modifier(token:0x6ECDB63).ptr.valueType (token:0x6ECDB66)
 
 ;	.proc.beg
 
@@ -28584,7 +28584,7 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
 ;	.formal.i8 1,"_First$" SIG: ptr.i4
 ;	.formal.i8 2,"_Last$" SIG: ptr.i4
 ;	.formal.i8 3,"_Dest$" SIG: ptr.i4
@@ -28629,21 +28629,21 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.formal.u8 1,"_Size_increase$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.mb1   2,"_Fn$" SIG: valueType (token:0x7226E19)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.formal.u8 1,"_Size_increase$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.mb1   2,"_Fn$" SIG: valueType (token:0x6F56E19)
 ;	.formal.u8 3,"<_Args_0>$" SIG: u8
-;	.formal.i1 4,"<_Args_1>$" SIG: Optional C Binding Modifier(token:0x717BDA9).i1
-;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x71A17F9).ptr.valueType (token:0x71A17FC)
-;	.local.u8 1,"_Old_size$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 2,"_Old_ptr$2" SIG: Optional C Binding Modifier(token:0x72E17C9).Optional C Binding Modifier(token:0x72E17CB).ptr.Optional C Binding Modifier(token:0x72E17CE).i1
-;	.local.i8 3,"_Raw_new$" SIG: Optional C Binding Modifier(token:0x72E17C9).Optional C Binding Modifier(token:0x72E17CB).ptr.Optional C Binding Modifier(token:0x72E17CE).i1
-;	.local.i8 4,"_New_ptr$" SIG: Optional C Binding Modifier(token:0x72E17C9).Optional C Binding Modifier(token:0x72E17CB).ptr.Optional C Binding Modifier(token:0x72E17CE).i1
-;	.local.i8 5,"_Al$" SIG: Optional C Binding Modifier(token:0x7172729).ptr.valueType (token:0x717272C)
-;	.local.u8 6,"_New_capacity$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 7,"_Old_capacity$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 8,"_New_size$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 9,"$T3" SIG: Optional C Binding Modifier(token:0x6DD76D9).ptr.valueType (token:0x6DD76DC)
+;	.formal.i1 4,"<_Args_1>$" SIG: Optional C Binding Modifier(token:0x6EABDA9).i1
+;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x6ED17F9).ptr.valueType (token:0x6ED17FC)
+;	.local.u8 1,"_Old_size$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 2,"_Old_ptr$2" SIG: Optional C Binding Modifier(token:0x70117C9).Optional C Binding Modifier(token:0x70117CB).ptr.Optional C Binding Modifier(token:0x70117CE).i1
+;	.local.i8 3,"_Raw_new$" SIG: Optional C Binding Modifier(token:0x70117C9).Optional C Binding Modifier(token:0x70117CB).ptr.Optional C Binding Modifier(token:0x70117CE).i1
+;	.local.i8 4,"_New_ptr$" SIG: Optional C Binding Modifier(token:0x70117C9).Optional C Binding Modifier(token:0x70117CB).ptr.Optional C Binding Modifier(token:0x70117CE).i1
+;	.local.i8 5,"_Al$" SIG: Optional C Binding Modifier(token:0x6EA2729).ptr.valueType (token:0x6EA272C)
+;	.local.u8 6,"_New_capacity$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 7,"_Old_capacity$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 8,"_New_size$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 9,"$T3" SIG: Optional C Binding Modifier(token:0x6B076D9).ptr.valueType (token:0x6B076DC)
 
 ;	.proc.beg
 
@@ -28852,7 +28852,7 @@ $LN4@Reallocate:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B2E39).Optional C Binding Modifier(token:0x72B2E3B).ptr.valueType (token:0x72B2E3E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE2E39).Optional C Binding Modifier(token:0x6FE2E3B).ptr.valueType (token:0x6FE2E3E)
 
 ;	.proc.beg
 
@@ -28892,10 +28892,10 @@ $LN1@Tidy_guard:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
 ;	.formal.i8 1,"_Dest$" SIG: ptr.i4
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.i8 3,"_Val$" SIG: Optional C Binding Modifier(token:0x7220951).ptr.Optional C Binding Modifier(token:0x7220954).i4
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.i8 3,"_Val$" SIG: Optional C Binding Modifier(token:0x6F50951).ptr.Optional C Binding Modifier(token:0x6F50954).i4
 ;	.local.i8 0,"$T2" SIG: ptr.i4
 
 ;	.proc.beg
@@ -28934,13 +28934,13 @@ $LN1@Tidy_guard:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
-;	.formal.u8 1,"_Newcapacity$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"_Newvec$" SIG: Optional C Binding Modifier(token:0x724D759).Optional C Binding Modifier(token:0x724D75B).ptr.r4
-;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x72DBFC1).ptr.valueType (token:0x72DBFC4)
-;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x7250951).ptr.ptr.r4
-;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x7250951).ptr.ptr.r4
-;	.local.i8 4,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x7250951).ptr.ptr.r4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
+;	.formal.u8 1,"_Newcapacity$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"_Newvec$" SIG: Optional C Binding Modifier(token:0x6F7D759).Optional C Binding Modifier(token:0x6F7D75B).ptr.r4
+;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x700BFC1).ptr.valueType (token:0x700BFC4)
+;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x6F80951).ptr.ptr.r4
+;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x6F80951).ptr.ptr.r4
+;	.local.i8 4,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x6F80951).ptr.ptr.r4
 
 ;	.proc.beg
 
@@ -29031,10 +29031,10 @@ $LN1@Tidy_guard:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7198E11).Optional C Binding Modifier(token:0x7198E13).ptr.Optional C Binding Modifier(token:0x7198E16).valueType (token:0x7198E18)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC8E11).Optional C Binding Modifier(token:0x6EC8E13).ptr.Optional C Binding Modifier(token:0x6EC8E16).valueType (token:0x6EC8E18)
 ;	.local.u8 0,"$T2" SIG: u8
-;	.local.u8 1,"$T3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 2,"$T4" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.local.u8 1,"$T3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 2,"$T4" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -29074,7 +29074,7 @@ $LN1@Tidy_guard:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
+;	.formal.i8 1,"_Ptr$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
 
 ;	.proc.beg
 
@@ -29111,11 +29111,11 @@ $LN1@Tidy_guard:
 
 ;	.formal.i8 0,"_First$" SIG: ptr.r4
 ;	.formal.u8 1,"_Count$" SIG: u8
-;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x7255A39).ptr.Optional C Binding Modifier(token:0x7255A3C).r4
-;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x71A8A71).ptr.valueType (token:0x71A8A74)
+;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x6F85A39).ptr.Optional C Binding Modifier(token:0x6F85A3C).r4
+;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x6ED8A71).ptr.valueType (token:0x6ED8A74)
 ;	.local.i8 0,"$T2" SIG: ptr.r4
 ;	.local.i8 1,"$T3" SIG: ptr.r4
-;	.local.mb24  2,"_Backout$4" SIG: valueType (token:0x72334D9)
+;	.local.mb24  2,"_Backout$4" SIG: valueType (token:0x6F634D9)
 
 ;	.proc.beg
 
@@ -29202,10 +29202,10 @@ $LN8@Uninitiali:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B12D1).Optional C Binding Modifier(token:0x72B12D3).ptr.valueType (token:0x72B12D6)
-;	.local.i8 0,"_Subject$" SIG: ptr.valueType (token:0x728AB6A)
-;	.local.i8 1,"$T2" SIG: ptr.valueType (token:0x728AB6A)
-;	.local.i8 2,"$T3" SIG: ptr.valueType (token:0x728AB6A)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE12D1).Optional C Binding Modifier(token:0x6FE12D3).ptr.valueType (token:0x6FE12D6)
+;	.local.i8 0,"_Subject$" SIG: ptr.valueType (token:0x6FBAB6A)
+;	.local.i8 1,"$T2" SIG: ptr.valueType (token:0x6FBAB6A)
+;	.local.i8 2,"$T3" SIG: ptr.valueType (token:0x6FBAB6A)
 
 ;	.proc.beg
 
@@ -29303,7 +29303,7 @@ $LN1@List_node_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x720F069).Optional C Binding Modifier(token:0x720F06B).ptr.valueType (token:0x720F06E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F3F069).Optional C Binding Modifier(token:0x6F3F06B).ptr.valueType (token:0x6F3F06E)
 
 ;	.proc.beg
 
@@ -29356,13 +29356,13 @@ $LN1@List_node_:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B12D1).Optional C Binding Modifier(token:0x72B12D3).ptr.valueType (token:0x72B12D6)
-;	.formal.i8 1,"_List_data$" SIG: Optional C Binding Modifier(token:0x720A311).ptr.valueType (token:0x720A314)
-;	.local.u8 0,"_Local_added$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 1,"_Local_tail$2" SIG: Optional C Binding Modifier(token:0x72363A1).Optional C Binding Modifier(token:0x72363A3).ptr.valueType (token:0x72363A6)
-;	.local.i8 2,"_Local_head$3" SIG: Optional C Binding Modifier(token:0x72363A1).Optional C Binding Modifier(token:0x72363A3).ptr.valueType (token:0x72363A6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE12D1).Optional C Binding Modifier(token:0x6FE12D3).ptr.valueType (token:0x6FE12D6)
+;	.formal.i8 1,"_List_data$" SIG: Optional C Binding Modifier(token:0x6F3A311).ptr.valueType (token:0x6F3A314)
+;	.local.u8 0,"_Local_added$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 1,"_Local_tail$2" SIG: Optional C Binding Modifier(token:0x6F663A1).Optional C Binding Modifier(token:0x6F663A3).ptr.valueType (token:0x6F663A6)
+;	.local.i8 2,"_Local_head$3" SIG: Optional C Binding Modifier(token:0x6F663A1).Optional C Binding Modifier(token:0x6F663A3).ptr.valueType (token:0x6F663A6)
 ;	.local.u8 3,"$T4" SIG: u8
-;	.local.mb16  4,"_Newnode$" SIG: valueType (token:0x71EAA19)
+;	.local.mb16  4,"_Newnode$" SIG: valueType (token:0x6F1AA19)
 
 ;	.proc.beg
 
@@ -29537,8 +29537,8 @@ $LN7@Attach_hea:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7228459).Optional C Binding Modifier(token:0x722845B).ptr.valueType (token:0x722845E)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x7174BB1).ptr.Optional C Binding Modifier(token:0x7174BB4).valueType (token:0x7174BB6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F58459).Optional C Binding Modifier(token:0x6F5845B).ptr.valueType (token:0x6F5845E)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6EA4BB1).ptr.Optional C Binding Modifier(token:0x6EA4BB4).valueType (token:0x6EA4BB6)
 
 ;	.proc.beg
 
@@ -29616,15 +29616,15 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x720AF79).class (token:0x720AF7B)
-;	.local.mb8   0,"$T2" SIG: valueType (token:0x7296E41)
-;	.local.mb8   1,"$T3" SIG: valueType (token:0x7296E41)
-;	.local.mb8   2,"$T4" SIG: valueType (token:0x7296E41)
-;	.local.mb8   3,"$T5" SIG: valueType (token:0x72BF221)
-;	.local.mb8   4,"$T6" SIG: valueType (token:0x7296E41)
-;	.local.mb8   5,"$T7" SIG: valueType (token:0x71B1211)
-;	.local.mb8   6,"$T8" SIG: valueType (token:0x7296E41)
-;	.local.mb8   7,"$T9" SIG: valueType (token:0x71B1211)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F3AF79).class (token:0x6F3AF7B)
+;	.local.mb8   0,"$T2" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   1,"$T3" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   2,"$T4" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   3,"$T5" SIG: valueType (token:0x6FEF221)
+;	.local.mb8   4,"$T6" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   5,"$T7" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   6,"$T8" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   7,"$T9" SIG: valueType (token:0x6EE1211)
 
 ;	.proc.beg
 
@@ -29876,8 +29876,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B97B9).Optional C Binding Modifier(token:0x72B97BB).ptr.valueType (token:0x72B97BE)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x72ABB09).Optional C Binding Modifier(token:0x72ABB0B).ptr.valueType (token:0x72ABB0E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE97B9).Optional C Binding Modifier(token:0x6FE97BB).ptr.valueType (token:0x6FE97BE)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6FDBB09).Optional C Binding Modifier(token:0x6FDBB0B).ptr.valueType (token:0x6FDBB0E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -29923,8 +29923,8 @@ $LN5@Vector_con:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7285C79).Optional C Binding Modifier(token:0x7285C7B).ptr.valueType (token:0x7285C7E)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x72531D1).Optional C Binding Modifier(token:0x72531D3).ptr.valueType (token:0x72531D6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FB5C79).Optional C Binding Modifier(token:0x6FB5C7B).ptr.valueType (token:0x6FB5C7E)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F831D1).Optional C Binding Modifier(token:0x6F831D3).ptr.valueType (token:0x6F831D6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -29952,8 +29952,8 @@ $LN5@Vector_con:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B64E1).Optional C Binding Modifier(token:0x72B64E3).ptr.valueType (token:0x72B64E6)
-;	.formal.i8 1,"str$" SIG: Optional C Binding Modifier(token:0x72B96B9).ptr.Optional C Binding Modifier(token:0x72B96BC).valueType (token:0x72B96BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE64E1).Optional C Binding Modifier(token:0x6FE64E3).ptr.valueType (token:0x6FE64E6)
+;	.formal.i8 1,"str$" SIG: Optional C Binding Modifier(token:0x6FE96B9).ptr.Optional C Binding Modifier(token:0x6FE96BC).valueType (token:0x6FE96BE)
 ;	.local.u8 0,"len$2" SIG: u8
 
 ;	.proc.beg
@@ -30023,7 +30023,7 @@ $LN1@String:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7194DE1).Optional C Binding Modifier(token:0x7194DE3).ptr.valueType (token:0x7194DE6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC4DE1).Optional C Binding Modifier(token:0x6EC4DE3).ptr.valueType (token:0x6EC4DE6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -30048,7 +30048,7 @@ $LN1@String:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x7195A52)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6EC5A52)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -30094,8 +30094,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7216101).Optional C Binding Modifier(token:0x7216103).ptr.valueType (token:0x7216106)
-;	.formal.i8 1,"x$" SIG: Optional C Binding Modifier(token:0x718CA49).ptr.Optional C Binding Modifier(token:0x718CA4C).valueType (token:0x718CA4E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F46101).Optional C Binding Modifier(token:0x6F46103).ptr.valueType (token:0x6F46106)
+;	.formal.i8 1,"x$" SIG: Optional C Binding Modifier(token:0x6EBCA49).ptr.Optional C Binding Modifier(token:0x6EBCA4C).valueType (token:0x6EBCA4E)
 
 ;	.proc.beg
 
@@ -30165,8 +30165,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717C451).Optional C Binding Modifier(token:0x717C453).ptr.valueType (token:0x717C456)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x71A0589).Optional C Binding Modifier(token:0x71A058B).ptr.valueType (token:0x71A058E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EAC451).Optional C Binding Modifier(token:0x6EAC453).ptr.valueType (token:0x6EAC456)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6ED0589).Optional C Binding Modifier(token:0x6ED058B).ptr.valueType (token:0x6ED058E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -30212,8 +30212,8 @@ $LN5@Vector_con:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72DCD51).Optional C Binding Modifier(token:0x72DCD53).ptr.valueType (token:0x72DCD56)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x7297521).Optional C Binding Modifier(token:0x7297523).ptr.valueType (token:0x7297526)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x700CD51).Optional C Binding Modifier(token:0x700CD53).ptr.valueType (token:0x700CD56)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6FC7521).Optional C Binding Modifier(token:0x6FC7523).ptr.valueType (token:0x6FC7526)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -30241,8 +30241,8 @@ $LN5@Vector_con:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A7BB9).Optional C Binding Modifier(token:0x72A7BBB).ptr.valueType (token:0x72A7BBE)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x7247C69).Optional C Binding Modifier(token:0x7247C6B).ptr.valueType (token:0x7247C6E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD7BB9).Optional C Binding Modifier(token:0x6FD7BBB).ptr.valueType (token:0x6FD7BBE)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F77C69).Optional C Binding Modifier(token:0x6F77C6B).ptr.valueType (token:0x6F77C6E)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -30288,8 +30288,8 @@ $LN5@Vector_con:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716D359).Optional C Binding Modifier(token:0x716D35B).ptr.valueType (token:0x716D35E)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x72E1141).Optional C Binding Modifier(token:0x72E1143).ptr.valueType (token:0x72E1146)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9D359).Optional C Binding Modifier(token:0x6E9D35B).ptr.valueType (token:0x6E9D35E)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x7011141).Optional C Binding Modifier(token:0x7011143).ptr.valueType (token:0x7011146)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -30318,12 +30318,12 @@ $LN5@Vector_con:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x72E0DD2)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x72E0DD2)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x72E0DD2)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x72D5CA2)
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x72E0DD2)
-;	.local.mb1   3,"$T5" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x7010DD2)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x7010DD2)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7010DD2)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x7005CA2)
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x7010DD2)
+;	.local.mb1   3,"$T5" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	3		; $T5
@@ -30404,10 +30404,10 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
-;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
+;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
 ;	.local.i8 1,"$T2" SIG: ptr.void
-;	.local.mb1   2,"$S10$" SIG: valueType (token:0x720CBF9)
+;	.local.mb1   2,"$S10$" SIG: valueType (token:0x6F3CBF9)
 
 ;	.proc.beg
 
@@ -30464,11 +30464,11 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x721E161).Optional C Binding Modifier(token:0x721E163).ptr.valueType (token:0x721E166)
-;	.local.mb1   0,"$T2" SIG: valueType (token:0x71A71D9)
-;	.local.mb1   1,"$T3" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F4E161).Optional C Binding Modifier(token:0x6F4E163).ptr.valueType (token:0x6F4E166)
+;	.local.mb1   0,"$T2" SIG: valueType (token:0x6ED71D9)
+;	.local.mb1   1,"$T3" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -30528,9 +30528,9 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
-;	.local.mb1   0,"$T2" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   1,"$T3" SIG: valueType (token:0x72D1AF9)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
+;	.local.mb1   0,"$T2" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   1,"$T3" SIG: valueType (token:0x7001AF9)
 
 ;	.proc.beg
 
@@ -30574,8 +30574,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7194DE1).Optional C Binding Modifier(token:0x7194DE3).ptr.valueType (token:0x7194DE6)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x71FDA99).Optional C Binding Modifier(token:0x71FDA9B).ptr.valueType (token:0x71FDA9E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC4DE1).Optional C Binding Modifier(token:0x6EC4DE3).ptr.valueType (token:0x6EC4DE6)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F2DA99).Optional C Binding Modifier(token:0x6F2DA9B).ptr.valueType (token:0x6F2DA9E)
 
 ;	.proc.beg
 
@@ -30624,8 +30624,8 @@ $LN5@function:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7194DE1).Optional C Binding Modifier(token:0x7194DE3).ptr.valueType (token:0x7194DE6)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x721BF51).ptr.Optional C Binding Modifier(token:0x721BF54).valueType (token:0x721BF56)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC4DE1).Optional C Binding Modifier(token:0x6EC4DE3).ptr.valueType (token:0x6EC4DE6)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F4BF51).ptr.Optional C Binding Modifier(token:0x6F4BF54).valueType (token:0x6F4BF56)
 
 ;	.proc.beg
 
@@ -30694,10 +30694,10 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3781).Optional C Binding Modifier(token:0x71B3783).ptr.valueType (token:0x71B3786)
-;	.local.i8 0,"_To_delete$" SIG: Optional C Binding Modifier(token:0x720FA89).Optional C Binding Modifier(token:0x720FA8B).ptr.valueType (token:0x720FA8E)
-;	.local.i8 1,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
-;	.local.mb1   2,"$S23$" SIG: valueType (token:0x720CBF9)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3781).Optional C Binding Modifier(token:0x6EE3783).ptr.valueType (token:0x6EE3786)
+;	.local.i8 0,"_To_delete$" SIG: Optional C Binding Modifier(token:0x6F3FA89).Optional C Binding Modifier(token:0x6F3FA8B).ptr.valueType (token:0x6F3FA8E)
+;	.local.i8 1,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
+;	.local.mb1   2,"$S23$" SIG: valueType (token:0x6F3CBF9)
 
 ;	.proc.beg
 
@@ -30775,11 +30775,11 @@ $LN5@basic_stri:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3781).Optional C Binding Modifier(token:0x71B3783).ptr.valueType (token:0x71B3786)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x7199731).Optional C Binding Modifier(token:0x7199733).ptr.valueType (token:0x7199736)
-;	.local.mb1   0,"$T2" SIG: valueType (token:0x71A71D9)
-;	.local.mb1   1,"$T3" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3781).Optional C Binding Modifier(token:0x6EE3783).ptr.valueType (token:0x6EE3786)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6EC9731).Optional C Binding Modifier(token:0x6EC9733).ptr.valueType (token:0x6EC9736)
+;	.local.mb1   0,"$T2" SIG: valueType (token:0x6ED71D9)
+;	.local.mb1   1,"$T3" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -30847,10 +30847,10 @@ $LN5@basic_stri:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.local.i8 0,"_To_delete$" SIG: Optional C Binding Modifier(token:0x720FA89).Optional C Binding Modifier(token:0x720FA8B).ptr.valueType (token:0x720FA8E)
-;	.local.i8 1,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
-;	.local.mb1   2,"$S26$" SIG: valueType (token:0x720CBF9)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.local.i8 0,"_To_delete$" SIG: Optional C Binding Modifier(token:0x6F3FA89).Optional C Binding Modifier(token:0x6F3FA8B).ptr.valueType (token:0x6F3FA8E)
+;	.local.i8 1,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
+;	.local.mb1   2,"$S26$" SIG: valueType (token:0x6F3CBF9)
 
 ;	.proc.beg
 
@@ -30927,11 +30927,11 @@ $LN5@basic_stri:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x723E6F1).Optional C Binding Modifier(token:0x723E6F3).ptr.valueType (token:0x723E6F6)
-;	.local.mb1   0,"$T2" SIG: valueType (token:0x71A71D9)
-;	.local.mb1   1,"$T3" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F6E6F1).Optional C Binding Modifier(token:0x6F6E6F3).ptr.valueType (token:0x6F6E6F6)
+;	.local.mb1   0,"$T2" SIG: valueType (token:0x6ED71D9)
+;	.local.mb1   1,"$T3" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -30999,9 +30999,9 @@ $LN5@basic_stri:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.local.mb1   0,"$T2" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   1,"$T3" SIG: valueType (token:0x72D1AF9)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.local.mb1   0,"$T2" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   1,"$T3" SIG: valueType (token:0x7001AF9)
 
 ;	.proc.beg
 
@@ -31057,12 +31057,12 @@ $LN5@basic_stri:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.i8 1,"__$ReturnUdt$" SIG: ptr.valueType (token:0x722966A)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.i8 1,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6F5966A)
 ;	.local.u4 0,"$T2"
-;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x72A03C9).ptr.valueType (token:0x72A03CC)
-;	.local.i8 2,"$T3" SIG: ptr.valueType (token:0x86360CA)
-;	.local.i8 3,"$T4" SIG: ptr.valueType (token:0x86360CA)
+;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x6FD03C9).ptr.valueType (token:0x6FD03CC)
+;	.local.i8 2,"$T3" SIG: ptr.valueType (token:0x82260CA)
+;	.local.i8 3,"$T4" SIG: ptr.valueType (token:0x82260CA)
 
 ;	.proc.beg
 
@@ -31137,12 +31137,12 @@ $LN6@end:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.i8 1,"__$ReturnUdt$" SIG: ptr.valueType (token:0x722966A)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.i8 1,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6F5966A)
 ;	.local.u4 0,"$T2"
-;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x72A03C9).ptr.valueType (token:0x72A03CC)
-;	.local.i8 2,"$T3" SIG: ptr.valueType (token:0x8636A5A)
-;	.local.i8 3,"$T4" SIG: ptr.valueType (token:0x8636A5A)
+;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x6FD03C9).ptr.valueType (token:0x6FD03CC)
+;	.local.i8 2,"$T3" SIG: ptr.valueType (token:0x8226A5A)
+;	.local.i8 3,"$T4" SIG: ptr.valueType (token:0x8226A5A)
 
 ;	.proc.beg
 
@@ -31217,10 +31217,10 @@ $LN6@begin:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
 ;	.local.i8 1,"$T2" SIG: ptr.void
-;	.local.mb1   2,"$S31$" SIG: valueType (token:0x720CBF9)
+;	.local.mb1   2,"$S31$" SIG: valueType (token:0x6F3CBF9)
 
 ;	.proc.beg
 
@@ -31276,11 +31276,11 @@ $LN6@begin:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x7234C61).Optional C Binding Modifier(token:0x7234C63).ptr.valueType (token:0x7234C66)
-;	.local.mb1   0,"$T2" SIG: valueType (token:0x71A71D9)
-;	.local.mb1   1,"$T3" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F64C61).Optional C Binding Modifier(token:0x6F64C63).ptr.valueType (token:0x6F64C66)
+;	.local.mb1   0,"$T2" SIG: valueType (token:0x6ED71D9)
+;	.local.mb1   1,"$T3" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -31340,9 +31340,9 @@ $LN6@begin:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.local.mb1   0,"$T2" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   1,"$T3" SIG: valueType (token:0x72D1AF9)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.local.mb1   0,"$T2" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   1,"$T3" SIG: valueType (token:0x7001AF9)
 
 ;	.proc.beg
 
@@ -31386,11 +31386,11 @@ $LN6@begin:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x71749F2)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x71749F2)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x71749F2)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x779D643)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6EA49F2)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6EA49F2)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6EA49F2)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x74CD643)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -31458,7 +31458,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x71749F2)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6EA49F2)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -31507,7 +31507,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A3629).Optional C Binding Modifier(token:0x72A362B).ptr.valueType (token:0x72A362E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD3629).Optional C Binding Modifier(token:0x6FD362B).ptr.valueType (token:0x6FD362E)
 
 ;	.proc.beg
 
@@ -31548,7 +31548,7 @@ $LN1@Tidy_guard:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x719B459).Optional C Binding Modifier(token:0x719B45B).ptr.valueType (token:0x719B45E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ECB459).Optional C Binding Modifier(token:0x6ECB45B).ptr.valueType (token:0x6ECB45E)
 
 ;	.proc.beg
 
@@ -31593,10 +31593,10 @@ $LN1@Container_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x719B459).Optional C Binding Modifier(token:0x719B45B).ptr.valueType (token:0x719B45E)
-;	.formal.i8 1,"_Al_$" SIG: Optional C Binding Modifier(token:0x7184D39).ptr.valueType (token:0x7184D3C)
-;	.formal.i8 2,"_Mycont$" SIG: Optional C Binding Modifier(token:0x71B5FC9).ptr.valueType (token:0x71B5FCC)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7199F6A)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ECB459).Optional C Binding Modifier(token:0x6ECB45B).ptr.valueType (token:0x6ECB45E)
+;	.formal.i8 1,"_Al_$" SIG: Optional C Binding Modifier(token:0x6EB4D39).ptr.valueType (token:0x6EB4D3C)
+;	.formal.i8 2,"_Mycont$" SIG: Optional C Binding Modifier(token:0x6EE5FC9).ptr.valueType (token:0x6EE5FCC)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6EC9F6A)
 
 ;	.proc.beg
 
@@ -31663,13 +31663,13 @@ $LN1@Container_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71F4449).Optional C Binding Modifier(token:0x71F444B).ptr.valueType (token:0x71F444E)
-;	.formal.u8 1,"_Newcapacity$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"_Newvec$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
-;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x7223749).ptr.valueType (token:0x722374C)
-;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x7250549).ptr.ptr.valueType (token:0x725054D)
-;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x7250549).ptr.ptr.valueType (token:0x725054D)
-;	.local.i8 4,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x7250549).ptr.ptr.valueType (token:0x725054D)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F24449).Optional C Binding Modifier(token:0x6F2444B).ptr.valueType (token:0x6F2444E)
+;	.formal.u8 1,"_Newcapacity$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"_Newvec$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
+;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x6F53749).ptr.valueType (token:0x6F5374C)
+;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x6F80549).ptr.ptr.valueType (token:0x6F8054D)
+;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x6F80549).ptr.ptr.valueType (token:0x6F8054D)
+;	.local.i8 4,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x6F80549).ptr.ptr.valueType (token:0x6F8054D)
 
 ;	.proc.beg
 
@@ -31744,7 +31744,7 @@ $LN1@Container_:
  .end ?_Buy_raw@?$vector@UCameraParams@detail@cv@@V?$allocator@UCameraParams@detail@cv@@@std@@@std@@$$FAEAAX_K@Z ; std::vector<cv::detail::CameraParams,std::allocator<cv::detail::CameraParams> >::_Buy_raw
 ;	.proc.end.void
 	.bss
-.local	$TypeTok$153FEFE0$,4
+.local	$TypeTok$154042CC$,4
 .local	$T1,0
 ; Function compile flags: /Odtp
 ; File C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\xstring
@@ -31761,14 +31761,14 @@ $LN1@Container_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.i1 2,"_Ch$" SIG: Optional C Binding Modifier(token:0x7252A41).Optional C Binding Modifier(token:0x7252A43).i1
-;	.local.u8 0,"_Old_size$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x86FE091).ptr.valueType (token:0x86FE094)
-;	.local.i8 2,"_Old_ptr$3" SIG: Optional C Binding Modifier(token:0x72E17C9).Optional C Binding Modifier(token:0x72E17CB).ptr.Optional C Binding Modifier(token:0x72E17CE).i1
-;	.local.mb1   3,"$T4" SIG: valueType (token:0x7226E19)
-;	.local.i1 4,"$T5" SIG: Optional C Binding Modifier(token:0x7252A41).Optional C Binding Modifier(token:0x7252A43).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.i1 2,"_Ch$" SIG: Optional C Binding Modifier(token:0x6F82A41).Optional C Binding Modifier(token:0x6F82A43).i1
+;	.local.u8 0,"_Old_size$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x82EE091).ptr.valueType (token:0x82EE094)
+;	.local.i8 2,"_Old_ptr$3" SIG: Optional C Binding Modifier(token:0x70117C9).Optional C Binding Modifier(token:0x70117CB).ptr.Optional C Binding Modifier(token:0x70117CE).i1
+;	.local.mb1   3,"$T4" SIG: valueType (token:0x6F56E19)
+;	.local.i1 4,"$T5" SIG: Optional C Binding Modifier(token:0x6F82A41).Optional C Binding Modifier(token:0x6F82A43).i1
 
 ;	.proc.beg
 
@@ -31852,7 +31852,7 @@ $LN2@append:
 	ldarg.0				; this$
 	ldarg.1				; _Count$
 	ldloca.s	3		; $T4
-	ldobj		$TypeTok$153FEFE0$
+	ldobj		$TypeTok$154042CC$
 	ldarg.1				; _Count$
 	ldarg.2				; _Ch$
 	call		??$_Reallocate_grow_by@V<lambda_59d344839e59d86dc9255728ed6d9dcb>@@_KD@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@$$FAEAAAEAV01@_KV<lambda_59d344839e59d86dc9255728ed6d9dcb>@@_KD@Z
@@ -31890,17 +31890,17 @@ $LN1@append:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72B96B9).ptr.Optional C Binding Modifier(token:0x72B96BC).valueType (token:0x72B96BE)
-;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x71A17F9).ptr.valueType (token:0x71A17FC)
-;	.local.u8 1,"_Right_size$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 2,"_New_capacity$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 3,"_Right_ptr$" SIG: Optional C Binding Modifier(token:0x7205699).Optional C Binding Modifier(token:0x720569B).ptr.Optional C Binding Modifier(token:0x720569E).Optional C Binding Modifier(token:0x72056A0).i1
-;	.local.i8 4,"_Right_data$" SIG: Optional C Binding Modifier(token:0x7190F71).ptr.Optional C Binding Modifier(token:0x7190F74).valueType (token:0x7190F76)
-;	.local.i8 5,"_New_array$" SIG: Optional C Binding Modifier(token:0x72E17C9).Optional C Binding Modifier(token:0x72E17CB).ptr.Optional C Binding Modifier(token:0x72E17CE).i1
-;	.local.i8 6,"_Al$" SIG: Optional C Binding Modifier(token:0x7172729).ptr.valueType (token:0x717272C)
-;	.local.u8 7,"$T2" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 8,"$T3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6FE96B9).ptr.Optional C Binding Modifier(token:0x6FE96BC).valueType (token:0x6FE96BE)
+;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x6ED17F9).ptr.valueType (token:0x6ED17FC)
+;	.local.u8 1,"_Right_size$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 2,"_New_capacity$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 3,"_Right_ptr$" SIG: Optional C Binding Modifier(token:0x6F35699).Optional C Binding Modifier(token:0x6F3569B).ptr.Optional C Binding Modifier(token:0x6F3569E).Optional C Binding Modifier(token:0x6F356A0).i1
+;	.local.i8 4,"_Right_data$" SIG: Optional C Binding Modifier(token:0x6EC0F71).ptr.Optional C Binding Modifier(token:0x6EC0F74).valueType (token:0x6EC0F76)
+;	.local.i8 5,"_New_array$" SIG: Optional C Binding Modifier(token:0x70117C9).Optional C Binding Modifier(token:0x70117CB).ptr.Optional C Binding Modifier(token:0x70117CE).i1
+;	.local.i8 6,"_Al$" SIG: Optional C Binding Modifier(token:0x6EA2729).ptr.valueType (token:0x6EA272C)
+;	.local.u8 7,"$T2" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 8,"$T3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -32072,13 +32072,13 @@ $LN1@Construct_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.u8 1,"_Newcapacity$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 0,"_Newvec$" SIG: Optional C Binding Modifier(token:0x71ACCC1).Optional C Binding Modifier(token:0x71ACCC3).ptr.i4
-;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x72A03C9).ptr.valueType (token:0x72A03CC)
-;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x717BAD1).ptr.ptr.i4
-;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x717BAD1).ptr.ptr.i4
-;	.local.i8 4,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x717BAD1).ptr.ptr.i4
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.u8 1,"_Newcapacity$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 0,"_Newvec$" SIG: Optional C Binding Modifier(token:0x6EDCCC1).Optional C Binding Modifier(token:0x6EDCCC3).ptr.i4
+;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x6FD03C9).ptr.valueType (token:0x6FD03CC)
+;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x6EABAD1).ptr.ptr.i4
+;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x6EABAD1).ptr.ptr.i4
+;	.local.i8 4,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x6EABAD1).ptr.ptr.i4
 
 ;	.proc.beg
 
@@ -32169,8 +32169,8 @@ $LN1@Construct_:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A7D61).Optional C Binding Modifier(token:0x71A7D63).ptr.valueType (token:0x71A7D66)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x718FBF9).Optional C Binding Modifier(token:0x718FBFB).ptr.valueType (token:0x718FBFE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED7D61).Optional C Binding Modifier(token:0x6ED7D63).ptr.valueType (token:0x6ED7D66)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6EBFBF9).Optional C Binding Modifier(token:0x6EBFBFB).ptr.valueType (token:0x6EBFBFE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -32215,11 +32215,11 @@ $LN5@String_con:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x72B456A)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x72B456A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x72B456A)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x7A0C143)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6FE456A)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6FE456A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6FE456A)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x773C143)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -32290,8 +32290,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7203759).Optional C Binding Modifier(token:0x720375B).ptr.valueType (token:0x720375E)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x72D1FB1).Optional C Binding Modifier(token:0x72D1FB3).ptr.valueType (token:0x72D1FB6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F33759).Optional C Binding Modifier(token:0x6F3375B).ptr.valueType (token:0x6F3375E)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x7001FB1).Optional C Binding Modifier(token:0x7001FB3).ptr.valueType (token:0x7001FB6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -32336,11 +32336,11 @@ $LN5@String_con:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x72A624A)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x72A624A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x72A624A)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x779EB43)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6FD624A)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6FD624A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6FD624A)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x74CEB43)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -32411,17 +32411,17 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3781).Optional C Binding Modifier(token:0x71B3783).ptr.valueType (token:0x71B3786)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x7224079).ptr.Optional C Binding Modifier(token:0x722407C).valueType (token:0x722407E)
-;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x72D0761).ptr.valueType (token:0x72D0764)
-;	.local.u8 1,"_Right_size$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 2,"_New_capacity$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.i8 3,"_Right_ptr$" SIG: Optional C Binding Modifier(token:0x72AF4E1).Optional C Binding Modifier(token:0x72AF4E3).ptr.Optional C Binding Modifier(token:0x72AF4E6).char
-;	.local.i8 4,"_Right_data$" SIG: Optional C Binding Modifier(token:0x72A8BC9).ptr.Optional C Binding Modifier(token:0x72A8BCC).valueType (token:0x72A8BCE)
-;	.local.i8 5,"_New_array$" SIG: Optional C Binding Modifier(token:0x72B1961).Optional C Binding Modifier(token:0x72B1963).ptr.char
-;	.local.i8 6,"_Al$" SIG: Optional C Binding Modifier(token:0x7190071).ptr.valueType (token:0x7190074)
-;	.local.u8 7,"$T2" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.u8 8,"$T3" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3781).Optional C Binding Modifier(token:0x6EE3783).ptr.valueType (token:0x6EE3786)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F54079).ptr.Optional C Binding Modifier(token:0x6F5407C).valueType (token:0x6F5407E)
+;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x7000761).ptr.valueType (token:0x7000764)
+;	.local.u8 1,"_Right_size$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 2,"_New_capacity$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.i8 3,"_Right_ptr$" SIG: Optional C Binding Modifier(token:0x6FDF4E1).Optional C Binding Modifier(token:0x6FDF4E3).ptr.Optional C Binding Modifier(token:0x6FDF4E6).char
+;	.local.i8 4,"_Right_data$" SIG: Optional C Binding Modifier(token:0x6FD8BC9).ptr.Optional C Binding Modifier(token:0x6FD8BCC).valueType (token:0x6FD8BCE)
+;	.local.i8 5,"_New_array$" SIG: Optional C Binding Modifier(token:0x6FE1961).Optional C Binding Modifier(token:0x6FE1963).ptr.char
+;	.local.i8 6,"_Al$" SIG: Optional C Binding Modifier(token:0x6EC0071).ptr.valueType (token:0x6EC0074)
+;	.local.u8 7,"$T2" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.u8 8,"$T3" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -32593,8 +32593,8 @@ $LN1@Construct_:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7203759).Optional C Binding Modifier(token:0x720375B).ptr.valueType (token:0x720375E)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x717F761).ptr.Optional C Binding Modifier(token:0x717F764).valueType (token:0x717F766)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F33759).Optional C Binding Modifier(token:0x6F3375B).ptr.valueType (token:0x6F3375E)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6EAF761).ptr.Optional C Binding Modifier(token:0x6EAF764).valueType (token:0x6EAF766)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -32664,8 +32664,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717E5B9).Optional C Binding Modifier(token:0x717E5BB).ptr.valueType (token:0x717E5BE)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x71FF391).ptr.Optional C Binding Modifier(token:0x71FF394).valueType (token:0x71FF396)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EAE5B9).Optional C Binding Modifier(token:0x6EAE5BB).ptr.valueType (token:0x6EAE5BE)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F2F391).ptr.Optional C Binding Modifier(token:0x6F2F394).valueType (token:0x6F2F396)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -32715,8 +32715,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A7D61).Optional C Binding Modifier(token:0x71A7D63).ptr.valueType (token:0x71A7D66)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x7224CB1).ptr.Optional C Binding Modifier(token:0x7224CB4).valueType (token:0x7224CB6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED7D61).Optional C Binding Modifier(token:0x6ED7D63).ptr.valueType (token:0x6ED7D66)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F54CB1).ptr.Optional C Binding Modifier(token:0x6F54CB4).valueType (token:0x6F54CB6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -32786,8 +32786,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7294F51).Optional C Binding Modifier(token:0x7294F53).ptr.valueType (token:0x7294F56)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x71E8151).ptr.Optional C Binding Modifier(token:0x71E8154).valueType (token:0x71E8156)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC4F51).Optional C Binding Modifier(token:0x6FC4F53).ptr.valueType (token:0x6FC4F56)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F18151).ptr.Optional C Binding Modifier(token:0x6F18154).valueType (token:0x6F18156)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -32835,9 +32835,9 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_First$" SIG: ptr.valueType (token:0x72D095A)
-;	.formal.i8 1,"_Last$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
-;	.formal.i8 2,"_Al$" SIG: Optional C Binding Modifier(token:0x719DA79).ptr.valueType (token:0x719DA7C)
+;	.formal.i8 0,"_First$" SIG: ptr.valueType (token:0x700095A)
+;	.formal.i8 1,"_Last$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
+;	.formal.i8 2,"_Al$" SIG: Optional C Binding Modifier(token:0x6ECDA79).ptr.valueType (token:0x6ECDA7C)
 
 ;	.proc.beg
 
@@ -32893,8 +32893,8 @@ $LN1@Destroy_ra:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A7BB9).Optional C Binding Modifier(token:0x72A7BBB).ptr.valueType (token:0x72A7BBE)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x72A4BA9).ptr.Optional C Binding Modifier(token:0x72A4BAC).valueType (token:0x72A4BAE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD7BB9).Optional C Binding Modifier(token:0x6FD7BBB).ptr.valueType (token:0x6FD7BBE)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6FD4BA9).ptr.Optional C Binding Modifier(token:0x6FD4BAC).valueType (token:0x6FD4BAE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -32962,8 +32962,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x716D359).Optional C Binding Modifier(token:0x716D35B).ptr.valueType (token:0x716D35E)
-;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x72142C9).ptr.Optional C Binding Modifier(token:0x72142CC).valueType (token:0x72142CE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6E9D359).Optional C Binding Modifier(token:0x6E9D35B).ptr.valueType (token:0x6E9D35E)
+;	.formal.i8 1,"__that$" SIG: Optional C Binding Modifier(token:0x6F442C9).ptr.Optional C Binding Modifier(token:0x6F442CC).valueType (token:0x6F442CE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -33011,8 +33011,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
-;	.formal.u8 1,"_Newcapacity$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
+;	.formal.u8 1,"_Newcapacity$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -33068,10 +33068,10 @@ $LN2@Buy_nonzer:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
 ;	.formal.i8 1,"_Dest$" SIG: ptr.r4
-;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.i8 3,"_Val$" SIG: Optional C Binding Modifier(token:0x7255A39).ptr.Optional C Binding Modifier(token:0x7255A3C).r4
+;	.formal.u8 2,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.i8 3,"_Val$" SIG: Optional C Binding Modifier(token:0x6F85A39).ptr.Optional C Binding Modifier(token:0x6F85A3C).r4
 ;	.local.i8 0,"$T2" SIG: ptr.r4
 
 ;	.proc.beg
@@ -33108,8 +33108,8 @@ $LN2@Buy_nonzer:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.u8 1,"_Newcapacity$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.u8 1,"_Newcapacity$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -33169,12 +33169,12 @@ $LN2@Buy_nonzer:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
 ;	.formal.i8 1,"_First$" SIG: ptr.i4
 ;	.formal.i8 2,"_Last$" SIG: ptr.i4
-;	.local.i8 0,"_My_data$2" SIG: Optional C Binding Modifier(token:0x72A03C9).ptr.valueType (token:0x72A03CC)
-;	.local.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.local.mb8   2,"_Guard$3" SIG: valueType (token:0x7236641)
+;	.local.i8 0,"_My_data$2" SIG: Optional C Binding Modifier(token:0x6FD03C9).ptr.valueType (token:0x6FD03CC)
+;	.local.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.local.mb8   2,"_Guard$3" SIG: valueType (token:0x6F66641)
 
 ;	.proc.beg
 
@@ -33266,7 +33266,7 @@ $LN1@Range_cons:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x719C611).Optional C Binding Modifier(token:0x719C613).ptr.valueType (token:0x719C616)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ECC611).Optional C Binding Modifier(token:0x6ECC613).ptr.valueType (token:0x6ECC616)
 
 ;	.proc.beg
 
@@ -33312,13 +33312,13 @@ $LN1@Range_cons:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B12D1).Optional C Binding Modifier(token:0x72B12D3).ptr.valueType (token:0x72B12D6)
-;	.formal.mb8   1,"_First$" SIG: valueType (token:0x71B3649)
-;	.formal.mb8   2,"_Last$" SIG: Optional C Binding Modifier(token:0x723B2A9).valueType (token:0x723B2AB)
-;	.local.i8 0,"_Newhead$2" SIG: Optional C Binding Modifier(token:0x72363A1).Optional C Binding Modifier(token:0x72363A3).ptr.valueType (token:0x72363A6)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x728AB6A)
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x728AB6A)
-;	.local.mb16  3,"_Newnode$" SIG: valueType (token:0x71EAA19)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE12D1).Optional C Binding Modifier(token:0x6FE12D3).ptr.valueType (token:0x6FE12D6)
+;	.formal.mb8   1,"_First$" SIG: valueType (token:0x6EE3649)
+;	.formal.mb8   2,"_Last$" SIG: Optional C Binding Modifier(token:0x6F6B2A9).valueType (token:0x6F6B2AB)
+;	.local.i8 0,"_Newhead$2" SIG: Optional C Binding Modifier(token:0x6F663A1).Optional C Binding Modifier(token:0x6F663A3).ptr.valueType (token:0x6F663A6)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x6FBAB6A)
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x6FBAB6A)
+;	.local.mb16  3,"_Newnode$" SIG: valueType (token:0x6F1AA19)
 
 ;	.proc.beg
 
@@ -33566,13 +33566,13 @@ $LN1@Append_ran:
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EC289).Optional C Binding Modifier(token:0x71EC28B).ptr.valueType (token:0x71EC28E)
-;	.formal.mb8   1,"_First$" SIG: valueType (token:0x71B3649)
-;	.formal.mb8   2,"_Last$" SIG: valueType (token:0x71B3649)
-;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
-;	.local.mb32  1,"_Appended$" SIG: valueType (token:0x725A111)
-;	.local.mb16  2,"_Proxy$" SIG: valueType (token:0x7174D69)
-;	.local.mb1   3,"$S46$" SIG: valueType (token:0x720CBF9)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1C289).Optional C Binding Modifier(token:0x6F1C28B).ptr.valueType (token:0x6F1C28E)
+;	.formal.mb8   1,"_First$" SIG: valueType (token:0x6EE3649)
+;	.formal.mb8   2,"_Last$" SIG: valueType (token:0x6EE3649)
+;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
+;	.local.mb32  1,"_Appended$" SIG: valueType (token:0x6F8A111)
+;	.local.mb16  2,"_Proxy$" SIG: valueType (token:0x6EA4D69)
+;	.local.mb1   3,"$S46$" SIG: valueType (token:0x6F3CBF9)
 
 ;	.proc.beg
 
@@ -33661,11 +33661,11 @@ $LN9@Construct_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x722966A)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x722966A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x722966A)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x77A5643)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6F5966A)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6F5966A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6F5966A)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x74D5643)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -33735,7 +33735,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -33775,11 +33775,11 @@ $LN2@scalar:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x720F992)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x720F992)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x720F992)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x79E4113)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6F3F992)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6F3F992)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6F3F992)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x7714113)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -33847,7 +33847,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x720F992)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6F3F992)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -33894,11 +33894,11 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x7195A52)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x7195A52)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7195A52)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x77A8143)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6EC5A52)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6EC5A52)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6EC5A52)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x74D8143)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -33968,11 +33968,11 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x71AA81A)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x71AA81A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x71AA81A)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x79E4143)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6EDA81A)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6EDA81A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6EDA81A)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x7714143)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -34042,11 +34042,11 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x72DC76A)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x72DC76A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x72DC76A)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x77A5643)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x700C76A)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x700C76A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x700C76A)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x74D5643)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -34182,8 +34182,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71906F1).Optional C Binding Modifier(token:0x71906F3).ptr.valueType (token:0x71906F6)
-;	.formal.i8 1,"d$" SIG: Optional C Binding Modifier(token:0x722F1A1).ptr.Optional C Binding Modifier(token:0x722F1A4).valueType (token:0x722F1A6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC06F1).Optional C Binding Modifier(token:0x6EC06F3).ptr.valueType (token:0x6EC06F6)
+;	.formal.i8 1,"d$" SIG: Optional C Binding Modifier(token:0x6F5F1A1).ptr.Optional C Binding Modifier(token:0x6F5F1A4).valueType (token:0x6F5F1A6)
 
 ;	.proc.beg
 
@@ -34311,11 +34311,11 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x7295212)
-;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x7295212)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7295212)
-;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x77C0143)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x7175479)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6FC5212)
+;	.formal.i8 1,"__P1$" SIG: ptr.valueType (token:0x6FC5212)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6FC5212)
+;	.local.i8 1,"$T3" SIG: ptr.ptr.valueType (token:0x74F0143)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6EA5479)
 
 ;	.proc.beg
 	ldloca.s	2		; $T4
@@ -34383,7 +34383,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x7295212)
+;	.formal.i8 0,"__P0$" SIG: ptr.valueType (token:0x6FC5212)
 
 ;	.proc.beg
 	ldarg.0				; __P0$
@@ -34431,10 +34431,10 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.formal.u8 1,"_Newsize$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.i1 2,"_Ch$" SIG: Optional C Binding Modifier(token:0x7252A41).Optional C Binding Modifier(token:0x7252A43).i1
-;	.local.u8 0,"_Old_size$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.formal.u8 1,"_Newsize$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.i1 2,"_Ch$" SIG: Optional C Binding Modifier(token:0x6F82A41).Optional C Binding Modifier(token:0x6F82A43).i1
+;	.local.u8 0,"_Old_size$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
 
 ;	.proc.beg
 
@@ -34496,13 +34496,13 @@ $LN1@resize:
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71A2341).Optional C Binding Modifier(token:0x71A2343).ptr.valueType (token:0x71A2346)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x72B96B9).ptr.Optional C Binding Modifier(token:0x72B96BC).valueType (token:0x72B96BE)
-;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
-;	.local.mb16  1,"_Proxy$" SIG: valueType (token:0x7174D69)
-;	.local.mb1   2,"$S30$" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   3,"$T2" SIG: valueType (token:0x7287D81)
-;	.local.mb1   4,"$T3" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6ED2341).Optional C Binding Modifier(token:0x6ED2343).ptr.valueType (token:0x6ED2346)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6FE96B9).ptr.Optional C Binding Modifier(token:0x6FE96BC).valueType (token:0x6FE96BE)
+;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
+;	.local.mb16  1,"_Proxy$" SIG: valueType (token:0x6EA4D69)
+;	.local.mb1   2,"$S30$" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   3,"$T2" SIG: valueType (token:0x6FB7D81)
+;	.local.mb1   4,"$T3" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -34609,18 +34609,18 @@ _TEXT	ENDS
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x719ACC1).ptr.Optional C Binding Modifier(token:0x719ACC4).valueType (token:0x719ACC6)
-;	.local.i8 0,"_Rightlast$" SIG: Optional C Binding Modifier(token:0x71ACCC1).Optional C Binding Modifier(token:0x71ACCC3).ptr.i4
-;	.local.i8 1,"_Rightfirst$" SIG: Optional C Binding Modifier(token:0x71ACCC1).Optional C Binding Modifier(token:0x71ACCC3).ptr.i4
-;	.local.i8 2,"_My_data$" SIG: Optional C Binding Modifier(token:0x72A03C9).ptr.valueType (token:0x72A03CC)
-;	.local.i8 3,"_Right_data$" SIG: Optional C Binding Modifier(token:0x71F8271).ptr.Optional C Binding Modifier(token:0x71F8274).valueType (token:0x71F8276)
-;	.local.i8 4,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
-;	.local.mb8   5,"_Guard$2" SIG: valueType (token:0x7236641)
-;	.local.mb16  6,"_Proxy$" SIG: valueType (token:0x7174D69)
-;	.local.mb1   7,"$S32$" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   8,"$T3" SIG: valueType (token:0x7285029)
-;	.local.mb1   9,"$T4" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6ECACC1).ptr.Optional C Binding Modifier(token:0x6ECACC4).valueType (token:0x6ECACC6)
+;	.local.i8 0,"_Rightlast$" SIG: Optional C Binding Modifier(token:0x6EDCCC1).Optional C Binding Modifier(token:0x6EDCCC3).ptr.i4
+;	.local.i8 1,"_Rightfirst$" SIG: Optional C Binding Modifier(token:0x6EDCCC1).Optional C Binding Modifier(token:0x6EDCCC3).ptr.i4
+;	.local.i8 2,"_My_data$" SIG: Optional C Binding Modifier(token:0x6FD03C9).ptr.valueType (token:0x6FD03CC)
+;	.local.i8 3,"_Right_data$" SIG: Optional C Binding Modifier(token:0x6F28271).ptr.Optional C Binding Modifier(token:0x6F28274).valueType (token:0x6F28276)
+;	.local.i8 4,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
+;	.local.mb8   5,"_Guard$2" SIG: valueType (token:0x6F66641)
+;	.local.mb16  6,"_Proxy$" SIG: valueType (token:0x6EA4D69)
+;	.local.mb1   7,"$S32$" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   8,"$T3" SIG: valueType (token:0x6FB5029)
+;	.local.mb1   9,"$T4" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -34802,13 +34802,13 @@ _TEXT	ENDS
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B3781).Optional C Binding Modifier(token:0x71B3783).ptr.valueType (token:0x71B3786)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x7224079).ptr.Optional C Binding Modifier(token:0x722407C).valueType (token:0x722407E)
-;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
-;	.local.mb16  1,"_Proxy$" SIG: valueType (token:0x7174D69)
-;	.local.mb1   2,"$S35$" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   3,"$T2" SIG: valueType (token:0x71E2FF9)
-;	.local.mb1   4,"$T3" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE3781).Optional C Binding Modifier(token:0x6EE3783).ptr.valueType (token:0x6EE3786)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6F54079).ptr.Optional C Binding Modifier(token:0x6F5407C).valueType (token:0x6F5407E)
+;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
+;	.local.mb16  1,"_Proxy$" SIG: valueType (token:0x6EA4D69)
+;	.local.mb1   2,"$S35$" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   3,"$T2" SIG: valueType (token:0x6F12FF9)
+;	.local.mb1   4,"$T3" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -34913,9 +34913,9 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71F4449).Optional C Binding Modifier(token:0x71F444B).ptr.valueType (token:0x71F444E)
-;	.formal.i8 1,"_First$" SIG: ptr.valueType (token:0x72D095A)
-;	.formal.i8 2,"_Last$" SIG: ptr.valueType (token:0x72D095A)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F24449).Optional C Binding Modifier(token:0x6F2444B).ptr.valueType (token:0x6F2444E)
+;	.formal.i8 1,"_First$" SIG: ptr.valueType (token:0x700095A)
+;	.formal.i8 2,"_Last$" SIG: ptr.valueType (token:0x700095A)
 
 ;	.proc.beg
 
@@ -34949,15 +34949,15 @@ _TEXT	ENDS
 ; Exception Information:
 ; 3 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.i8 1,"_First$" SIG: ptr.valueType (token:0x722966A)
-;	.formal.i8 2,"_Last$" SIG: ptr.valueType (token:0x722966A)
-;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x722BD19).ptr.Optional C Binding Modifier(token:0x722BD1C).valueType (token:0x722BD1E)
-;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
-;	.local.mb1   1,"$T2" SIG: valueType (token:0x723E9F1)
-;	.local.mb16  2,"_Proxy$" SIG: valueType (token:0x7174D69)
-;	.local.mb1   3,"$S38$" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   4,"$T3" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.i8 1,"_First$" SIG: ptr.valueType (token:0x6F5966A)
+;	.formal.i8 2,"_Last$" SIG: ptr.valueType (token:0x6F5966A)
+;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x6F5BD19).ptr.Optional C Binding Modifier(token:0x6F5BD1C).valueType (token:0x6F5BD1E)
+;	.local.i8 0,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
+;	.local.mb1   1,"$T2" SIG: valueType (token:0x6F6E9F1)
+;	.local.mb16  2,"_Proxy$" SIG: valueType (token:0x6EA4D69)
+;	.local.mb1   3,"$S38$" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   4,"$T3" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -35063,14 +35063,14 @@ $LN13@allocator:
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x7255A39).ptr.Optional C Binding Modifier(token:0x7255A3C).r4
-;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x72DBFC1).ptr.valueType (token:0x72DBFC4)
-;	.local.i8 1,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
-;	.local.mb8   2,"_Guard$2" SIG: valueType (token:0x71ADD29)
-;	.local.mb16  3,"_Proxy$" SIG: valueType (token:0x7174D69)
-;	.local.mb1   4,"$S39$" SIG: valueType (token:0x720CBF9)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x6F85A39).ptr.Optional C Binding Modifier(token:0x6F85A3C).r4
+;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x700BFC1).ptr.valueType (token:0x700BFC4)
+;	.local.i8 1,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
+;	.local.mb8   2,"_Guard$2" SIG: valueType (token:0x6EDDD29)
+;	.local.mb16  3,"_Proxy$" SIG: valueType (token:0x6EA4D69)
+;	.local.mb1   4,"$S39$" SIG: valueType (token:0x6F3CBF9)
 
 ;	.proc.beg
 
@@ -35190,14 +35190,14 @@ $LN10@Construct_:
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x7220951).ptr.Optional C Binding Modifier(token:0x7220954).i4
-;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x72A03C9).ptr.valueType (token:0x72A03CC)
-;	.local.i8 1,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
-;	.local.mb8   2,"_Guard$2" SIG: valueType (token:0x7236641)
-;	.local.mb16  3,"_Proxy$" SIG: valueType (token:0x7174D69)
-;	.local.mb1   4,"$S42$" SIG: valueType (token:0x720CBF9)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x6F50951).ptr.Optional C Binding Modifier(token:0x6F50954).i4
+;	.local.i8 0,"_My_data$" SIG: Optional C Binding Modifier(token:0x6FD03C9).ptr.valueType (token:0x6FD03CC)
+;	.local.i8 1,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
+;	.local.mb8   2,"_Guard$2" SIG: valueType (token:0x6F66641)
+;	.local.mb16  3,"_Proxy$" SIG: valueType (token:0x6EA4D69)
+;	.local.mb1   4,"$S42$" SIG: valueType (token:0x6F3CBF9)
 
 ;	.proc.beg
 
@@ -35319,14 +35319,14 @@ $LN10@Construct_:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
-;	.formal.i8 1,"_Last$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
-;	.formal.i8 2,"_Dest$" SIG: ptr.valueType (token:0x72D095A)
-;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x719DA79).ptr.valueType (token:0x719DA7C)
-;	.local.i8 0,"_UFirst$" SIG: ptr.valueType (token:0x72D095A)
-;	.local.i8 1,"$T2" SIG: ptr.valueType (token:0x6F41C2A)
-;	.local.i8 2,"_ULast$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
-;	.local.mb24  3,"_Backout$3" SIG: valueType (token:0x7233AE9)
+;	.formal.i8 0,"_First$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
+;	.formal.i8 1,"_Last$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
+;	.formal.i8 2,"_Dest$" SIG: ptr.valueType (token:0x700095A)
+;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x6ECDA79).ptr.valueType (token:0x6ECDA7C)
+;	.local.i8 0,"_UFirst$" SIG: ptr.valueType (token:0x700095A)
+;	.local.i8 1,"$T2" SIG: ptr.valueType (token:0x6C71C2A)
+;	.local.i8 2,"_ULast$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
+;	.local.mb24  3,"_Backout$3" SIG: valueType (token:0x6F63AE9)
 
 ;	.proc.beg
 
@@ -35420,7 +35420,7 @@ $LN8@Uninitiali:
 .global	
 	.bss
 .local	,4
-.local	$TypeTok$13BC3E98$,4
+.local	$TypeTok$13BC793C$,4
 .local	$T1,0
 ; Function compile flags: /Odtp
 ; File C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.27.29110\include\list
@@ -35437,12 +35437,12 @@ $LN8@Uninitiali:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EC289).Optional C Binding Modifier(token:0x71EC28B).ptr.valueType (token:0x71EC28E)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x7176BA1).ptr.Optional C Binding Modifier(token:0x7176BA4).valueType (token:0x7176BA6)
-;	.local.mb8   0,"$T2" SIG: valueType (token:0x71B3649)
-;	.local.mb8   1,"$T3" SIG: valueType (token:0x71B3649)
-;	.local.mb1   2,"$T4" SIG: valueType (token:0x72978A9)
-;	.local.mb1   3,"$T5" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1C289).Optional C Binding Modifier(token:0x6F1C28B).ptr.valueType (token:0x6F1C28E)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6EA6BA1).ptr.Optional C Binding Modifier(token:0x6EA6BA4).valueType (token:0x6EA6BA6)
+;	.local.mb8   0,"$T2" SIG: valueType (token:0x6EE3649)
+;	.local.mb8   1,"$T3" SIG: valueType (token:0x6EE3649)
+;	.local.mb1   2,"$T4" SIG: valueType (token:0x6FC78A9)
+;	.local.mb1   3,"$T5" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -35463,11 +35463,11 @@ $LN8@Uninitiali:
 	ldarg.1				; _Right$
 	ldloca.s	1		; $T3
 	call		?_Unchecked_begin@?$list@UGraphEdge@detail@cv@@V?$allocator@UGraphEdge@detail@cv@@@std@@@std@@$$FQEBA?AV?$_List_unchecked_const_iterator@V?$_List_val@U?$_List_simple_types@UGraphEdge@detail@cv@@@std@@@std@@U_Iterator_base0@2@@2@XZ
-	ldobj		$TypeTok$13BC3E98$
+	ldobj		$TypeTok$13BC793C$
 	ldarg.1				; _Right$
 	ldloca.s	0		; $T2
 	call		?_Unchecked_end@?$list@UGraphEdge@detail@cv@@V?$allocator@UGraphEdge@detail@cv@@@std@@@std@@$$FQEBA?AV?$_List_unchecked_const_iterator@V?$_List_val@U?$_List_simple_types@UGraphEdge@detail@cv@@@std@@@std@@U_Iterator_base0@2@@2@XZ
-	ldobj		$TypeTok$13BC3E98$
+	ldobj		$TypeTok$13BC793C$
 	call		??$_Construct_range_unchecked@V?$_List_unchecked_const_iterator@V?$_List_val@U?$_List_simple_types@UGraphEdge@detail@cv@@@std@@@std@@U_Iterator_base0@2@@std@@@?$list@UGraphEdge@detail@cv@@V?$allocator@UGraphEdge@detail@cv@@@std@@@std@@$$FAEAAXV?$_List_unchecked_const_iterator@V?$_List_val@U?$_List_simple_types@UGraphEdge@detail@cv@@@std@@@std@@U_Iterator_base0@2@@1@0@Z
 
 ; 874  :     }
@@ -35516,19 +35516,19 @@ _TEXT	ENDS
 ; Exception Information:
 ; 4 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x720AF79).class (token:0x720AF7B)
-;	.formal.i8 1,"_datapoints$" SIG: ptr.valueType (token:0x7295212)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7295212)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x779CB1A)
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x722966A)
-;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x722966A)
-;	.local.i8 4,"$T6" SIG: ptr.valueType (token:0x7295212)
-;	.local.i8 5,"$T7" SIG: Optional C Binding Modifier(token:0x863C509).Optional C Binding Modifier(token:0x863C50B).ptr.valueType (token:0x863C50E)
-;	.local.i8 6,"$T8" SIG: ptr.valueType (token:0x8636A5A)
-;	.local.i8 7,"$T9" SIG: ptr.valueType (token:0x86360CA)
-;	.local.mb1   8,"$T10" SIG: valueType (token:0x7285029)
-;	.local.mb24  9,"$T11" SIG: valueType (token:0x779C9B1)
-;	.local.mb24  10,"$T12" SIG: valueType (token:0x779C241)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F3AF79).class (token:0x6F3AF7B)
+;	.formal.i8 1,"_datapoints$" SIG: ptr.valueType (token:0x6FC5212)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6FC5212)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x74CCB1A)
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x6F5966A)
+;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x6F5966A)
+;	.local.i8 4,"$T6" SIG: ptr.valueType (token:0x6FC5212)
+;	.local.i8 5,"$T7" SIG: Optional C Binding Modifier(token:0x822C509).Optional C Binding Modifier(token:0x822C50B).ptr.valueType (token:0x822C50E)
+;	.local.i8 6,"$T8" SIG: ptr.valueType (token:0x8226A5A)
+;	.local.i8 7,"$T9" SIG: ptr.valueType (token:0x82260CA)
+;	.local.mb1   8,"$T10" SIG: valueType (token:0x6FB5029)
+;	.local.mb24  9,"$T11" SIG: valueType (token:0x74CC9B1)
+;	.local.mb24  10,"$T12" SIG: valueType (token:0x74CC241)
 
 ;	.proc.beg
 
@@ -35644,9 +35644,9 @@ $LN19@DisplayHis:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x720AF79).class (token:0x720AF7B)
-;	.local.mptr 0,"$T2" SIG: class (token:0x72CA5F9)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x7295212)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F3AF79).class (token:0x6F3AF7B)
+;	.local.mptr 0,"$T2" SIG: class (token:0x6FFA5F9)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x6FC5212)
 ;	.local.i8 2,"tv81"
 ;	.local.i8 3,"$T4" SIG: ptr.void
 
@@ -35716,7 +35716,7 @@ $LN1@DisplayHis:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x720AF79).class (token:0x720AF7B)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6F3AF79).class (token:0x6F3AF7B)
 ;	.formal.u1 1,"disposing$" SIG: bool
 
 ;	.proc.beg
@@ -35765,14 +35765,14 @@ $LN6@:
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x720F992)
-;	.formal.i8 1,"_from_obj$" SIG: Optional C Binding Modifier(token:0x7175F29).ptr.Optional C Binding Modifier(token:0x7175F2C).string
+;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6F3F992)
+;	.formal.i8 1,"_from_obj$" SIG: Optional C Binding Modifier(token:0x6EA5F29).ptr.Optional C Binding Modifier(token:0x6EA5F2C).string
 ;	.local.u4 0,"$T2"
 ;	.local.u8 1,"_size$" SIG: u8
-;	.local.i8 2,"$T3" SIG: ptr.valueType (token:0x88FAC4A)
-;	.local.i8 3,"$T4" SIG: ptr.valueType (token:0x88FAC4A)
-;	.local.i8 4,"_dest_buf$5" SIG: ptr.Optional C Binding Modifier(token:0x7207992).i1
-;	.local.mb40  5,"_to_obj$" SIG: valueType (token:0x71F16B9)
+;	.local.i8 2,"$T3" SIG: ptr.valueType (token:0x84EAC4A)
+;	.local.i8 3,"$T4" SIG: ptr.valueType (token:0x84EAC4A)
+;	.local.i8 4,"_dest_buf$5" SIG: ptr.Optional C Binding Modifier(token:0x6F37992).i1
+;	.local.mb40  5,"_to_obj$" SIG: valueType (token:0x6F216B9)
 
 ;	.proc.beg
 
@@ -35920,38 +35920,38 @@ $LN12@marshal_as:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7199EA1).class (token:0x7199EA3)
-;	.local.mptr 0,"f$2" SIG: class (token:0x71B0291)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC9EA1).class (token:0x6EC9EA3)
+;	.local.mptr 0,"f$2" SIG: class (token:0x6EE0291)
 
 ;	.proc.beg
 
-; 292  : private: System::Void hist_prev_Click(System::Object^ sender, System::EventArgs^ e) {
+; 294  : private: System::Void hist_prev_Click(System::Object^ sender, System::EventArgs^ e) {
 
 	ldnull		0		; i64 0x0
 	stloc.0				; f$2
 
-; 293  : 	if (prev_hist) {
+; 295  : 	if (prev_hist) {
 
 	ldarg.0				; this$
 	ldfld		?prev_hist@Display@CLRCV@@3PEAV?$vector@HV?$allocator@H@std@@@std@@EA
 	brfalse.s	$LN1@hist_prev_
 
-; 294  : 		DisplayHistogram^ f = gcnew DisplayHistogram(prev_hist);
+; 296  : 		DisplayHistogram^ f = gcnew DisplayHistogram(prev_hist);
 
 	ldarg.0				; this$
 	ldfld		?prev_hist@Display@CLRCV@@3PEAV?$vector@HV?$allocator@H@std@@@std@@EA
 	newobj		??0DisplayHistogram@CLRCV@@$$FQE$AAM@PEAV?$vector@HV?$allocator@H@std@@@std@@@Z
 	stloc.0				; f$2
 
-; 295  : 		f->ShowDialog();
+; 297  : 		f->ShowDialog();
 
 	ldloc.0				; f$2
 	call		?ShowDialog@Form@Forms@Windows@System@@$$FQE$AAM?AW4DialogResult@234@XZ
 	pop		
 $LN1@hist_prev_:
 
-; 296  : 	}
-; 297  : }
+; 298  : 	}
+; 299  : }
 
 	ret		
  .end ?hist_prev_Click@Display@CLRCV@@$$FAE$AAMXPE$AAVObject@System@@PE$AAVEventArgs@4@@Z ; CLRCV::Display::hist_prev_Click
@@ -35975,38 +35975,38 @@ $LN1@hist_prev_:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7199EA1).class (token:0x7199EA3)
-;	.local.mptr 0,"f$2" SIG: class (token:0x71B0291)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC9EA1).class (token:0x6EC9EA3)
+;	.local.mptr 0,"f$2" SIG: class (token:0x6EE0291)
 
 ;	.proc.beg
 
-; 298  : private: System::Void hist_res_Click(System::Object^ sender, System::EventArgs^ e) {
+; 300  : private: System::Void hist_res_Click(System::Object^ sender, System::EventArgs^ e) {
 
 	ldnull		0		; i64 0x0
 	stloc.0				; f$2
 
-; 299  : 	if (res_hist) {
+; 301  : 	if (res_hist) {
 
 	ldarg.0				; this$
 	ldfld		?res_hist@Display@CLRCV@@3PEAV?$vector@HV?$allocator@H@std@@@std@@EA
 	brfalse.s	$LN1@hist_res_C
 
-; 300  : 		DisplayHistogram^ f = gcnew DisplayHistogram(res_hist);
+; 302  : 		DisplayHistogram^ f = gcnew DisplayHistogram(res_hist);
 
 	ldarg.0				; this$
 	ldfld		?res_hist@Display@CLRCV@@3PEAV?$vector@HV?$allocator@H@std@@@std@@EA
 	newobj		??0DisplayHistogram@CLRCV@@$$FQE$AAM@PEAV?$vector@HV?$allocator@H@std@@@std@@@Z
 	stloc.0				; f$2
 
-; 301  : 		f->ShowDialog();
+; 303  : 		f->ShowDialog();
 
 	ldloc.0				; f$2
 	call		?ShowDialog@Form@Forms@Windows@System@@$$FQE$AAM?AW4DialogResult@234@XZ
 	pop		
 $LN1@hist_res_C:
 
-; 302  : 	}
-; 303  : }
+; 304  : 	}
+; 305  : }
 
 	ret		
  .end ?hist_res_Click@Display@CLRCV@@$$FAE$AAMXPE$AAVObject@System@@PE$AAVEventArgs@4@@Z ; CLRCV::Display::hist_res_Click
@@ -36028,11 +36028,11 @@ $LN1@hist_res_C:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E5A99).Optional C Binding Modifier(token:0x71E5A9B).ptr.valueType (token:0x71E5A9E)
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x7255A39).ptr.Optional C Binding Modifier(token:0x7255A3C).r4
-;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x71ADA01).ptr.Optional C Binding Modifier(token:0x71ADA04).valueType (token:0x71ADA06)
-;	.local.mb1   0,"$T2" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F15A99).Optional C Binding Modifier(token:0x6F15A9B).ptr.valueType (token:0x6F15A9E)
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x6F85A39).ptr.Optional C Binding Modifier(token:0x6F85A3C).r4
+;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x6EDDA01).ptr.Optional C Binding Modifier(token:0x6EDDA04).valueType (token:0x6EDDA06)
+;	.local.mb1   0,"$T2" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -36074,11 +36074,11 @@ $LN1@hist_res_C:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7171361).Optional C Binding Modifier(token:0x7171363).ptr.valueType (token:0x7171366)
-;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x722FC51).u8
-;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x7220951).ptr.Optional C Binding Modifier(token:0x7220954).i4
-;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x722BD19).ptr.Optional C Binding Modifier(token:0x722BD1C).valueType (token:0x722BD1E)
-;	.local.mb1   0,"$T2" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA1361).Optional C Binding Modifier(token:0x6EA1363).ptr.valueType (token:0x6EA1366)
+;	.formal.u8 1,"_Count$" SIG: Optional C Binding Modifier(token:0x6F5FC51).u8
+;	.formal.i8 2,"_Val$" SIG: Optional C Binding Modifier(token:0x6F50951).ptr.Optional C Binding Modifier(token:0x6F50954).i4
+;	.formal.i8 3,"_Al$" SIG: Optional C Binding Modifier(token:0x6F5BD19).ptr.Optional C Binding Modifier(token:0x6F5BD1C).valueType (token:0x6F5BD1E)
+;	.local.mb1   0,"$T2" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -36120,11 +36120,11 @@ $LN1@hist_res_C:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71F4449).Optional C Binding Modifier(token:0x71F444B).ptr.valueType (token:0x71F444E)
-;	.local.i8 0,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x7250549).ptr.ptr.valueType (token:0x725054D)
-;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x7223749).ptr.valueType (token:0x722374C)
-;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x7250549).ptr.ptr.valueType (token:0x725054D)
-;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x7250549).ptr.ptr.valueType (token:0x725054D)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F24449).Optional C Binding Modifier(token:0x6F2444B).ptr.valueType (token:0x6F2444E)
+;	.local.i8 0,"_Myfirst$" SIG: Optional C Binding Modifier(token:0x6F80549).ptr.ptr.valueType (token:0x6F8054D)
+;	.local.i8 1,"_My_data$" SIG: Optional C Binding Modifier(token:0x6F53749).ptr.valueType (token:0x6F5374C)
+;	.local.i8 2,"_Myend$" SIG: Optional C Binding Modifier(token:0x6F80549).ptr.ptr.valueType (token:0x6F8054D)
+;	.local.i8 3,"_Mylast$" SIG: Optional C Binding Modifier(token:0x6F80549).ptr.ptr.valueType (token:0x6F8054D)
 
 ;	.proc.beg
 
@@ -36241,11 +36241,11 @@ $LN1@Tidy:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71F4449).Optional C Binding Modifier(token:0x71F444B).ptr.valueType (token:0x71F444E)
-;	.formal.i8 1,"_First$" SIG: ptr.valueType (token:0x72D095A)
-;	.formal.i8 2,"_Last$" SIG: ptr.valueType (token:0x72D095A)
-;	.formal.i8 3,"_Dest$" SIG: ptr.valueType (token:0x72D095A)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x8B4A6A2)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F24449).Optional C Binding Modifier(token:0x6F2444B).ptr.valueType (token:0x6F2444E)
+;	.formal.i8 1,"_First$" SIG: ptr.valueType (token:0x700095A)
+;	.formal.i8 2,"_Last$" SIG: ptr.valueType (token:0x700095A)
+;	.formal.i8 3,"_Dest$" SIG: ptr.valueType (token:0x700095A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x873A6A2)
 
 ;	.proc.beg
 
@@ -36284,11 +36284,11 @@ $LN1@Tidy:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x720F992)
-;	.formal.i8 1,"_from$" SIG: Optional C Binding Modifier(token:0x7175F29).ptr.Optional C Binding Modifier(token:0x7175F2C).string
+;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6F3F992)
+;	.formal.i8 1,"_from$" SIG: Optional C Binding Modifier(token:0x6EA5F29).ptr.Optional C Binding Modifier(token:0x6EA5F2C).string
 ;	.local.u4 0,"$T2"
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x6E09A42)
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x6E09A42)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x6B39A42)
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x6B39A42)
 
 ;	.proc.beg
 
@@ -36354,16 +36354,16 @@ $LN6@marshal_as:
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x7295212)
-;	.formal.i8 1,"img$" SIG: Optional C Binding Modifier(token:0x72BE179).ptr.Optional C Binding Modifier(token:0x72BE17C).valueType (token:0x72BE17E)
+;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6FC5212)
+;	.formal.i8 1,"img$" SIG: Optional C Binding Modifier(token:0x6FEE179).ptr.Optional C Binding Modifier(token:0x6FEE17C).valueType (token:0x6FEE17E)
 ;	.local.u4 0,"$T2"
 ;	.local.i4 1,"j$3" SIG: i4
 ;	.local.i4 2,"i$4" SIG: i4
-;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x88FB742)
-;	.local.i8 4,"$T6" SIG: ptr.valueType (token:0x88FB742)
-;	.local.mb1   5,"$T7" SIG: valueType (token:0x7285029)
-;	.local.mb32  6,"freq$" SIG: valueType (token:0x72483A1)
-;	.local.i4 7,"$T8" SIG: Optional C Binding Modifier(token:0x717E159).i4
+;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x84EB742)
+;	.local.i8 4,"$T6" SIG: ptr.valueType (token:0x84EB742)
+;	.local.mb1   5,"$T7" SIG: valueType (token:0x6FB5029)
+;	.local.mb32  6,"freq$" SIG: valueType (token:0x6F783A1)
+;	.local.i4 7,"$T8" SIG: Optional C Binding Modifier(token:0x6EAE159).i4
 
 ;	.proc.beg
 
@@ -36537,16 +36537,16 @@ _TEXT	ENDS
 ; Exception Information:
 ; 3 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x7259DBA)
-;	.formal.i8 1,"freq$" SIG: ptr.valueType (token:0x7295212)
-;	.formal.i8 2,"pixel_density$" SIG: Optional C Binding Modifier(token:0x7220951).ptr.Optional C Binding Modifier(token:0x7220954).i4
+;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6F89DBA)
+;	.formal.i8 1,"freq$" SIG: ptr.valueType (token:0x6FC5212)
+;	.formal.i8 2,"pixel_density$" SIG: Optional C Binding Modifier(token:0x6F50951).ptr.Optional C Binding Modifier(token:0x6F50954).i4
 ;	.local.i4 0,"i$2" SIG: i4
 ;	.local.u4 1,"$T3"
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x88FC3EA)
-;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x88FC3EA)
-;	.local.mb1   4,"$T6" SIG: valueType (token:0x723FA29)
-;	.local.mb32  5,"positions$" SIG: valueType (token:0x7177A71)
-;	.local.r4 6,"$T7" SIG: Optional C Binding Modifier(token:0x7218769).r4
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x84EC3EA)
+;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x84EC3EA)
+;	.local.mb1   4,"$T6" SIG: valueType (token:0x6F6FA29)
+;	.local.mb32  5,"positions$" SIG: valueType (token:0x6EA7A71)
+;	.local.r4 6,"$T7" SIG: Optional C Binding Modifier(token:0x6F48769).r4
 
 ;	.proc.beg
 
@@ -36767,16 +36767,16 @@ _TEXT	ENDS
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x7295212)
-;	.formal.i8 1,"new_positions$" SIG: Optional C Binding Modifier(token:0x7204211).ptr.Optional C Binding Modifier(token:0x7204214).valueType (token:0x7204216)
-;	.formal.i8 2,"original_pfreq$" SIG: Optional C Binding Modifier(token:0x719ACC1).ptr.Optional C Binding Modifier(token:0x719ACC4).valueType (token:0x719ACC6)
+;	.formal.i8 0,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6FC5212)
+;	.formal.i8 1,"new_positions$" SIG: Optional C Binding Modifier(token:0x6F34211).ptr.Optional C Binding Modifier(token:0x6F34214).valueType (token:0x6F34216)
+;	.formal.i8 2,"original_pfreq$" SIG: Optional C Binding Modifier(token:0x6ECACC1).ptr.Optional C Binding Modifier(token:0x6ECACC4).valueType (token:0x6ECACC6)
 ;	.local.i4 0,"i$2" SIG: i4
 ;	.local.u4 1,"$T3"
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x88FCB1A)
-;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x88FCB1A)
-;	.local.mb1   4,"$T6" SIG: valueType (token:0x7285029)
-;	.local.mb32  5,"histogram$" SIG: valueType (token:0x72483A1)
-;	.local.i4 6,"$T7" SIG: Optional C Binding Modifier(token:0x717E159).i4
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x84ECB1A)
+;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x84ECB1A)
+;	.local.mb1   4,"$T6" SIG: valueType (token:0x6FB5029)
+;	.local.mb32  5,"histogram$" SIG: valueType (token:0x6F783A1)
+;	.local.i4 6,"$T7" SIG: Optional C Binding Modifier(token:0x6EAE159).i4
 
 ;	.proc.beg
 
@@ -36927,27 +36927,27 @@ _TEXT	ENDS
 ; Exception Information:
 ; 7 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"src$" SIG: ptr.valueType (token:0x7290622)
-;	.formal.i8 1,"dst$" SIG: Optional C Binding Modifier(token:0x72C5F59).ptr.valueType (token:0x72C5F5C)
-;	.formal.i8 2,"update_hist_p$" SIG: byref.ptr.valueType (token:0x718D3AB)
-;	.formal.i8 3,"update_hist_r$" SIG: byref.ptr.valueType (token:0x718D3AB)
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7295212)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x7295212)
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x7295212)
-;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x88FD252)
-;	.local.i8 4,"$T6" SIG: Optional C Binding Modifier(token:0x89A8FF9).Optional C Binding Modifier(token:0x89A8FFB).ptr.valueType (token:0x89A8FFE)
-;	.local.i8 5,"$T7" SIG: ptr.valueType (token:0x7290622)
-;	.local.i8 6,"$T8" SIG: Optional C Binding Modifier(token:0x863A481).Optional C Binding Modifier(token:0x863A483).ptr.valueType (token:0x863A486)
-;	.local.i8 7,"$T9" SIG: ptr.valueType (token:0x7295212)
-;	.local.i8 8,"$T10" SIG: ptr.valueType (token:0x7295212)
-;	.local.mb96  9,"$T11" SIG: valueType (token:0x72301A9)
-;	.local.mb96  10,"$T12" SIG: valueType (token:0x779F351)
-;	.local.mb32  11,"new_histogram$" SIG: valueType (token:0x72483A1)
-;	.local.i4 12,"$T13" SIG: Optional C Binding Modifier(token:0x717E159).i4
-;	.local.mb32  13,"pos$" SIG: valueType (token:0x7177A71)
-;	.local.mb32  14,"$T14" SIG: valueType (token:0x79FA511)
-;	.local.i4 15,"$T15" SIG: Optional C Binding Modifier(token:0x717E159).i4
-;	.local.mb32  16,"pixel_frequency$" SIG: valueType (token:0x72483A1)
+;	.formal.i8 0,"src$" SIG: ptr.valueType (token:0x6FC0622)
+;	.formal.i8 1,"dst$" SIG: Optional C Binding Modifier(token:0x6FF5F59).ptr.valueType (token:0x6FF5F5C)
+;	.formal.i8 2,"update_hist_p$" SIG: byref.ptr.valueType (token:0x6EBD3AB)
+;	.formal.i8 3,"update_hist_r$" SIG: byref.ptr.valueType (token:0x6EBD3AB)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6FC5212)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x6FC5212)
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x6FC5212)
+;	.local.i8 3,"$T5" SIG: ptr.valueType (token:0x84ED252)
+;	.local.i8 4,"$T6" SIG: Optional C Binding Modifier(token:0x8598FF9).Optional C Binding Modifier(token:0x8598FFB).ptr.valueType (token:0x8598FFE)
+;	.local.i8 5,"$T7" SIG: ptr.valueType (token:0x6FC0622)
+;	.local.i8 6,"$T8" SIG: Optional C Binding Modifier(token:0x822A481).Optional C Binding Modifier(token:0x822A483).ptr.valueType (token:0x822A486)
+;	.local.i8 7,"$T9" SIG: ptr.valueType (token:0x6FC5212)
+;	.local.i8 8,"$T10" SIG: ptr.valueType (token:0x6FC5212)
+;	.local.mb96  9,"$T11" SIG: valueType (token:0x6F601A9)
+;	.local.mb96  10,"$T12" SIG: valueType (token:0x74CF351)
+;	.local.mb32  11,"new_histogram$" SIG: valueType (token:0x6F783A1)
+;	.local.i4 12,"$T13" SIG: Optional C Binding Modifier(token:0x6EAE159).i4
+;	.local.mb32  13,"pos$" SIG: valueType (token:0x6EA7A71)
+;	.local.mb32  14,"$T14" SIG: valueType (token:0x772A511)
+;	.local.i4 15,"$T15" SIG: Optional C Binding Modifier(token:0x6EAE159).i4
+;	.local.mb32  16,"pixel_frequency$" SIG: valueType (token:0x6F783A1)
 
 ;	.proc.beg
 
@@ -37181,7 +37181,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x722EED9).Optional C Binding Modifier(token:0x722EEDB).ptr.valueType (token:0x722EEDE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F5EED9).Optional C Binding Modifier(token:0x6F5EEDB).ptr.valueType (token:0x6F5EEDE)
 
 ;	.proc.beg
 
@@ -37221,12 +37221,12 @@ $LN1@Tidy_guard:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7290C11).class (token:0x7290C13)
-;	.formal.i8 1,"__$ReturnUdt$" SIG: ptr.valueType (token:0x720F992)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC0C11).class (token:0x6FC0C13)
+;	.formal.i8 1,"__$ReturnUdt$" SIG: ptr.valueType (token:0x6F3F992)
 ;	.formal.mptr 2,"_from$" SIG: string
 ;	.local.u4 0,"$T2"
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x8B3FD12)
-;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x8B3FD12)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x872FD12)
+;	.local.i8 2,"$T4" SIG: ptr.valueType (token:0x872FD12)
 
 ;	.proc.beg
 
@@ -37297,31 +37297,31 @@ $LN6@marshal_as:
 ; 14 handlers, each consisting of filtered handlers
 
 ;	.formal.mptr 0,"path$" SIG: string
-;	.formal.i8 1,"update_hist_p$" SIG: byref.ptr.valueType (token:0x718D3AB)
-;	.formal.i8 2,"update_hist_r$" SIG: byref.ptr.valueType (token:0x718D3AB)
-;	.local.mptr 0,"context$" SIG: class (token:0x722E3A9)
-;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x863BD29).Optional C Binding Modifier(token:0x863BD2B).ptr.valueType (token:0x863BD2E)
-;	.local.i8 2,"$T3" SIG: ptr.valueType (token:0x7151E72)
-;	.local.i8 3,"$T4" SIG: ptr.valueType (token:0x8B3FD12)
-;	.local.i8 4,"$T5" SIG: Optional C Binding Modifier(token:0x89A8FF9).Optional C Binding Modifier(token:0x89A8FFB).ptr.valueType (token:0x89A8FFE)
-;	.local.i8 5,"$T6" SIG: ptr.valueType (token:0x7290622)
-;	.local.i8 6,"$T7" SIG: ptr.valueType (token:0x7151E72)
-;	.local.i8 7,"$T8" SIG: ptr.valueType (token:0x8B3FD12)
-;	.local.i8 8,"$T9" SIG: Optional C Binding Modifier(token:0x88FA251).class (token:0x88FA253)
-;	.local.mb32  9,"$T10" SIG: valueType (token:0x72483A1)
-;	.local.mb16  10,"$T11" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
-;	.local.mb24  11,"$T12" SIG: Optional C Binding Modifier(token:0x72B0DE1).valueType (token:0x72B0DE3)
-;	.local.mb24  12,"$T13" SIG: Optional C Binding Modifier(token:0x72B0DE1).valueType (token:0x72B0DE3)
-;	.local.mb96  13,"$T14" SIG: valueType (token:0x72301A9)
-;	.local.mb16  14,"$T15" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
-;	.local.mb40  15,"$T16" SIG: valueType (token:0x71F16B9)
-;	.local.mb24  16,"$T17" SIG: Optional C Binding Modifier(token:0x7248879).valueType (token:0x724887B)
-;	.local.mb96  17,"$T18" SIG: valueType (token:0x79EF059)
-;	.local.mb96  18,"$T19" SIG: valueType (token:0x72301A9)
-;	.local.mb16  19,"$T20" SIG: Optional C Binding Modifier(token:0x7205011).valueType (token:0x7205013)
-;	.local.mb40  20,"$T21" SIG: valueType (token:0x71F16B9)
-;	.local.mb96  21,"src$" SIG: valueType (token:0x72301A9)
-;	.local.mb96  22,"img$" SIG: valueType (token:0x72301A9)
+;	.formal.i8 1,"update_hist_p$" SIG: byref.ptr.valueType (token:0x6EBD3AB)
+;	.formal.i8 2,"update_hist_r$" SIG: byref.ptr.valueType (token:0x6EBD3AB)
+;	.local.mptr 0,"context$" SIG: class (token:0x6F5E3A9)
+;	.local.i8 1,"$T2" SIG: Optional C Binding Modifier(token:0x822BD29).Optional C Binding Modifier(token:0x822BD2B).ptr.valueType (token:0x822BD2E)
+;	.local.i8 2,"$T3" SIG: ptr.valueType (token:0x6E81E72)
+;	.local.i8 3,"$T4" SIG: ptr.valueType (token:0x872FD12)
+;	.local.i8 4,"$T5" SIG: Optional C Binding Modifier(token:0x8598FF9).Optional C Binding Modifier(token:0x8598FFB).ptr.valueType (token:0x8598FFE)
+;	.local.i8 5,"$T6" SIG: ptr.valueType (token:0x6FC0622)
+;	.local.i8 6,"$T7" SIG: ptr.valueType (token:0x6E81E72)
+;	.local.i8 7,"$T8" SIG: ptr.valueType (token:0x872FD12)
+;	.local.i8 8,"$T9" SIG: Optional C Binding Modifier(token:0x84EA251).class (token:0x84EA253)
+;	.local.mb32  9,"$T10" SIG: valueType (token:0x6F783A1)
+;	.local.mb16  10,"$T11" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
+;	.local.mb24  11,"$T12" SIG: Optional C Binding Modifier(token:0x6FE0DE1).valueType (token:0x6FE0DE3)
+;	.local.mb24  12,"$T13" SIG: Optional C Binding Modifier(token:0x6FE0DE1).valueType (token:0x6FE0DE3)
+;	.local.mb96  13,"$T14" SIG: valueType (token:0x6F601A9)
+;	.local.mb16  14,"$T15" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
+;	.local.mb40  15,"$T16" SIG: valueType (token:0x6F216B9)
+;	.local.mb24  16,"$T17" SIG: Optional C Binding Modifier(token:0x6F78879).valueType (token:0x6F7887B)
+;	.local.mb96  17,"$T18" SIG: valueType (token:0x771F059)
+;	.local.mb96  18,"$T19" SIG: valueType (token:0x6F601A9)
+;	.local.mb16  19,"$T20" SIG: Optional C Binding Modifier(token:0x6F35011).valueType (token:0x6F35013)
+;	.local.mb40  20,"$T21" SIG: valueType (token:0x6F216B9)
+;	.local.mb96  21,"src$" SIG: valueType (token:0x6F601A9)
+;	.local.mb96  22,"img$" SIG: valueType (token:0x6F601A9)
 
 ;	.proc.beg
 
@@ -37613,25 +37613,39 @@ _TEXT	ENDS
 
 ; Function Header:
 ; max stack depth = 3
-; function size = 126 bytes
+; function size = 142 bytes
 ; local varsig tk = 0x110002C6 
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7199EA1).class (token:0x7199EA3)
-;	.local.mb16  0,"$T2" SIG: valueType (token:0x7252269)
-;	.local.mb16  1,"$T3" SIG: valueType (token:0x7252269)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC9EA1).class (token:0x6EC9EA3)
+;	.local.mb16  0,"$T2" SIG: valueType (token:0x6F82269)
+;	.local.mb16  1,"$T3" SIG: valueType (token:0x6F82269)
 
 ;	.proc.beg
 
-; 286  : 	if (configsBX->SelectedIndex == 0) { //Equalize
+; 286  : 	prev_hist = nullptr;
+
+	ldarg.0				; this$
+	ldc.i.0		0		; i64 0x0
+	conv.i8		
+	stfld		?prev_hist@Display@CLRCV@@3PEAV?$vector@HV?$allocator@H@std@@@std@@EA
+
+; 287  : 	res_hist = nullptr;
+
+	ldarg.0				; this$
+	ldc.i.0		0		; i64 0x0
+	conv.i8		
+	stfld		?res_hist@Display@CLRCV@@3PEAV?$vector@HV?$allocator@H@std@@@std@@EA
+
+; 288  : 	if (configsBX->SelectedIndex == 0) { //Equalize
 
 	ldarg.0				; this$
 	ldfld		?configsBX@Display@CLRCV@@3PE$AAVComboBox@Forms@Windows@System@@E$AA
 	callvirt	?get@SelectedIndex@ComboBox@Forms@Windows@System@@$$FUE$AAMHXZ
 	brtrue.s	$LN1@processBtn
 
-; 287  : 		srcPanel->CreateGraphics()->DrawImage(gcnew Bitmap(image_path->Text), srcPanel->ClientRectangle);
+; 289  : 		srcPanel->CreateGraphics()->DrawImage(gcnew Bitmap(image_path->Text), srcPanel->ClientRectangle);
 
 	ldarg.0				; this$
 	ldfld		?srcPanel@Display@CLRCV@@3PE$AAVPanel@Forms@Windows@System@@E$AA
@@ -37647,7 +37661,7 @@ _TEXT	ENDS
 	ldloc.1				; $T3
 	call		?DrawImage@Graphics@Drawing@System@@$$FQE$AAMXPE$AAVImage@23@VRectangle@23@@Z
 
-; 288  : 		histEQ(image_path->Text, prev_hist, res_hist);
+; 290  : 		histEQ(image_path->Text, prev_hist, res_hist);
 
 	ldarg.0				; this$
 	ldfld		?image_path@Display@CLRCV@@3PE$AAVTextBox@Forms@Windows@System@@E$AA
@@ -37658,7 +37672,7 @@ _TEXT	ENDS
 	ldflda		?res_hist@Display@CLRCV@@3PEAV?$vector@HV?$allocator@H@std@@@std@@EA
 	call		?histEQ@@$$FYMXPE$AAVString@System@@AE$CAPEAV?$vector@HV?$allocator@H@std@@@std@@1@Z
 
-; 289  :         dstPanel->CreateGraphics()->DrawImage(gcnew Bitmap(L"img\\output1.jpg"), dstPanel->ClientRectangle);
+; 291  :         dstPanel->CreateGraphics()->DrawImage(gcnew Bitmap(L"img\\output1.jpg"), dstPanel->ClientRectangle);
 
 	ldarg.0				; this$
 	ldfld		?dstPanel@Display@CLRCV@@3PE$AAVPanel@Forms@Windows@System@@E$AA
@@ -37673,8 +37687,8 @@ _TEXT	ENDS
 	call		?DrawImage@Graphics@Drawing@System@@$$FQE$AAMXPE$AAVImage@23@VRectangle@23@@Z
 $LN1@processBtn:
 
-; 290  : 	}
-; 291  : }
+; 292  : 	}
+; 293  : }
 
 	ret		
  .end ?processBtn_Click@Display@CLRCV@@$$FAE$AAMXPE$AAVObject@System@@PE$AAVEventArgs@4@@Z ; CLRCV::Display::processBtn_Click
@@ -37702,18 +37716,18 @@ $LN1@processBtn:
 ; Exception Information:
 ; 2 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71F4449).Optional C Binding Modifier(token:0x71F444B).ptr.valueType (token:0x71F444E)
-;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x71AF111).ptr.Optional C Binding Modifier(token:0x71AF114).valueType (token:0x71AF116)
-;	.local.i8 0,"_Rightlast$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
-;	.local.i8 1,"_Rightfirst$" SIG: Optional C Binding Modifier(token:0x72A59B9).Optional C Binding Modifier(token:0x72A59BB).ptr.valueType (token:0x72A59BE)
-;	.local.i8 2,"_My_data$" SIG: Optional C Binding Modifier(token:0x7223749).ptr.valueType (token:0x722374C)
-;	.local.i8 3,"_Right_data$" SIG: Optional C Binding Modifier(token:0x723CCB1).ptr.Optional C Binding Modifier(token:0x723CCB4).valueType (token:0x723CCB6)
-;	.local.i8 4,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x7197291).Optional C Binding Modifier(token:0x7197293).ptr.valueType (token:0x7197296)
-;	.local.mb8   5,"_Guard$2" SIG: valueType (token:0x7192041)
-;	.local.mb16  6,"_Proxy$" SIG: valueType (token:0x7174D69)
-;	.local.mb1   7,"$S5$" SIG: valueType (token:0x720CBF9)
-;	.local.mb1   8,"$T3" SIG: valueType (token:0x71771D1)
-;	.local.mb1   9,"$T4" SIG: valueType (token:0x72B3421)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F24449).Optional C Binding Modifier(token:0x6F2444B).ptr.valueType (token:0x6F2444E)
+;	.formal.i8 1,"_Right$" SIG: Optional C Binding Modifier(token:0x6EDF111).ptr.Optional C Binding Modifier(token:0x6EDF114).valueType (token:0x6EDF116)
+;	.local.i8 0,"_Rightlast$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
+;	.local.i8 1,"_Rightfirst$" SIG: Optional C Binding Modifier(token:0x6FD59B9).Optional C Binding Modifier(token:0x6FD59BB).ptr.valueType (token:0x6FD59BE)
+;	.local.i8 2,"_My_data$" SIG: Optional C Binding Modifier(token:0x6F53749).ptr.valueType (token:0x6F5374C)
+;	.local.i8 3,"_Right_data$" SIG: Optional C Binding Modifier(token:0x6F6CCB1).ptr.Optional C Binding Modifier(token:0x6F6CCB4).valueType (token:0x6F6CCB6)
+;	.local.i8 4,"_Alproxy$" SIG: Optional C Binding Modifier(token:0x6EC7291).Optional C Binding Modifier(token:0x6EC7293).ptr.valueType (token:0x6EC7296)
+;	.local.mb8   5,"_Guard$2" SIG: valueType (token:0x6EC2041)
+;	.local.mb16  6,"_Proxy$" SIG: valueType (token:0x6EA4D69)
+;	.local.mb1   7,"$S5$" SIG: valueType (token:0x6F3CBF9)
+;	.local.mb1   8,"$T3" SIG: valueType (token:0x6EA71D1)
+;	.local.mb1   9,"$T4" SIG: valueType (token:0x6FE3421)
 
 ;	.proc.beg
 
@@ -37895,7 +37909,7 @@ _TEXT	ENDS
 	.bss
 .local	,4
 .local	,4
-.local	$TypeTok$14CCFC9C$,4
+.local	$TypeTok$14CC9920$,4
 	.align	8
 .local	?hist_res@Display@CLRCV@@3PE$AAVButton@Forms@Windows@System@@E$AA,8 ; CLRCV::Display::hist_res
 .local	?Result@Display@CLRCV@@3PE$AAVGroupBox@Forms@Windows@System@@E$AA,8 ; CLRCV::Display::Result
@@ -37953,43 +37967,43 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7199EA1).class (token:0x7199EA3)
-;	.local.mptr 0,"$S2$" SIG: szarray (token:0x7188801)
-;	.local.mptr 1,"resources$" SIG: class (token:0x71FB919)
-;	.local.mb8   2,"$T2" SIG: valueType (token:0x7296E41)
-;	.local.mb8   3,"$T3" SIG: valueType (token:0x7296E41)
-;	.local.mb8   4,"$T4" SIG: valueType (token:0x7296E41)
-;	.local.mb8   5,"$T5" SIG: valueType (token:0x72BF221)
-;	.local.mb8   6,"$T6" SIG: valueType (token:0x7296E41)
-;	.local.mb8   7,"$T7" SIG: valueType (token:0x71B1211)
-;	.local.mb8   8,"$T8" SIG: valueType (token:0x7296E41)
-;	.local.mb8   9,"$T9" SIG: valueType (token:0x71B1211)
-;	.local.mb8   10,"$T10" SIG: valueType (token:0x7296E41)
-;	.local.mb8   11,"$T11" SIG: valueType (token:0x71B1211)
-;	.local.mb8   12,"$T12" SIG: valueType (token:0x7296E41)
-;	.local.mb8   13,"$T13" SIG: valueType (token:0x71B1211)
-;	.local.mb8   14,"$T14" SIG: valueType (token:0x7296E41)
-;	.local.mb8   15,"$T15" SIG: valueType (token:0x71B1211)
-;	.local.mb8   16,"$T16" SIG: valueType (token:0x7296E41)
-;	.local.mb8   17,"$T17" SIG: valueType (token:0x71B1211)
-;	.local.mb8   18,"$T18" SIG: valueType (token:0x7296E41)
-;	.local.mb8   19,"$T19" SIG: valueType (token:0x71B1211)
-;	.local.mb8   20,"$T20" SIG: valueType (token:0x7296E41)
-;	.local.mb8   21,"$T21" SIG: valueType (token:0x71B1211)
-;	.local.mb8   22,"$T22" SIG: valueType (token:0x7296E41)
-;	.local.mb8   23,"$T23" SIG: valueType (token:0x71B1211)
-;	.local.mb8   24,"$T24" SIG: valueType (token:0x7296E41)
-;	.local.mb8   25,"$T25" SIG: valueType (token:0x71B1211)
-;	.local.mb8   26,"$T26" SIG: valueType (token:0x7296E41)
-;	.local.mb8   27,"$T27" SIG: valueType (token:0x71B1211)
-;	.local.mb8   28,"$T28" SIG: valueType (token:0x7296E41)
-;	.local.mb8   29,"$T29" SIG: valueType (token:0x71B1211)
-;	.local.mb8   30,"$T30" SIG: valueType (token:0x7296E41)
-;	.local.mb8   31,"$T31" SIG: valueType (token:0x71B1211)
-;	.local.mb8   32,"$T32" SIG: valueType (token:0x7296E41)
-;	.local.mb8   33,"$T33" SIG: valueType (token:0x71B1211)
-;	.local.mb8   34,"$T34" SIG: valueType (token:0x7296E41)
-;	.local.mb8   35,"$T35" SIG: valueType (token:0x71B1211)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC9EA1).class (token:0x6EC9EA3)
+;	.local.mptr 0,"$S2$" SIG: szarray (token:0x6EB8801)
+;	.local.mptr 1,"resources$" SIG: class (token:0x6F2B919)
+;	.local.mb8   2,"$T2" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   3,"$T3" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   4,"$T4" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   5,"$T5" SIG: valueType (token:0x6FEF221)
+;	.local.mb8   6,"$T6" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   7,"$T7" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   8,"$T8" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   9,"$T9" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   10,"$T10" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   11,"$T11" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   12,"$T12" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   13,"$T13" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   14,"$T14" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   15,"$T15" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   16,"$T16" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   17,"$T17" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   18,"$T18" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   19,"$T19" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   20,"$T20" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   21,"$T21" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   22,"$T22" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   23,"$T23" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   24,"$T24" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   25,"$T25" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   26,"$T26" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   27,"$T27" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   28,"$T28" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   29,"$T29" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   30,"$T30" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   31,"$T31" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   32,"$T32" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   33,"$T33" SIG: valueType (token:0x6EE1211)
+;	.local.mb8   34,"$T34" SIG: valueType (token:0x6FC6E41)
+;	.local.mb8   35,"$T35" SIG: valueType (token:0x6EE1211)
 
 ;	.proc.beg
 
@@ -38002,7 +38016,7 @@ _TEXT	ENDS
 
 ; 76   : 			System::ComponentModel::ComponentResourceManager^ resources = (gcnew System::ComponentModel::ComponentResourceManager(Display::typeid));
 
-	ldtoken		$TypeTok$14CCFC9C$
+	ldtoken		$TypeTok$14CC9920$
 	call		?GetTypeFromHandle@Type@System@@$$FSMPE$AAV12@VRuntimeTypeHandle@2@@Z
 	newobj		??0ComponentResourceManager@ComponentModel@System@@$$FQE$AAM@PE$AAVType@2@@Z
 	stloc.1				; resources$
@@ -39244,7 +39258,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x7199EA1).class (token:0x7199EA3)
+;	.formal.mptr 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC9EA1).class (token:0x6EC9EA3)
 
 ;	.proc.beg
 
@@ -39354,7 +39368,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.mptr 0,"t$" SIG: class (token:0x71A78E9)
+;	.local.mptr 0,"t$" SIG: class (token:0x6ED78E9)
 ;	.local.i4 1,"$T2" SIG: i4
 
 ;	.proc.beg
@@ -39573,7 +39587,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72462F1).Optional C Binding Modifier(token:0x72462F3).ptr.valueType (token:0x72462F6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F762F1).Optional C Binding Modifier(token:0x6F762F3).ptr.valueType (token:0x6F762F6)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -39686,8 +39700,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71F5401).Optional C Binding Modifier(token:0x71F5403).ptr.Optional C Binding Modifier(token:0x71F5406).valueType (token:0x71F5408)
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8E89BCA).Optional C Binding Modifier(token:0x8E89BCC).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F25401).Optional C Binding Modifier(token:0x6F25403).ptr.Optional C Binding Modifier(token:0x6F25406).valueType (token:0x6F25408)
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8A79BCA).Optional C Binding Modifier(token:0x8A79BCC).i1
 
 ;	.proc.beg
 
@@ -39800,7 +39814,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7227989).Optional C Binding Modifier(token:0x722798B).ptr.valueType (token:0x722798E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F57989).Optional C Binding Modifier(token:0x6F5798B).ptr.valueType (token:0x6F5798E)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -39948,7 +39962,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x721D701).Optional C Binding Modifier(token:0x721D703).ptr.valueType (token:0x721D706)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F4D701).Optional C Binding Modifier(token:0x6F4D703).ptr.valueType (token:0x6F4D706)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -40027,7 +40041,7 @@ $LN1@vector:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x721D701).Optional C Binding Modifier(token:0x721D703).ptr.valueType (token:0x721D706)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F4D701).Optional C Binding Modifier(token:0x6F4D703).ptr.valueType (token:0x6F4D706)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -40983,7 +40997,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7294909).Optional C Binding Modifier(token:0x729490B).ptr.valueType (token:0x729490E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC4909).Optional C Binding Modifier(token:0x6FC490B).ptr.valueType (token:0x6FC490E)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -41087,7 +41101,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72276A1).Optional C Binding Modifier(token:0x72276A3).ptr.valueType (token:0x72276A6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F576A1).Optional C Binding Modifier(token:0x6F576A3).ptr.valueType (token:0x6F576A6)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -41166,7 +41180,7 @@ $LN1@vector:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72276A1).Optional C Binding Modifier(token:0x72276A3).ptr.valueType (token:0x72276A6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F576A1).Optional C Binding Modifier(token:0x6F576A3).ptr.valueType (token:0x6F576A6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -41257,7 +41271,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D9221).Optional C Binding Modifier(token:0x72D9223).ptr.valueType (token:0x72D9226)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7009221).Optional C Binding Modifier(token:0x7009223).ptr.valueType (token:0x7009226)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -41361,7 +41375,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D0CC1).Optional C Binding Modifier(token:0x72D0CC3).ptr.valueType (token:0x72D0CC6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7000CC1).Optional C Binding Modifier(token:0x7000CC3).ptr.valueType (token:0x7000CC6)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -41465,7 +41479,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71AE6B9).Optional C Binding Modifier(token:0x71AE6BB).ptr.valueType (token:0x71AE6BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EDE6B9).Optional C Binding Modifier(token:0x6EDE6BB).ptr.valueType (token:0x6EDE6BE)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -41544,7 +41558,7 @@ $LN1@vector:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71AE6B9).Optional C Binding Modifier(token:0x71AE6BB).ptr.valueType (token:0x71AE6BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EDE6B9).Optional C Binding Modifier(token:0x6EDE6BB).ptr.valueType (token:0x6EDE6BE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -41591,7 +41605,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D56C1).Optional C Binding Modifier(token:0x72D56C3).ptr.valueType (token:0x72D56C6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x70056C1).Optional C Binding Modifier(token:0x70056C3).ptr.valueType (token:0x70056C6)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -41670,7 +41684,7 @@ $LN1@vector:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D56C1).Optional C Binding Modifier(token:0x72D56C3).ptr.valueType (token:0x72D56C6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x70056C1).Optional C Binding Modifier(token:0x70056C3).ptr.valueType (token:0x70056C6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -41726,7 +41740,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8C02322).Optional C Binding Modifier(token:0x8C02324).i1
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x87F2322).Optional C Binding Modifier(token:0x87F2324).i1
 
 ;	.proc.beg
 
@@ -41804,7 +41818,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x721B0D1).Optional C Binding Modifier(token:0x721B0D3).ptr.valueType (token:0x721B0D6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F4B0D1).Optional C Binding Modifier(token:0x6F4B0D3).ptr.valueType (token:0x6F4B0D6)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -41883,7 +41897,7 @@ $LN1@vector:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x721B0D1).Optional C Binding Modifier(token:0x721B0D3).ptr.valueType (token:0x721B0D6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F4B0D1).Optional C Binding Modifier(token:0x6F4B0D3).ptr.valueType (token:0x6F4B0D6)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -41976,7 +41990,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71AB391).Optional C Binding Modifier(token:0x71AB393).ptr.valueType (token:0x71AB396)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EDB391).Optional C Binding Modifier(token:0x6EDB393).ptr.valueType (token:0x6EDB396)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -42080,7 +42094,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72D14F9).Optional C Binding Modifier(token:0x72D14FB).ptr.valueType (token:0x72D14FE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x70014F9).Optional C Binding Modifier(token:0x70014FB).ptr.valueType (token:0x70014FE)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -42184,7 +42198,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71747B9).Optional C Binding Modifier(token:0x71747BB).ptr.valueType (token:0x71747BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA47B9).Optional C Binding Modifier(token:0x6EA47BB).ptr.valueType (token:0x6EA47BE)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -42263,7 +42277,7 @@ $LN1@vector:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71747B9).Optional C Binding Modifier(token:0x71747BB).ptr.valueType (token:0x71747BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA47B9).Optional C Binding Modifier(token:0x6EA47BB).ptr.valueType (token:0x6EA47BE)
 
 ;	.proc.beg
 	ldarg.0				; this$
@@ -45681,7 +45695,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6E0DB99).ptr.Optional C Binding Modifier(token:0x6E0DB9C).valueType (token:0x6E0DB9E)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6B3DB99).ptr.Optional C Binding Modifier(token:0x6B3DB9C).valueType (token:0x6B3DB9E)
 
 ;	.proc.beg
 
@@ -45732,7 +45746,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7172201).Optional C Binding Modifier(token:0x7172203).ptr.valueType (token:0x7172206)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EA2201).Optional C Binding Modifier(token:0x6EA2203).ptr.valueType (token:0x6EA2206)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -46309,7 +46323,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6FE9C71).ptr.Optional C Binding Modifier(token:0x6FE9C74).valueType (token:0x6FE9C76)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6D19C71).ptr.Optional C Binding Modifier(token:0x6D19C74).valueType (token:0x6D19C76)
 
 ;	.proc.beg
 
@@ -46360,7 +46374,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72191B9).Optional C Binding Modifier(token:0x72191BB).ptr.valueType (token:0x72191BE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F491B9).Optional C Binding Modifier(token:0x6F491BB).ptr.valueType (token:0x6F491BE)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -46846,7 +46860,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x70B4821).ptr.Optional C Binding Modifier(token:0x70B4824).valueType (token:0x70B4826)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6DE4821).ptr.Optional C Binding Modifier(token:0x6DE4824).valueType (token:0x6DE4826)
 
 ;	.proc.beg
 
@@ -46897,7 +46911,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7252F41).Optional C Binding Modifier(token:0x7252F43).ptr.valueType (token:0x7252F46)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F82F41).Optional C Binding Modifier(token:0x6F82F43).ptr.valueType (token:0x6F82F46)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -47085,7 +47099,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x70AFD39).ptr.Optional C Binding Modifier(token:0x70AFD3C).valueType (token:0x70AFD3E)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6DDFD39).ptr.Optional C Binding Modifier(token:0x6DDFD3C).valueType (token:0x6DDFD3E)
 
 ;	.proc.beg
 
@@ -47136,7 +47150,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72A4859).Optional C Binding Modifier(token:0x72A485B).ptr.valueType (token:0x72A485E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FD4859).Optional C Binding Modifier(token:0x6FD485B).ptr.valueType (token:0x6FD485E)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -47324,7 +47338,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x709B1A9).ptr.Optional C Binding Modifier(token:0x709B1AC).valueType (token:0x709B1AE)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6DCB1A9).ptr.Optional C Binding Modifier(token:0x6DCB1AC).valueType (token:0x6DCB1AE)
 
 ;	.proc.beg
 
@@ -47375,7 +47389,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x717CFF1).Optional C Binding Modifier(token:0x717CFF3).ptr.valueType (token:0x717CFF6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EACFF1).Optional C Binding Modifier(token:0x6EACFF3).ptr.valueType (token:0x6EACFF6)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -47563,7 +47577,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8D66C51).ptr.Optional C Binding Modifier(token:0x8D66C54).valueType (token:0x8D66C56)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8956C51).ptr.Optional C Binding Modifier(token:0x8956C54).valueType (token:0x8956C56)
 
 ;	.proc.beg
 
@@ -47614,7 +47628,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72AA611).Optional C Binding Modifier(token:0x72AA613).ptr.valueType (token:0x72AA616)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FDA611).Optional C Binding Modifier(token:0x6FDA613).ptr.valueType (token:0x6FDA616)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -47802,7 +47816,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8D773C9).ptr.Optional C Binding Modifier(token:0x8D773CC).valueType (token:0x8D773CE)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x89673C9).ptr.Optional C Binding Modifier(token:0x89673CC).valueType (token:0x89673CE)
 
 ;	.proc.beg
 
@@ -47853,7 +47867,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7298679).Optional C Binding Modifier(token:0x729867B).ptr.valueType (token:0x729867E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FC8679).Optional C Binding Modifier(token:0x6FC867B).ptr.valueType (token:0x6FC867E)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -48041,7 +48055,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x7096699).ptr.Optional C Binding Modifier(token:0x709669C).valueType (token:0x709669E)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x6DC6699).ptr.Optional C Binding Modifier(token:0x6DC669C).valueType (token:0x6DC669E)
 
 ;	.proc.beg
 
@@ -48092,7 +48106,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7248001).Optional C Binding Modifier(token:0x7248003).ptr.valueType (token:0x7248006)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F78001).Optional C Binding Modifier(token:0x6F78003).ptr.valueType (token:0x6F78006)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -48280,7 +48294,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8D62711).ptr.Optional C Binding Modifier(token:0x8D62714).valueType (token:0x8D62716)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8952711).ptr.Optional C Binding Modifier(token:0x8952714).valueType (token:0x8952716)
 
 ;	.proc.beg
 
@@ -48331,7 +48345,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x721E829).Optional C Binding Modifier(token:0x721E82B).ptr.valueType (token:0x721E82E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F4E829).Optional C Binding Modifier(token:0x6F4E82B).ptr.valueType (token:0x6F4E82E)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -50825,8 +50839,8 @@ _TEXT	ENDS
 ; 0 handlers, each consisting of filtered handlers
 
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x77486DA)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x71A2032)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x74786DA)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x6ED2032)
 
 ;	.proc.beg
 
@@ -50898,8 +50912,8 @@ _TEXT	ENDS
 ; 0 handlers, each consisting of filtered handlers
 
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x77C1CBA)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x71A2032)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x74F1CBA)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x6ED2032)
 
 ;	.proc.beg
 
@@ -51016,8 +51030,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6E0A752).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6B3A752).void
 
 ;	.proc.beg
 
@@ -51122,8 +51136,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 
 ;	.proc.beg
 
@@ -51162,8 +51176,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"out$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x8C915F1).ptr.valueType (token:0x8C915F4)
+;	.formal.i8 0,"out$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.local.i8 0,"$T2" SIG: Optional C Binding Modifier(token:0x88815F1).ptr.valueType (token:0x88815F4)
 
 ;	.proc.beg
 
@@ -51224,7 +51238,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7194CE1).Optional C Binding Modifier(token:0x7194CE3).ptr.valueType (token:0x7194CE6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC4CE1).Optional C Binding Modifier(token:0x6EC4CE3).ptr.valueType (token:0x6EC4CE6)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -51486,7 +51500,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x71AD37A).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EDD37A).void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -51544,7 +51558,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -51596,7 +51610,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -51650,8 +51664,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6FE6A9A).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6D16A9A).void
 
 ;	.proc.beg
 
@@ -51754,8 +51768,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 
 ;	.proc.beg
 
@@ -51808,7 +51822,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EB3A9).Optional C Binding Modifier(token:0x71EB3AB).ptr.valueType (token:0x71EB3AE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1B3A9).Optional C Binding Modifier(token:0x6F1B3AB).ptr.valueType (token:0x6F1B3AE)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -52047,7 +52061,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x71AD37A).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EDD37A).void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -52105,7 +52119,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -52157,7 +52171,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -52211,8 +52225,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x70B16BA).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6DE16BA).void
 
 ;	.proc.beg
 
@@ -52315,8 +52329,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 
 ;	.proc.beg
 
@@ -52369,7 +52383,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x724F491).Optional C Binding Modifier(token:0x724F493).ptr.valueType (token:0x724F496)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F7F491).Optional C Binding Modifier(token:0x6F7F493).ptr.valueType (token:0x6F7F496)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -52562,7 +52576,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x71AD37A).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EDD37A).void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -52620,7 +52634,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -52672,7 +52686,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -52726,8 +52740,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x70ACBD2).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6DDCBD2).void
 
 ;	.proc.beg
 
@@ -52830,8 +52844,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 
 ;	.proc.beg
 
@@ -52884,7 +52898,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71EBCF9).Optional C Binding Modifier(token:0x71EBCFB).ptr.valueType (token:0x71EBCFE)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F1BCF9).Optional C Binding Modifier(token:0x6F1BCFB).ptr.valueType (token:0x6F1BCFE)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -53077,7 +53091,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x71AD37A).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EDD37A).void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -53135,7 +53149,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -53187,7 +53201,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -53241,8 +53255,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x7098032).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6DC8032).void
 
 ;	.proc.beg
 
@@ -53345,8 +53359,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 
 ;	.proc.beg
 
@@ -53399,7 +53413,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71B4091).Optional C Binding Modifier(token:0x71B4093).ptr.valueType (token:0x71B4096)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EE4091).Optional C Binding Modifier(token:0x6EE4093).ptr.valueType (token:0x6EE4096)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -53614,10 +53628,10 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x71AD37A).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EDD37A).void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7243972)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x77C1CBA)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6F73972)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x74F1CBA)
 
 ;	.proc.beg
 
@@ -53690,10 +53704,10 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x7243972)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x79E489A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6F73972)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x74F089A)
 
 ;	.proc.beg
 
@@ -53765,7 +53779,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -53825,8 +53839,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8D637F2).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x89537F2).void
 
 ;	.proc.beg
 
@@ -53931,8 +53945,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 
 ;	.proc.beg
 
@@ -53989,7 +54003,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x723B819).Optional C Binding Modifier(token:0x723B81B).ptr.valueType (token:0x723B81E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F6B819).Optional C Binding Modifier(token:0x6F6B81B).ptr.valueType (token:0x6F6B81E)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -54204,10 +54218,10 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x71AD37A).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EDD37A).void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x718BC2A)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x79E47BA)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6EBBC2A)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x74F07BA)
 
 ;	.proc.beg
 
@@ -54280,10 +54294,10 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x718BC2A)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x7745D9A)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6EBBC2A)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x7475D9A)
 
 ;	.proc.beg
 
@@ -54355,7 +54369,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -54415,8 +54429,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8D67DDA).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8957DDA).void
 
 ;	.proc.beg
 
@@ -54521,8 +54535,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 
 ;	.proc.beg
 
@@ -54579,7 +54593,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71FE429).Optional C Binding Modifier(token:0x71FE42B).ptr.valueType (token:0x71FE42E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F2E429).Optional C Binding Modifier(token:0x6F2E42B).ptr.valueType (token:0x6F2E42E)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -54772,7 +54786,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x71AD37A).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EDD37A).void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -54830,7 +54844,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -54882,7 +54896,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -54936,8 +54950,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x7093532).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x6DC3532).void
 
 ;	.proc.beg
 
@@ -55040,8 +55054,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 
 ;	.proc.beg
 
@@ -55094,7 +55108,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71E2861).Optional C Binding Modifier(token:0x71E2863).ptr.valueType (token:0x71E2866)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F12861).Optional C Binding Modifier(token:0x6F12863).ptr.valueType (token:0x6F12866)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -55244,7 +55258,7 @@ _TEXT	ENDS
 ; 0 handlers, each consisting of filtered handlers
 
 ;	.formal.i8 1,"x$" SIG: ptr.ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x721B2E2)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6F4B2E2)
 ;	.local.i8 1,"$T3" SIG: ptr.void
 
 ;	.proc.beg
@@ -55298,7 +55312,7 @@ $LN2@static_del:
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x72B64E1).Optional C Binding Modifier(token:0x72B64E3).ptr.valueType (token:0x72B64E6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6FE64E1).Optional C Binding Modifier(token:0x6FE64E3).ptr.valueType (token:0x6FE64E6)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -55360,10 +55374,10 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x71AD37A).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EDD37A).void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x721B2E2)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x721B2E2)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6F4B2E2)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x6F4B2E2)
 
 ;	.proc.beg
 
@@ -55441,10 +55455,10 @@ _TEXT	ENDS
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x721B2E2)
-;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x721B2E2)
+;	.local.i8 0,"$T2" SIG: ptr.valueType (token:0x6F4B2E2)
+;	.local.i8 1,"$T3" SIG: ptr.valueType (token:0x6F4B2E2)
 
 ;	.proc.beg
 
@@ -55521,7 +55535,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 ;	.formal.i8 2,"dest$" SIG: ptr.ptr.void
 
 ;	.proc.beg
@@ -55588,8 +55602,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8D5F4AA).void
+;	.formal.i8 1,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x894F4AA).void
 
 ;	.proc.beg
 
@@ -55694,8 +55708,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x7254EB9).ptr.valueType (token:0x7254EBC)
-;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x718FFB2).Optional C Binding Modifier(token:0x718FFB4).ptr.void
+;	.formal.i8 1,"out$" SIG: Optional C Binding Modifier(token:0x6F84EB9).ptr.valueType (token:0x6F84EBC)
+;	.formal.i8 2,"src$" SIG: ptr.Optional C Binding Modifier(token:0x6EBFFB2).Optional C Binding Modifier(token:0x6EBFFB4).ptr.void
 
 ;	.proc.beg
 
@@ -55738,8 +55752,8 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71909E9).Optional C Binding Modifier(token:0x71909EB).ptr.Optional C Binding Modifier(token:0x71909EE).valueType (token:0x71909F0)
-;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8E1937A).Optional C Binding Modifier(token:0x8E1937C).i1
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC09E9).Optional C Binding Modifier(token:0x6EC09EB).ptr.Optional C Binding Modifier(token:0x6EC09EE).valueType (token:0x6EC09F0)
+;	.local.i8 0,"$T2" SIG: ptr.Optional C Binding Modifier(token:0x8A0937A).Optional C Binding Modifier(token:0x8A0937C).i1
 
 ;	.proc.beg
 
@@ -55801,7 +55815,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x7247D79).Optional C Binding Modifier(token:0x7247D7B).ptr.valueType (token:0x7247D7E)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6F77D79).Optional C Binding Modifier(token:0x6F77D7B).ptr.valueType (token:0x6F77D7E)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -57873,7 +57887,7 @@ _TEXT	ENDS
 ; Exception Information:
 ; 0 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71906F1).Optional C Binding Modifier(token:0x71906F3).ptr.valueType (token:0x71906F6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC06F1).Optional C Binding Modifier(token:0x6EC06F3).ptr.valueType (token:0x6EC06F6)
 ;	.formal.u4 1,"__flags$" SIG: u4
 ;	.local.i8 0,"$T2" SIG: ptr.void
 
@@ -57953,7 +57967,7 @@ $LN1@vector:
 ; Exception Information:
 ; 1 handlers, each consisting of filtered handlers
 
-;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x71906F1).Optional C Binding Modifier(token:0x71906F3).ptr.valueType (token:0x71906F6)
+;	.formal.i8 0,"this$" SIG: Optional C Binding Modifier(token:0x6EC06F1).Optional C Binding Modifier(token:0x6EC06F3).ptr.valueType (token:0x6EC06F6)
 
 ;	.proc.beg
 
