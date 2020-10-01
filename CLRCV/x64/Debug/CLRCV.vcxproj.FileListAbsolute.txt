@@ -1,4 +1,0 @@
-C:\Users\César Mosqueira\source\repos\CLRCV\CLRCV\x64\Debug\CLRCV.vcxprojAssemblyReference.cache
-C:\Users\César Mosqueira\source\repos\CLRCV\CLRCV\x64\Debug\CLRCV.Display.resources
-C:\Users\César Mosqueira\source\repos\CLRCV\CLRCV\x64\Debug\CLRCV.DisplayHistogram.resources
-C:\Users\César Mosqueira\source\repos\CLRCV\CLRCV\x64\Debug\CLRCV.vcxproj.GenerateResource.cache
