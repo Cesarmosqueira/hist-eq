@@ -1,5 +1,6 @@
 #pragma once
 #include<vector>
+
 namespace CLRCV {
 
 	using namespace System;
@@ -21,8 +22,18 @@ namespace CLRCV {
 			//
 			//TODO: Add the constructor code here
 			//
+			//rgb_datapoints = nullptr;
 			datapoints = new std::vector<int>(_datapoints->begin(), _datapoints->end());
 		}
+		//DisplayHistogram(std::vector<vec3>* _datapoints)
+		//{
+		//	InitializeComponent();
+		//	//
+		//	//TODO: Add the constructor code here
+		//	//
+		//	datapoints = nullptr;
+		//	rgb_datapoints = new std::vector<vec3>(_datapoints->begin(), _datapoints->end());
+		//}
 
 	protected:
 		/// <summary>
@@ -38,6 +49,7 @@ namespace CLRCV {
 		}
 	private: System::Windows::Forms::DataVisualization::Charting::Chart^ mainchart;
 	protected: std::vector<int>* datapoints;
+	//protected: std::vector<vec3>* rgb_datapoints;
 	private: System::Windows::Forms::GroupBox^ groupBox2;
 	protected:
 

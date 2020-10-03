@@ -20,10 +20,12 @@ namespace CLRCV {
 		Display(void)
 		{
 			prev_hist = res_hist = nullptr;
+			prev_rgb_hist = res_rgb_hist = nullptr;
 			InitializeComponent();
 			//
 			//TODO: Add the constructor code here
 			//
+			times_pressed = 0;
 		}
 
 	protected:
@@ -40,6 +42,8 @@ namespace CLRCV {
 	private: System::Windows::Forms::Panel^ dstPanel;
 	protected:
 	private: std::vector<int>* prev_hist, *res_hist;
+	private: std::vector<vec3>* prev_rgb_hist;
+	private: std::vector<vec3>* res_rgb_hist;
 	private: System::Windows::Forms::GroupBox^ Result;
 	private: System::Windows::Forms::GroupBox^ Preview;
 	private: System::Windows::Forms::Panel^ srcPanel;
@@ -56,7 +60,8 @@ namespace CLRCV {
 	private: System::Windows::Forms::Button^ hist_prev;
 	private: System::Windows::Forms::Button^ button1;
 	private: System::Windows::Forms::GroupBox^ groupBox2;
-
+	private: System::Drawing::Bitmap^ dstBoxbmp;
+	private: int times_pressed;
 
 	protected:
 
@@ -81,15 +86,15 @@ namespace CLRCV {
 			this->srcPanel = (gcnew System::Windows::Forms::Panel());
 			this->hist_prev = (gcnew System::Windows::Forms::Button());
 			this->groupBox1 = (gcnew System::Windows::Forms::GroupBox());
+			this->button1 = (gcnew System::Windows::Forms::Button());
 			this->label2 = (gcnew System::Windows::Forms::Label());
 			this->examinate = (gcnew System::Windows::Forms::Button());
 			this->label1 = (gcnew System::Windows::Forms::Label());
 			this->image_path = (gcnew System::Windows::Forms::TextBox());
 			this->configsBX = (gcnew System::Windows::Forms::ComboBox());
 			this->processBtn = (gcnew System::Windows::Forms::Button());
-			this->dialogFile = (gcnew System::Windows::Forms::OpenFileDialog());
-			this->button1 = (gcnew System::Windows::Forms::Button());
 			this->groupBox2 = (gcnew System::Windows::Forms::GroupBox());
+			this->dialogFile = (gcnew System::Windows::Forms::OpenFileDialog());
 			this->dstPanel->SuspendLayout();
 			this->Result->SuspendLayout();
 			this->Preview->SuspendLayout();
@@ -170,6 +175,16 @@ namespace CLRCV {
 			this->groupBox1->TabStop = false;
 			this->groupBox1->Text = L"Tools";
 			// 
+			// button1
+			// 
+			this->button1->Location = System::Drawing::Point(15, 194);
+			this->button1->Name = L"button1";
+			this->button1->Size = System::Drawing::Size(75, 23);
+			this->button1->TabIndex = 6;
+			this->button1->Text = L"RGB";
+			this->button1->UseVisualStyleBackColor = true;
+			this->button1->Click += gcnew System::EventHandler(this, &Display::button1_Click);
+			// 
 			// label2
 			// 
 			this->label2->AutoSize = true;
@@ -226,19 +241,6 @@ namespace CLRCV {
 			this->processBtn->UseVisualStyleBackColor = true;
 			this->processBtn->Click += gcnew System::EventHandler(this, &Display::processBtn_Click);
 			// 
-			// dialogFile
-			// 
-			this->dialogFile->InitialDirectory = L"$(ProjectDir)img";
-			// 
-			// button1
-			// 
-			this->button1->Location = System::Drawing::Point(15, 194);
-			this->button1->Name = L"button1";
-			this->button1->Size = System::Drawing::Size(75, 23);
-			this->button1->TabIndex = 6;
-			this->button1->Text = L"RGB";
-			this->button1->UseVisualStyleBackColor = true;
-			// 
 			// groupBox2
 			// 
 			this->groupBox2->Location = System::Drawing::Point(6, 168);
@@ -247,6 +249,10 @@ namespace CLRCV {
 			this->groupBox2->TabIndex = 7;
 			this->groupBox2->TabStop = false;
 			this->groupBox2->Text = L"Process";
+			// 
+			// dialogFile
+			// 
+			this->dialogFile->InitialDirectory = L"$(ProjectDir)img";
 			// 
 			// Display
 			// 
@@ -285,11 +291,20 @@ private: System::Void Display_Load(System::Object^ sender, System::EventArgs^ e)
 private: System::Void processBtn_Click(System::Object^ sender, System::EventArgs^ e) {
 	prev_hist = nullptr;
 	res_hist = nullptr;
+	srcPanel->CreateGraphics()->Clear(srcPanel->BackColor);
+	dstPanel->CreateGraphics()->Clear(dstPanel->BackColor);
 	if (configsBX->SelectedIndex == 0) { //Equalize
+		times_pressed++;
 		srcPanel->CreateGraphics()->DrawImage(gcnew Bitmap(image_path->Text), srcPanel->ClientRectangle);
-		histEQ(image_path->Text, prev_hist, res_hist);
-        dstPanel->CreateGraphics()->DrawImage(gcnew Bitmap(L"img\\output1.jpg"), dstPanel->ClientRectangle);
+		histEQ(image_path->Text, prev_hist, res_hist, times_pressed);
+		string out = "img\\outputs\\output";
+		out += times_pressed+ 48;
+		out.append(".jpg");
+		dstBoxbmp = gcnew Bitmap(gcnew System::String(out.c_str()));
+        dstPanel->CreateGraphics()->DrawImage(dstBoxbmp, dstPanel->ClientRectangle);
 	}
+
+	dstBoxbmp = nullptr;
 }
 private: System::Void hist_prev_Click(System::Object^ sender, System::EventArgs^ e) {
 	if (prev_hist) {
@@ -302,6 +317,29 @@ private: System::Void hist_res_Click(System::Object^ sender, System::EventArgs^ 
 		DisplayHistogram^ f = gcnew DisplayHistogram(res_hist);
 		f->ShowDialog();
 	}
+}
+private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
+	prev_hist = nullptr;
+	res_hist = nullptr;
+	prev_rgb_hist = nullptr;
+	res_rgb_hist = nullptr;
+	srcPanel->CreateGraphics()->Clear(srcPanel->BackColor);
+	dstPanel->CreateGraphics()->Clear(dstPanel->BackColor);
+	if (configsBX->SelectedIndex == 0) { //Equalize
+		times_pressed++;
+		srcPanel->CreateGraphics()->DrawImage(gcnew Bitmap(image_path->Text), srcPanel->ClientRectangle);
+		msclr::interop::marshal_context context;
+		string s = context.marshal_as<std::string>(image_path->Text);
+		//get_rgb_histograms(s, prev_rgb_hist);
+		equalizeIntensity(imread(s), times_pressed);
+		string out = "img\\outputs\\output";
+		out += times_pressed + 48;
+		out.append(".jpg");
+		dstBoxbmp = gcnew Bitmap(gcnew System::String(out.c_str()));
+		dstPanel->CreateGraphics()->DrawImage(dstBoxbmp, dstPanel->ClientRectangle);
+	}
+	dstBoxbmp = nullptr;
+	
 }
 };
 }

@@ -62,11 +62,66 @@ void eq_histogram(Mat src, Mat& dst, std::vector<int>*% update_hist_p, std::vect
 	update_hist_r = new vector<int>(new_histogram); //
 }
 
-void histEQ(System::String^ path, std::vector<int>*% update_hist_p, std::vector<int>*% update_hist_r) {
+void histEQ(System::String^ path, std::vector<int>*% update_hist_p, std::vector<int>*% update_hist_r, int times) {
 	cv::Mat img, src;
 	msclr::interop::marshal_context context;
 	src = imread(context.marshal_as<std::string>(path));
 	eq_histogram(src, img, update_hist_p, update_hist_r);
+	cout << "GAGAGAGA";
 	equalizeHist(imread(context.marshal_as<std::string>(path), 0), img);
-	imwrite("img\\output1.jpg", img);
+	string out = "img\\outputs\\output";
+	out += times + 48;
+	out.append(".jpg");
+	imwrite(out, img);
+}
+
+struct vec3 {
+	int r, g, b;
+	vec3(const int&r, const int&g, const int% b) {
+		this->r = r;
+		this->g = g;
+		this->b = b;
+	}
+	void addR() { r++; }
+	void addG() { g++; }
+	void addB() { b++; }
+};
+
+void get_rgb_histograms(const std::string& path, std::vector<vec3>*% to_update) {
+	to_update = nullptr;
+	Mat original = imread(path);
+	std::vector<vec3> hist_org(256, vec3(0,0,0));
+	for (int i = 0; i < original.rows; i++) {
+		for (int j = 0; j < original.cols; j++) {
+			hist_org[original.at<Vec3f>(j,i)[0]].addR(); // R
+			hist_org[original.at<Vec3f>(j,i)[1]].addG(); // G
+			hist_org[original.at<Vec3f>(j,i)[2]].addB(); // B
+		}
+	}
+	to_update = new vector<vec3>(hist_org);
+}
+
+void equalizeIntensity(const Mat& inputImage, int times)
+{
+	if (inputImage.channels() >= 3)
+	{
+		Mat ycrcb;
+
+		cvtColor(inputImage, ycrcb, CV_BGR2YCrCb);
+
+		vector<Mat> channels;
+		split(ycrcb, channels);
+
+		equalizeHist(channels[0], channels[0]);
+
+		Mat result;
+		merge(channels, ycrcb);
+
+		cvtColor(ycrcb, result, CV_YCrCb2BGR);
+		string out = "img\\outputs\\output";
+		out += times + 48;
+		out.append(".jpg");
+		imwrite(out, ycrcb);
+	}
+	
 }
