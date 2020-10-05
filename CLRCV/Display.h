@@ -376,8 +376,8 @@ private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e
 		srcPanel->CreateGraphics()->DrawImage(gcnew Bitmap(image_path->Text), srcPanel->ClientRectangle);
 		msclr::interop::marshal_context context;
 		string s = context.marshal_as<std::string>(image_path->Text);
-		delete[] rgb_prev_hist;
-		rgb_prev_hist = get_rgb_histograms(s);
+		//delete[] rgb_prev_hist;
+		//rgb_prev_hist = get_rgb_histograms(s);
 		/*expand*/
 
 		string out = "img\\outputs\\output";
