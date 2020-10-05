@@ -2,7 +2,7 @@
 #include<vector>
 
 namespace CLRCV {
-
+	using namespace std;
 	using namespace System;
 	using namespace System::ComponentModel;
 	using namespace System::Collections;
@@ -25,15 +25,17 @@ namespace CLRCV {
 			//rgb_datapoints = nullptr;
 			datapoints = new std::vector<int>(_datapoints->begin(), _datapoints->end());
 		}
-		//DisplayHistogram(std::vector<vec3>* _datapoints)
-		//{
-		//	InitializeComponent();
-		//	//
-		//	//TODO: Add the constructor code here
-		//	//
-		//	datapoints = nullptr;
-		//	rgb_datapoints = new std::vector<vec3>(_datapoints->begin(), _datapoints->end());
-		//}
+		DisplayHistogram(std::vector<int> R, std::vector<int> G, std::vector<int> B)
+		{
+			InitializeComponent();
+			//
+			//TODO: Add the constructor code here
+			//
+			datapoints = nullptr;
+			this->R = new vector<int>(R);
+			this->G = new vector<int>(G);
+			this->B = new vector<int>(B);
+		}
 
 	protected:
 		/// <summary>
@@ -49,7 +51,7 @@ namespace CLRCV {
 		}
 	private: System::Windows::Forms::DataVisualization::Charting::Chart^ mainchart;
 	protected: std::vector<int>* datapoints;
-	//protected: std::vector<vec3>* rgb_datapoints;
+	protected: std::vector<int> *R, *G, *B;
 	private: System::Windows::Forms::GroupBox^ groupBox2;
 	protected:
 
@@ -111,26 +113,75 @@ namespace CLRCV {
 	private: System::Void DisplayHistogram_Load(System::Object^ sender, System::EventArgs^ e) {
 		System::Windows::Forms::DataVisualization::Charting::ChartArea^ chart_area = (gcnew System::Windows::Forms::DataVisualization::Charting::ChartArea());
 		System::Windows::Forms::DataVisualization::Charting::Legend^ legend = (gcnew System::Windows::Forms::DataVisualization::Charting::Legend());
-		System::Windows::Forms::DataVisualization::Charting::Series^ histogram = (gcnew System::Windows::Forms::DataVisualization::Charting::Series());
-		this->mainchart->ChartAreas->Add(chart_area);
-		legend->Name = L"Legend1";
-		this->mainchart->Legends->Add(legend);
-		histogram->ChartArea = L"ChartArea1";
-		histogram->IsXValueIndexed = true;
-		histogram->Legend = L"Legend1";
-		histogram->Name = L"Intensity";
-		histogram->XValueType = System::Windows::Forms::DataVisualization::Charting::ChartValueType::UInt64;
-		histogram->YValueType = System::Windows::Forms::DataVisualization::Charting::ChartValueType::UInt64;
+		/*Series*/
+		System::Windows::Forms::DataVisualization::Charting::Series^ histogram;
+		System::Windows::Forms::DataVisualization::Charting::Series^ Erre, ^Ge, ^Be;
+		if (this->datapoints) {
+			histogram = (gcnew System::Windows::Forms::DataVisualization::Charting::Series());
+			this->mainchart->ChartAreas->Add(chart_area);
+			legend->Name = L"Legend1";
+			this->mainchart->Legends->Add(legend);
+			histogram->ChartArea = L"ChartArea1";
+			histogram->IsXValueIndexed = true;
+			histogram->Legend = L"Legend1";
+			histogram->Name = L"Intensity";
+			histogram->XValueType = System::Windows::Forms::DataVisualization::Charting::ChartValueType::UInt64;
+			histogram->YValueType = System::Windows::Forms::DataVisualization::Charting::ChartValueType::UInt64;
+			System::Windows::Forms::DataVisualization::Charting::DataPoint^ dp;
 
-
-		System::Windows::Forms::DataVisualization::Charting::DataPoint^ dp;
-
-		for (int i = 0; i < datapoints->size(); i++) {
-			dp = gcnew System::Windows::Forms::DataVisualization::Charting::DataPoint(i, datapoints->at(i));
-			histogram->Points->Add(dp);
+			for (int i = 0; i < datapoints->size(); i++) {
+				dp = gcnew System::Windows::Forms::DataVisualization::Charting::DataPoint(i, datapoints->at(i));
+				histogram->Points->Add(dp);
+			}
+			delete dp;
+			this->mainchart->Series->Add(histogram);
 		}
-		delete dp;
-		this->mainchart->Series->Add(histogram);
+		else {
+			Erre = (gcnew System::Windows::Forms::DataVisualization::Charting::Series());
+			Ge = (gcnew System::Windows::Forms::DataVisualization::Charting::Series());
+			Be = (gcnew System::Windows::Forms::DataVisualization::Charting::Series());
+
+			this->mainchart->ChartAreas->Add(chart_area);
+			legend->Name = L"Legend1";
+			this->mainchart->Legends->Add(legend);
+			Erre->ChartArea = L"ChartArea1";
+			Erre->IsXValueIndexed = true;
+			Erre->Legend = L"Legend1";
+			Erre->Name = L"Red Intensity";
+			Erre->XValueType = System::Windows::Forms::DataVisualization::Charting::ChartValueType::UInt64;
+			Erre->YValueType = System::Windows::Forms::DataVisualization::Charting::ChartValueType::UInt64;
+
+			Ge->ChartArea = L"ChartArea1";
+			Ge->IsXValueIndexed = true;
+			Ge->Legend = L"Legend1";
+			Ge->Name = L"Green Intensity";
+			Ge->XValueType = System::Windows::Forms::DataVisualization::Charting::ChartValueType::UInt64;
+			Ge->YValueType = System::Windows::Forms::DataVisualization::Charting::ChartValueType::UInt64;
+
+			Be->ChartArea = L"ChartArea1";
+			Be->IsXValueIndexed = true;
+			Be->Legend = L"Legend1";
+			Be->Name = L"Blue Intensity";
+			Be->XValueType = System::Windows::Forms::DataVisualization::Charting::ChartValueType::UInt64;
+			Be->YValueType = System::Windows::Forms::DataVisualization::Charting::ChartValueType::UInt64;
+
+			System::Windows::Forms::DataVisualization::Charting::DataPoint^ dp;
+			System::Windows::Forms::DataVisualization::Charting::DataPoint ^dpR, ^dpG, ^dpB;
+			for (int i = 0; i < R->size(); i++) {
+				dpR = gcnew System::Windows::Forms::DataVisualization::Charting::DataPoint(i, R->at(i));
+				dpG = gcnew System::Windows::Forms::DataVisualization::Charting::DataPoint(i, G->at(i));
+				dpB = gcnew System::Windows::Forms::DataVisualization::Charting::DataPoint(i, B->at(i));
+				Erre->Points->Add(dpR);
+				Ge->Points->Add(dpG);
+				Be->Points->Add(dpB);
+			}
+			Erre->Color = Color::Red;
+			Ge->Color = Color::Green;
+			Be->Color = Color::Blue;
+			this->mainchart->Series->Add(Erre);
+			this->mainchart->Series->Add(Ge);
+			this->mainchart->Series->Add(Be);
+		}
 	}
 	};
 }

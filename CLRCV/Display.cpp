@@ -1,8 +1,10 @@
 #include "Display.h"
+#include <vector>
 using namespace CLRCV;
 using namespace System::Threading;
 void threadStart()
 {
+
     Application::Run(gcnew Display());
 }
 [System::STAThread] // This will not work!

@@ -20,7 +20,8 @@ namespace CLRCV {
 		Display(void)
 		{
 			prev_hist = res_hist = nullptr;
-			prev_rgb_hist = res_rgb_hist = nullptr;
+			rgb_prev_hist = new vector<int>[3];
+			rgb_res_hist = new vector<int>[3];
 			InitializeComponent();
 			//
 			//TODO: Add the constructor code here
@@ -34,6 +35,8 @@ namespace CLRCV {
 		/// </summary>
 		~Display()
 		{
+			delete prev_hist, res_hist;
+			delete[] rgb_prev_hist, rgb_res_hist;
 			if (components)
 			{
 				delete components;
@@ -42,8 +45,7 @@ namespace CLRCV {
 	private: System::Windows::Forms::Panel^ dstPanel;
 	protected:
 	private: std::vector<int>* prev_hist, *res_hist;
-	private: std::vector<vec3>* prev_rgb_hist;
-	private: std::vector<vec3>* res_rgb_hist;
+	private: std::vector<int>* rgb_prev_hist, * rgb_res_hist;
 	private: System::Windows::Forms::GroupBox^ Result;
 	private: System::Windows::Forms::GroupBox^ Preview;
 	private: System::Windows::Forms::Panel^ srcPanel;
@@ -294,6 +296,7 @@ private: System::Void processBtn_Click(System::Object^ sender, System::EventArgs
 	srcPanel->CreateGraphics()->Clear(srcPanel->BackColor);
 	dstPanel->CreateGraphics()->Clear(dstPanel->BackColor);
 	if (configsBX->SelectedIndex == 0) { //Equalize
+		rgb_prev_hist = rgb_res_hist = nullptr;
 		times_pressed++;
 		srcPanel->CreateGraphics()->DrawImage(gcnew Bitmap(image_path->Text), srcPanel->ClientRectangle);
 		histEQ(image_path->Text, prev_hist, res_hist, times_pressed);
@@ -303,12 +306,33 @@ private: System::Void processBtn_Click(System::Object^ sender, System::EventArgs
 		dstBoxbmp = gcnew Bitmap(gcnew System::String(out.c_str()));
         dstPanel->CreateGraphics()->DrawImage(dstBoxbmp, dstPanel->ClientRectangle);
 	}
+	else if (configsBX->SelectedIndex == 1) {
+		rgb_prev_hist = rgb_res_hist = nullptr;
+		times_pressed++;
+		srcPanel->CreateGraphics()->DrawImage(gcnew Bitmap(image_path->Text), srcPanel->ClientRectangle);
+		msclr::interop::marshal_context context;
+		string s = context.marshal_as<std::string>(image_path->Text);
+		/*load histogram prev*/
+		prev_hist = new vector<int>(get_grayscale_histogram(s));
+		
+		/*expand*/
+		res_hist = new vector<int>(expand_on_path(s, *prev_hist, times_pressed));
 
-	dstBoxbmp = nullptr;
+		string out = "img\\outputs\\output";
+		out += times_pressed + 48;
+		out.append(".jpg");
+		dstBoxbmp = gcnew Bitmap(gcnew System::String(out.c_str()));
+		dstPanel->CreateGraphics()->DrawImage(dstBoxbmp, dstPanel->ClientRectangle);
+		/*load out histogram*/
+	}
 }
 private: System::Void hist_prev_Click(System::Object^ sender, System::EventArgs^ e) {
 	if (prev_hist) {
 		DisplayHistogram^ f = gcnew DisplayHistogram(prev_hist);
+		f->ShowDialog();
+	}
+	else if (rgb_prev_hist) {
+		DisplayHistogram^ f = gcnew DisplayHistogram(rgb_prev_hist[0], rgb_prev_hist[1], rgb_prev_hist[1]);
 		f->ShowDialog();
 	}
 }
@@ -317,29 +341,52 @@ private: System::Void hist_res_Click(System::Object^ sender, System::EventArgs^ 
 		DisplayHistogram^ f = gcnew DisplayHistogram(res_hist);
 		f->ShowDialog();
 	}
+	else if (rgb_res_hist) {
+		DisplayHistogram^ f = gcnew DisplayHistogram(rgb_res_hist[0], rgb_res_hist[1], rgb_res_hist[1]);
+		f->ShowDialog();
+	}
 }
 private: System::Void button1_Click(System::Object^ sender, System::EventArgs^ e) {
-	prev_hist = nullptr;
-	res_hist = nullptr;
-	prev_rgb_hist = nullptr;
-	res_rgb_hist = nullptr;
+	rgb_prev_hist[0].clear(); // R
+	rgb_prev_hist[1].clear(); // G
+	rgb_prev_hist[2].clear(); // B
 	srcPanel->CreateGraphics()->Clear(srcPanel->BackColor);
 	dstPanel->CreateGraphics()->Clear(dstPanel->BackColor);
 	if (configsBX->SelectedIndex == 0) { //Equalize
+		prev_hist = nullptr;
+		res_hist = nullptr;
 		times_pressed++;
 		srcPanel->CreateGraphics()->DrawImage(gcnew Bitmap(image_path->Text), srcPanel->ClientRectangle);
 		msclr::interop::marshal_context context;
 		string s = context.marshal_as<std::string>(image_path->Text);
-		//get_rgb_histograms(s, prev_rgb_hist);
+		delete[] rgb_prev_hist;
+		rgb_prev_hist = get_rgb_histograms(s);
 		equalizeIntensity(imread(s), times_pressed);
 		string out = "img\\outputs\\output";
 		out += times_pressed + 48;
 		out.append(".jpg");
 		dstBoxbmp = gcnew Bitmap(gcnew System::String(out.c_str()));
 		dstPanel->CreateGraphics()->DrawImage(dstBoxbmp, dstPanel->ClientRectangle);
+		rgb_res_hist = get_rgb_histograms(out);
 	}
-	dstBoxbmp = nullptr;
-	
+	else if (configsBX->SelectedIndex == 1) { //Equalize
+		prev_hist = nullptr;
+		res_hist = nullptr;
+		times_pressed++;
+		srcPanel->CreateGraphics()->DrawImage(gcnew Bitmap(image_path->Text), srcPanel->ClientRectangle);
+		msclr::interop::marshal_context context;
+		string s = context.marshal_as<std::string>(image_path->Text);
+		delete[] rgb_prev_hist;
+		rgb_prev_hist = get_rgb_histograms(s);
+		/*expand*/
+
+		string out = "img\\outputs\\output";
+		out += times_pressed + 48;
+		out.append(".jpg");
+		dstBoxbmp = gcnew Bitmap(gcnew System::String(out.c_str()));
+		dstPanel->CreateGraphics()->DrawImage(dstBoxbmp, dstPanel->ClientRectangle);
+		rgb_res_hist = get_rgb_histograms(out);
+	}
 }
 };
 }

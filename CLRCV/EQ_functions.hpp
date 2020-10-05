@@ -43,8 +43,7 @@ std::vector<int> make_histogram(const std::vector<float>& new_positions,
 	return histogram;
 }	
 Mat transform_mat(cv::Mat dst, const vector<int>& new_hist) {
-	int width = dst.cols, height = dst.rows;
-	cout << "Equalized:\n";
+	int width = dst.cols, height = dst.rows; 
 	int a = 0;
 	for (int y = 0; y < height; y++) {
 		for (int x = 0; x < width; x++) {
@@ -67,7 +66,6 @@ void histEQ(System::String^ path, std::vector<int>*% update_hist_p, std::vector<
 	msclr::interop::marshal_context context;
 	src = imread(context.marshal_as<std::string>(path));
 	eq_histogram(src, img, update_hist_p, update_hist_r);
-	cout << "GAGAGAGA";
 	equalizeHist(imread(context.marshal_as<std::string>(path), 0), img);
 	string out = "img\\outputs\\output";
 	out += times + 48;
@@ -87,18 +85,75 @@ struct vec3 {
 	void addB() { b++; }
 };
 
-void get_rgb_histograms(const std::string& path, std::vector<vec3>*% to_update) {
-	to_update = nullptr;
+vector<int>* get_rgb_histograms(const std::string& path) {
+	vector<int>* hist = new vector<int>[3];
+	hist[0] = vector<int>(256, 0);
+	hist[1] = vector<int>(256, 0);
+	hist[2] = vector<int>(256, 0);
 	Mat original = imread(path);
-	std::vector<vec3> hist_org(256, vec3(0,0,0));
 	for (int i = 0; i < original.rows; i++) {
 		for (int j = 0; j < original.cols; j++) {
-			hist_org[original.at<Vec3f>(j,i)[0]].addR(); // R
-			hist_org[original.at<Vec3f>(j,i)[1]].addG(); // G
-			hist_org[original.at<Vec3f>(j,i)[2]].addB(); // B
+			hist[0].at(original.at<Vec3b>(i, j)[0]) += 1;
+			hist[1].at(original.at<Vec3b>(i, j)[1]) += 1;
+			hist[2].at(original.at<Vec3b>(i, j)[2]) += 1;
 		}
 	}
-	to_update = new vector<vec3>(hist_org);
+	return hist;
+}
+vector<int> expand_vect(vector<int> arr) {
+	int l = 1, r = 255;
+	int min = 1, max = 255;
+	for (int i = 0; i < arr.size(); i++) {
+		if (arr[i] != 0) {
+			l = i;
+			break;
+		}
+	}
+	for (int i = arr.size() - 1; 0 <= i; i--) {
+		if (arr[i] != 0) {
+			r = i;
+			break;
+		}
+	}
+	double weight = (float)254 / 63;
+	int bias = 1 - (weight * l);
+
+	/*map new vector*/
+	vector<int> pos(256,0);
+	for (int i = 0; i < arr.size(); i++) {
+		pos[i] = (int)(weight * arr[i]) + (int)bias;
+		if (pos[i] < 0) pos[i] = 0;
+		if (pos[i] > 255) pos[i] = 255;
+		cout << "(" << weight << "*" << arr[i] << ") + " << bias << " = " << pos[i] << "\n";
+	}
+	vector<int> expanded(256, 0);
+	for (int i = 0; i < arr.size(); i++) {
+		if (pos[i] < 0) pos[i] = 0;
+		if (pos[i] > 255) pos[i] = 255;
+		expanded[pos[i]] += arr[i];
+	}
+	return expanded;
+}
+vector<int> expand_on_path(const string& path, vector<int> histogram, int times) {
+	Mat img = imread(path);
+	vector<int> expanded_hist = expand_vect(histogram);
+	/*transform*/
+	string out = "img\\outputs\\output";
+	out += times + 48;
+	out.append(".jpg");
+	imwrite(out, img);
+	return expanded_hist;
+}
+
+vector<int> get_grayscale_histogram(const std::string& path) {
+	vector<int> hist(256, 0);
+	Mat original = imread(path);
+	for (int i = 0; i < original.rows; i++) {
+		for (int j = 0; j < original.cols; j++) {
+			hist[int(original.at<uchar>(i, j))]++;
+		}
+	}
+	return hist;
 }
 
 void equalizeIntensity(const Mat& inputImage, int times)
@@ -123,5 +178,6 @@ void equalizeIntensity(const Mat& inputImage, int times)
 		out.append(".jpg");
 		imwrite(out, ycrcb);
 	}
-	
 }
+
+
